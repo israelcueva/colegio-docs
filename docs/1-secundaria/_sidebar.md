@@ -6,7 +6,7 @@
 
 - 1 Bimestre
 
-  - [Unidad 1](./1-secundaria/unidad-1.md)
+  - [Unidad 1](1-secundaria/unidad-1.md)
   - [Unidad 2](1-secundaria/unidad-2.md)
 
 - 2 Bimestre 
