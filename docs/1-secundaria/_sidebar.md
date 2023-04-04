@@ -2,7 +2,7 @@
 
 - En esta sección
 
-    - [Inicio](1-secundaria/)
+    - [Inicio](1-secundaria/index)
 
 - 1 Bimestre
 
