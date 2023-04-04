@@ -1,8 +1,5 @@
-- [Página principal](/)
 
-- En esta sección
-
-    - [Inicio](1-secundaria/index)
+- [Inicio](1-secundaria/inicio)
 
 - 1 Bimestre
 
@@ -23,5 +20,7 @@
 
   - [Unidad 7](1-secundaria/unidad-7.md)
   - [Unidad 8](1-secundaria/unidad-8.md)
+
+- [Regresar a principal](/)
 
 
