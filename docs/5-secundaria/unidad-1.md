@@ -2,7 +2,7 @@
 
 ## 1BS01: Creando un sistema de facturación
 
-> **Fecha:** 06 al 10 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Busca un diseño que te agrade, replícalo en Excel, imprímelo y adjúntalo en tu folder.<br> **Archivo:** [facturaBase](/5-secundariaarchivos/Unidad1/FacturaDisenio.xlsx ':include :type=code')
+> **Fecha:** 06 al 10 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Busca un diseño que te agrade, replícalo en Excel, imprímelo y adjúntalo en tu folder.<br> **Archivo:** [facturaBase](https://github.com/israelcueva/colegio-docs/blob/a19ccbad37cba7b451be27cc8e5523964f9c076c/docs/5-secundaria/archivos/Unidad1/FacturaDisenio.xlsx ':include :type=code')
 
 En esta clase iniciaremos con nuestro sistema diseñando la factura en Excel, para que posteriormente podamos rellenarla.
 
@@ -18,7 +18,7 @@ En esta clase iniciaremos con nuestro sistema diseñando la factura en Excel, pa
 
 ## 1BS02: Creo las tablas de datos para el uso en la factura
 
-> **Fecha:** 13 al 17 de Marzo<br> **Programa:**Microsoft Excel 2015 en adelante<br> **Tarea:** Añade tu base de Clientes e Inventario a tu Proyecto. Puedes usar https://www.mockaroo.com/ para generar los 1000 clientes. Toma una captura y colocalo en una hoja de tu folder<br> **Video de referencia:** https://www.youtube.com/watch?v=edwnaFgMzQg
+> **Fecha:** 13 al 17 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Añade tu base de Clientes e Inventario a tu Proyecto. Puedes usar https://www.mockaroo.com/ para generar los 1000 clientes. Toma una captura y colocalo en una hoja de tu folder<br> **Video de referencia:** https://www.youtube.com/watch?v=edwnaFgMzQg
 
 En esta clase añadiremos las bases de datos de donde sacaremos la información para nuestra factura. Es decir, la hoja de los clientes y los productos.
 
@@ -28,13 +28,13 @@ Puedes mirar el dataset de ejemplo:
 
 ## 1BS03: Uso funciones avanzadas para el relleno de los datos
 
-> **Fecha:** 20 al 24 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Completar la factura que se viene diseñando / Realizar el proyecto hecho en clase o el del video<br> **Video de referencia:** https://www.youtube.com/watch?v=QY14Bm1MRcY
+> **Fecha:** 20 al 24 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Completar la factura que se viene diseñando / Realizar el proyecto hecho en clase o el del video<br> **Video de referencia:** https://www.youtube.com/watch?v=QY14Bm1MRcY<br> **Archivo Base:** [facturaBase](https://github.com/israelcueva/colegio-docs/blob/a19ccbad37cba7b451be27cc8e5523964f9c076c/docs/5-secundaria/archivos/Unidad1/FacturaDisenio3.xlsx ':include :type=code')
 
 Excel es una herramienta poderosa que ofrece diversas funciones para la organización y análisis de datos, como la generación de índices, la función de coincidir y la creación de columnas. La función de índice permite al usuario buscar valores específicos en una matriz de datos y recuperar el valor correspondiente en otra parte de la hoja de cálculo. Por otro lado, la función de coincidir permite encontrar la posición de una celda dentro de una fila o columna, lo que es útil para buscar valores en grandes conjuntos de datos. Además, la creación de columnas en Excel permite al usuario organizar los datos en columnas temáticas o crear columnas calculadas que combinen datos de diferentes celdas. La combinación de estas funciones puede ayudar al usuario a organizar, analizar y presentar grandes conjuntos de datos de manera más efectiva
 
 ## 1BS04: Agregando Formulario y completando nuestro sistema de Facturación
 
-> **Fecha:** 27 al 31 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Completar la factura que se viene diseñando / Realizar el proyecto hecho en clase o el del video<br>
+> **Fecha:** 27 al 31 de Marzo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Completar la factura que se viene diseñando / Realizar el proyecto hecho en clase o el del video<br> **Archivo Base:** [facturaBase](https://github.com/israelcueva/colegio-docs/blob/a19ccbad37cba7b451be27cc8e5523964f9c076c/docs/5-secundaria/archivos/Unidad1/FacturaDisenio4.xlsx ':include :type=code')
 
 La función SI.ERROR en Excel es una herramienta útil para garantizar que los errores en las fórmulas no detengan el flujo de trabajo y afecten la precisión de los datos. Esta función permite al usuario especificar qué valor se mostrará en una celda si la fórmula produce un error. Por ejemplo, en lugar de mostrar un mensaje de error #DIV/0!, el usuario puede utilizar la función SI.ERROR para mostrar un mensaje personalizado como "No se puede dividir por cero". Esto puede ser especialmente útil cuando se trabaja con conjuntos de datos grandes y complejos, donde la presencia de errores puede ser difícil de detectar. La función SI.ERROR también puede ayudar a mejorar la eficiencia del flujo de trabajo, ya que el usuario puede seguir trabajando con los datos sin detenerse a solucionar los errores de la fórmula en cada celda.
 
@@ -43,6 +43,8 @@ La función SI.ERROR en Excel es una herramienta útil para garantizar que los e
 > **Fecha:** 02 al 13 de Abril<br>
 
 ### Práctica Calificada - Mi sistema de facturación en Excel
+
+**Archivo Base:** [modeloFactura](https://github.com/israelcueva/colegio-docs/blob/a19ccbad37cba7b451be27cc8e5523964f9c076c/docs/5-secundaria/archivos/Unidad1/ejemplo_factura.xlsx ':include :type=code')
 
 Para esta práctica completarás el modelo de factura adjunto con lo siguiente:
 
