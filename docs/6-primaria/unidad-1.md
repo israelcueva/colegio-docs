@@ -53,17 +53,11 @@ Los archivos en Windows pueden ser copiados, movidos, renombrados y eliminados, 
 
 En resumen, los archivos en Windows son unidades básicas de almacenamiento que contienen datos e información, se organizan en carpetas o directorios, y pueden ser utilizados, compartidos y manipulados por el usuario.
 
-## 1BS05: Práctica Calificada & Revisión de Folder
+## 1BS05: Práctica Calificada - Mi primer documento Markdown
 
-> **Fecha:** 02 al 13 de Abril<br>
+> **Fecha:** 02 al 13 de Abril<br>**Programa:** [StackEdit](https://stackedit.io/) <br>
 
-### Práctica Calificada - Creando mi primer documento Markdown
-
-Esta semana desarrollarás tu práctica calificada. Según las instrucciones del profesor realiza tu proyecto. En esta oportunidad te debes guíar al siguiente documento:
+Esta semana desarollarás tu práctica calificada. Según las instrucciones del profesor realiza tu proyecto. En esta oportunidad te debes guíar al siguiente documento:
 
 https://sway.office.com/7y4irE7BwpmgOtqg?ref=Link
-
-### Revisión del folder
-
-Esta semana se le dará revisión a tu folder de Computación, por ende, debes tenerlo listo. SI algo no te queda claro, puedes revisar la documentación en la sección correspondiente: [Enlace](/?id=folder-de-computación).
 

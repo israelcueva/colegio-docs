@@ -36,8 +36,10 @@ Si quieres ver más detallada la calendarización, puedes hacerlo desde este [en
 
 EL folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
 
+![Descripción de la imagen](folder_general_zipped.png)
+
 - El material puede ser cualquiera (Desde Manila hasta plastificado).
-- Se le da bastante importancia a la limpieza.
+- Se le dará bastante importancia a la limpieza.
 - El folder deberá tener en su parte delantera los nombres y apellidos completos del estudiante, además del grado y sección.
 - La presentación será en la fecha indicada, si se presenta de manera posterior la nota bajará drasticamente.
 
@@ -48,7 +50,7 @@ La estructura del folder debe ser la siguiente:
 3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
 4. **Tareas:** Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.
 
-La sección 3 y 4 se repetirán según corresponda.
+En este [Enlace](https://www.canva.com/design/DAFfLjw1P70/wCCeOXkAOUYoCadJQ-_JNw/view?utm_content=DAFfLjw1P70&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) podrás ver un ejemplo del contenido del folder.
 
 ## Trabajos hechos a mano
 
