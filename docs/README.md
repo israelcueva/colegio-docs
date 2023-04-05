@@ -36,7 +36,7 @@ Si quieres ver más detallada la calendarización, puedes hacerlo desde este [en
 
 EL folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
 
-![Descripción de la imagen](folder_general_zipped.png)
+![Descripción de la imagen](folder_general_zipped2.png)
 
 - El material puede ser cualquiera (Desde Manila hasta plastificado).
 - Se le dará bastante importancia a la limpieza.
