@@ -1,5 +1,5 @@
 
-- [Inicio](3-secundaria/inicio)
+- [Inicio 3º Secundaria](3-secundaria/inicio)
 
 - 1 Bimestre
 
