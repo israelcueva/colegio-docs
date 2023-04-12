@@ -54,9 +54,9 @@ En este [Enlace](https://www.canva.com/design/DAFfLjw1P70/wCCeOXkAOUYoCadJQ-_JNw
 
 ## Trabajos hechos a mano
 
-Tener una computadora en casa con conexión a Internet se ha vuelto imprescindible estos días, tanto para labores educativas y de aprendizaje en línea, como para el trabajo. El no tener una se convierte en una dificultad para el correcto aprendizaje del estudiante. Sin embargo, a fin de no perjudicar las notas de los que no tienen una, se les permite desarollar las tareas a mano.
+Tener una computadora en casa con conexión a Internet se ha vuelto imprescindible estos días, tanto para labores educativas y de aprendizaje en línea, como para el trabajo. El no tener una se convierte en una dificultad para el correcto aprendizaje del estudiante. Sin embargo, a fin de no perjudicar las notas de los que no tienen una, se les permite desarrollar las tareas a mano.
 
-Los trabajos hecho a mano deberán tomar en cuenta lo siguiente:
+Los trabajos hechos a mano deberán tomar en cuenta lo siguiente:
 
 - **Ortografía y Gramática:** Todo texto escrito deberá ser entendible y respetar las reglas de nuestro lenguaje.
 - **Uso de plumones:** No se recomienda el uso de plumones ya que manchan los trabajos, se pueden diluir por el calor, etc. Si los usas toma en cuenta esto, ya que de eso dependerá tu nota.

@@ -20,6 +20,7 @@ window.$docsify.plugins = [].concat((e, o) => {
             toogleImage: "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)",
             titleColor:"#ffffff",
             borderColor:"#333333",
+            sidebarColor:"#000000"
         },
         light: {
             accent: "#4f51ee",
@@ -37,6 +38,7 @@ window.$docsify.plugins = [].concat((e, o) => {
             toogleImage: "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)",
             titleColor:"#000000",
             borderColor:"#d9d9d9",
+            sidebarColor:"#fafafa"
         },
     };
     if (o.config.hasOwnProperty("darklightTheme")) {

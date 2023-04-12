@@ -626,6 +626,7 @@ body {
 }
 .sidebar {
     color: var(--textColor);
+    background-color: var(--sidebarColor);
 }
 .sidebar li {
     margin: 6px 0;
@@ -714,14 +715,14 @@ body {
     padding-left: 20px;
 }
 .markdown-section blockquote p {
-    font-weight: 600;
+    /*font-weight: 600;*/
     margin-left: 0;
 }
 .markdown-section iframe {
     margin: 1em 0;
 }
 .markdown-section em {
-    color: #7f8c8d;
+    color: inherit;
 }
 .markdown-section code {
     border-radius: 2px;
