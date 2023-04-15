@@ -8,7 +8,7 @@ Las tablas en Word son una herramienta útil que permite a los usuarios organiza
 
 ## 1BS07: Uso la técnica del lettering para crea un letrero
 
-> **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Word 2015 en adelante<br> **Tarea:** Crea un letrero usando esta técnica con un versículo bíblico de tu preferencia<br> **Archivo:** [ImagenBase](https://criteriosdigital.com/wp-content/uploads/2022/11/I%CC%81ndice-Global-de-Innovacio%CC%81n-en-Sudame%CC%81rica-1333x1080.jpg ':include :type=code') | [ImagenTarea](https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2016/04/14/14606466964360_546x0.jpg ':include :type=code')
+> **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Word 2015 en adelante<br> **Tarea:** Crea un letrero usando esta técnica con un versículo bíblico de tu preferencia<br> **Archivo:** [ImagenBase](https://github.com/israelcueva/colegio-docs/blob/e72306b6fa630ffb739688d8e586c23dda4608f6/docs/1-secundaria/archivos/Unidad2/1SEC-1BS07-POSTER.pdf ':include :type=code')
 
 En esta oportunidad usaremos la técnica del lettering para crear nuestro cartel en Word. Los conceptos clave son:
 

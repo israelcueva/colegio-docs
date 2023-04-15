@@ -5,3 +5,9 @@
 > **Fecha:** 10 al 14 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Realiza lo mismo hecho en clase en casa, imprimelo y adjuntalo en tu folder.<br> **Archivo:** [Dataset](https://github.com/kushal3877/StudentsPerformance.csv/blob/1dc0f5a8ec5a974013901bc93a5a9725763dcef1/StudentsPerformance.csv ':include :type=code')
 
 Excel es una herramienta de software de hoja de cálculo que se utiliza para organizar, analizar y manipular datos numéricos y alfanuméricos. Es una de las herramientas más utilizadas en el mundo de los negocios y la administración, ya que permite a los usuarios realizar cálculos, análisis y seguimiento de datos de manera eficiente. Excel es una herramienta versátil que se utiliza para una amplia variedad de tareas, como la creación de presupuestos, el seguimiento de gastos, la creación de gráficos y el análisis de datos. Además, también es posible utilizar Excel para crear informes personalizados y automatizar tareas repetitivas.
+
+## 1BS07: Uso gráficos para representar datos
+
+> **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Realiza los gráficos lineales de la inflación por país con el segundo dataset <br> **Archivo:** [Dataset](https://pkgstore.datahub.io/core/exchange-rates/yearly_csv/data/e678905c0ba7c4cd1fcae6700ab56585/yearly_csv.csv ':include :type=code') | [DataSet2](https://datahub.io/core/inflation/r/inflation-gdp.csv ':include :type=code')
+
+Los gráficos en Excel son una herramienta útil para representar y visualizar datos de manera clara y efectiva. Los gráficos permiten a los usuarios presentar datos de manera visual, lo que facilita la identificación de patrones y tendencias en los datos.
