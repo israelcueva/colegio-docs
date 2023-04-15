@@ -10,3 +10,7 @@ Los filtros en Excel son una herramienta útil que permite a los usuarios ver y 
 
 1. Usa filtros para mostrar de mayor a menor, según el total de viviendas, los distritos de la provincia de Islay en el departamento de Arequipa.
 2. Usa filtros para mostrar los distritos con mayor población rural del Perú.
+
+## 1BS07: Inserto tablas y gráficos dinámicos avanzados
+
+> **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final, imprimir y adjuntar en el folder.<br> **Archivo:** [Dataset](https://data.apps.fao.org/catalog/dataset/rlc-peru-datos ':include :type=code')

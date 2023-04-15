@@ -8,3 +8,11 @@ En Excel, las referencias se utilizan para conectar una celda o un rango de celd
 
 ## 1BS07: Funciones de búsqueda para encontrar información
 
+> **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Revisar al final.<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/c6f276c482a5a0339d47c27d1bde07699c77f524/docs/3-secundaria/archivos/Unidad2/1B07-GDP.csv ':include :type=code')
+
+Las funciones de búsqueda en Excel son una herramienta importante para encontrar datos específicos dentro de una hoja de cálculo. Estas funciones permiten a los usuarios buscar valores en una fila o columna y encontrar coincidencias exactas o parciales. Algunas de las funciones de búsqueda más utilizadas en Excel incluyen BUSCARV, BUSCARH, COINCIDIR y FILTRO. BUSCARV y BUSCARH se utilizan para buscar un valor específico en una tabla y devolver un resultado relacionado.
+
+**Tarea:**
+
+Crea una tabla en Excel que me permita seleccionar el país según su código y que me muestre el nombre del país, el valor del PBI desde el año 2000.
+

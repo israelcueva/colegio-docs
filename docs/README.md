@@ -45,6 +45,22 @@ El folder de Computación, como se menciono anteriormente, se usará como archiv
 
 La estructura del folder debe ser la siguiente:
 
+
+```
+Folder
+├── 1. Hoja de respeto
+├── 2. Carátula de folder
+├── 3. Carátula de Bimestre 01
+├── 4. Tarea Semana 01
+└── 5. Tarea Semana 02
+├── 6. Tarea Semana 03
+└── 7. Tarea Semana 04
+├── 4. Tarea Semana 01
+└── 5. Tarea Semana 02
+├── 6. Tarea Semana 03
+└── 7. Tarea Semana 04
+```
+
 1. **Hoja de Respeto:** Deberá estar sin manchas, ni deterioro por rasgado o doblado.
 2. **Carátula del folder:** Una hoja diseñada con los datos del estudiante, grado ,sección, año, curso, colegio y profesor. Si es hecha a mano se recompensará.
 3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
