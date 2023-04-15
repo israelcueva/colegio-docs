@@ -1,5 +1,6 @@
+- 6º Primaria
 
-- [Inicio](6-primaria/inicio)
+  - [Inicio](6-primaria/inicio)
 
 - 1 Bimestre
 

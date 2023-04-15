@@ -2,23 +2,23 @@
 
 ¡Bienvenidos estudiantes al curso de Computación del año 2023!
 
-Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y cómo protegerse de los peligros que se encuentran en línea.
+Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.
 
-No se olviden que deben esforzarse para poder aprovechar todos los conocimiento ofrecidos durante el desarrollo de clases. Todos y cada uno de ustedes guardan habilidades sorprendentes.
+No se olviden que deben esforzarse para poder aprovechar todos los conocimientos ofrecidos durante el desarrollo de clases. Todos y cada uno de ustedes guardan habilidades sorprendentes.
 
-## Calificaciones
+## 1. Calificaciones
 
 El curso consta de las siguientes categorias para las notas.
 
 - **Prácticas:** El desarrollo de las clases será evaluada de manera independiente.
-- **Conducta:** Se evaluará el desempeño conductual del estudiante.
-- **Tareas:** Se evaluará el aprendizaje del estudiante con proyectos individuales. Se deberá impirmir en **UNA HOJA** juntamente con el título de la clase.
-- **Folder:** El folder se usará para archivar las tareas impresas. Cada semana habrá una tarea y su presentación será en la última semana de cada unidad.
-- **Práctica Calificada:** Una práctica que te retará a usar todas o la mayoría de habilidades aprendidas en clase.
+- **Conducta:** Se evaluará el desempeño conductual del estudiante durante las horas de clase.
+- **Tareas:** Se evaluará el aprendizaje del estudiante con proyectos individuales que tendrá que realizar en casa.
+- **Folder:** El folder se usará para archivar *las tareas* impresas. Cada semana habrá una tarea y su presentación será en la última semana de cada unidad (Semanas 5 y 9/10).
+- **Práctica Calificada:** Una práctica que exigirá que el alumno aplique lo aprendido en clase.
 
-Las notas seran literales, es decir: AD(Logro destacado), A(Logro previsto), B(En proceso) y C(En inicio)
+Las notas seran literales, es decir: <code style="color:#4f51ee">AD</code>(Logro destacado), <code style="color:GreenYellow">A</code>(Logro previsto), <code style="color:orange">B</code>(En proceso) y <code style="color:black">C</code>(En inicio)
 
-## Calendarización
+## 2. Calendarización
 
 La estructura del curso se rige a la calendarización general.
 
@@ -32,11 +32,11 @@ La estructura del curso se rige a la calendarización general.
 Si quieres ver más detallada la calendarización, puedes hacerlo desde este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUeMofKJXcNg6xZV_PYlnyIEoM9xmn0y4KA5dlgMDrk3quW5HIBV26MGMRSKOuoISH7YDHgulLgEqu/pubhtml?gid=0&single=true)
 
 
-## Folder de Computación
+## 3. Folder de Computación
 
-EL folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
+El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
 
-![Descripción de la imagen](folder_general_zipped2.png)
+![Folder de computación](folder_general_zipped2.png)
 
 - El material puede ser cualquiera (Desde Manila hasta plastificado).
 - Se le dará bastante importancia a la limpieza.
@@ -52,7 +52,7 @@ La estructura del folder debe ser la siguiente:
 
 En este [Enlace](https://www.canva.com/design/DAFfLjw1P70/wCCeOXkAOUYoCadJQ-_JNw/view?utm_content=DAFfLjw1P70&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) podrás ver un ejemplo del contenido del folder.
 
-## Trabajos hechos a mano
+## 4. Trabajos hechos a mano
 
 Tener una computadora en casa con conexión a Internet se ha vuelto imprescindible estos días, tanto para labores educativas y de aprendizaje en línea, como para el trabajo. El no tener una se convierte en una dificultad para el correcto aprendizaje del estudiante. Sin embargo, a fin de no perjudicar las notas de los que no tienen una, se les permite desarrollar las tareas a mano.
 
@@ -63,6 +63,6 @@ Los trabajos hechos a mano deberán tomar en cuenta lo siguiente:
 - **Lapices de colores:** Los lapices de colores son perfectos para el pintado, pero debes usarlos correctamente [Video](https://www.youtube.com/watch?v=UMNwTIs8FJw). No los presiones mucho y respeta las líneas.
 - **Líneas:** Si tu pulso no es adecuado, lo mejor es que uses una regla para el trazado de líneas rectas.
 
-## Resolución de dudas
+## 5. Resolución de dudas
 
 La resolución de dudas se harán en clase, si hubiera alguna duda que no haya sido tocado en clase, enviar un mensaje por el chat adjunto.

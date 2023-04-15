@@ -2,7 +2,7 @@
 
   - [Inicio](/)
 
-- Grados
+- Aulas
 
   - [6º Primaria](/6-primaria/inicio)
   - [1º Secundaria](/1-secundaria/inicio)
