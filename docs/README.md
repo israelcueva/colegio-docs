@@ -43,22 +43,21 @@ El folder de Computación, como se menciono anteriormente, se usará como archiv
 - El folder deberá tener en su parte delantera los nombres y apellidos completos del estudiante, además del grado y sección.
 - La presentación será en la fecha indicada, si se presenta de manera posterior la nota bajará drasticamente.
 
-La estructura del folder debe ser la siguiente:
+La estructura del folder completo debe ser la siguiente:
 
 
 ```
 Folder
-├── 1. Hoja de respeto
-├── 2. Carátula de folder
-├── 3. Carátula de Bimestre 01
-├── 4. Tarea Semana 01
-└── 5. Tarea Semana 02
-├── 6. Tarea Semana 03
-└── 7. Tarea Semana 04
-├── 4. Tarea Semana 01
-└── 5. Tarea Semana 02
-├── 6. Tarea Semana 03
-└── 7. Tarea Semana 04
+├── Hoja de respeto
+├── Carátula de folder
+├── Carátula de Bimestre I
+│   └── Tareas semanales(S1-S9)
+├── Carátula de Bimestre II
+│   └── Tareas semanales(S1-S8)
+├── Carátula de Bimestre III
+│   └── Tareas semanales(S1-S8)
+└── Carátula de Bimestre IV
+    └── Tareas semanales(S1-S9)
 ```
 
 1. **Hoja de Respeto:** Deberá estar sin manchas, ni deterioro por rasgado o doblado.
@@ -66,7 +65,9 @@ Folder
 3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
 4. **Tareas:** Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.
 
-En este [Enlace](https://www.canva.com/design/DAFfLjw1P70/wCCeOXkAOUYoCadJQ-_JNw/view?utm_content=DAFfLjw1P70&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) podrás ver un ejemplo del contenido del folder.
+A continuación podrás una muestra de un folder de Computación.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4516%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfLjw1P70&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfLjw1P70&#x2F;view?utm_content=DAFfLjw1P70&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FOLDER</a> de Israel Cueva
 
 ## 4. Trabajos hechos a mano
 
