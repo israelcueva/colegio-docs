@@ -6,7 +6,9 @@
 
 Las tablas en Word son una herramienta útil que permite a los usuarios organizar y presentar información de manera clara y estructurada. Las tablas son particularmente útiles para presentar datos numéricos o información en forma de listas. Con las tablas en Word, los usuarios pueden agregar filas y columnas, ajustar el ancho y alto de las celdas, y aplicar formatos como negrita, cursiva, subrayado y color de fondo. Además, las tablas también pueden ser utilizadas para crear formularios y plantillas personalizadas.
 
-## 1BS07: Uso la técnica del lettering para crea un letrero
+<div class="currentTheme">
+
+## 1BS07: Uso la técnica del lettering para crear un letrero
 
 > **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Word 2015 en adelante<br> **Tarea:** Crea un letrero usando esta técnica con un versículo bíblico de tu preferencia<br> **Archivo:** [ImagenBase](https://github.com/israelcueva/colegio-docs/blob/e72306b6fa630ffb739688d8e586c23dda4608f6/docs/1-secundaria/archivos/Unidad2/1SEC-1BS07-POSTER.pdf ':include :type=code')
 
@@ -19,3 +21,4 @@ En esta oportunidad usaremos la técnica del lettering para crear nuestro cartel
 - [Organizar elementos](https://www.youtube.com/watch?v=TrEl82YgztU)
 
 Si no tienes ideas puedes buscar en Google con la frase <code>Lettering poster</code> y en imágenes se te mostrarán infinidad de ideas para que puedas igualarlas.
+</div>

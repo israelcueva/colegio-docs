@@ -40,7 +40,7 @@ div#app {
     text-align: center;
 }
 div#app:empty:before {
-    content: "Loading...";
+    content: "Cargando...";
 }
 .emoji {
     height: 1.2rem;
@@ -419,6 +419,13 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section p.tip em {
     color: #34495e;
+}
+.markdown-section div.currentTheme h2{
+    border: none;
+    background-color: var(--accent);
+}
+.markdown-section div.currentTheme h2>a>span{
+    color:white
 }
 .markdown-section p.warn {
     background: rgba(79, 81, 238, 0.1);
