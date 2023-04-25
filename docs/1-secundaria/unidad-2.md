@@ -6,7 +6,6 @@
 
 Las tablas en Word son una herramienta útil que permite a los usuarios organizar y presentar información de manera clara y estructurada. Las tablas son particularmente útiles para presentar datos numéricos o información en forma de listas. Con las tablas en Word, los usuarios pueden agregar filas y columnas, ajustar el ancho y alto de las celdas, y aplicar formatos como negrita, cursiva, subrayado y color de fondo. Además, las tablas también pueden ser utilizadas para crear formularios y plantillas personalizadas.
 
-<div class="currentTheme">
 
 ## 1BS07: Uso la técnica del lettering para crear un letrero
 
@@ -21,4 +20,21 @@ En esta oportunidad usaremos la técnica del lettering para crear nuestro cartel
 - [Organizar elementos](https://www.youtube.com/watch?v=TrEl82YgztU)
 
 Si no tienes ideas puedes buscar en Google con la frase <code>Lettering poster</code> y en imágenes se te mostrarán infinidad de ideas para que puedas igualarlas.
+
+
+<div class="currentTheme">
+
+## 1BS08: Creo un tríptico en Word
+
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Word 2015 en adelante<br> **Tarea:** Crea un tríptico sobre las bienaventuranzas<br> **Archivo:** [ImagenBase](https://i.pinimg.com/736x/e2/81/24/e281244460aaab9ebfa5b52fbde2642a--creative-brochure-brochure-design.jpg ':include :type=code')<br> **Video:** https://www.youtube.com/watch?v=BzKrRciikdE
+
+En esta oportunidad veremos como diseñar un tríptico en Word. Lo que debes tomar en cuenta es:
+
+- **Peparación de la página:** Orientación: <code>Horizontal</code>; Márgenes: <code>Estrechos</code> y Columnas:<code>3</code>(Si deseas en Más columnas activa la línea entre columnas).
+- **Inserción de imágenes:** Debes buscar imágenes sin fondo en Google Imágenes(Herramientas-Color-Transparentes).
+- **Uso de formas:** En la ficha Insertar podrás encontrar el botón formas.
+- **Organizar elementos:** Dando clic derecho en el objeto o en la ficha formato busca la opción: Enviar adelante o Enviar atrás.
+- **Movimiento libre de Objetos:** Recuerda que para mover libremente los objetos debes configurar en el ajuste de texto: Atrás del texto o Delante del texto.
+
+Si no tienes ideas puedes buscar en Google con la frase <code>Trifold design</code> y en imágenes se te mostrarán infinidad de ideas para que puedas igualarlas.
 </div>

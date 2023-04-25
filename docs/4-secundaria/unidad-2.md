@@ -11,8 +11,6 @@ Los filtros en Excel son una herramienta útil que permite a los usuarios ver y 
 1. Usa filtros para mostrar de mayor a menor, según el total de viviendas, los distritos de la provincia de Islay en el departamento de Arequipa.
 2. Usa filtros para mostrar los distritos con mayor población rural del Perú.
 
-<div class="currentTheme">
-
 ## 1BS07: Inserto tablas y gráficos dinámicos avanzados
 
 > **Fecha:** 17 al 21 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final, imprimir y adjuntar en el folder.<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/b9ce4087a5ccf48709f4b1597e7f180f254482c3/docs/4-secundaria/archivos/Unidad2/pisa2009test.csv ':include :type=code')
@@ -23,5 +21,13 @@ Las tablas dinámicas permiten a los usuarios resumir y analizar grandes conjunt
 
 - Crear una tabla dinámica que muestre los promedios de lectura por tipo de institución: Pública y Privada. Además debe tener un filtro para seleccionar el grado.
 - Crear una tabla dinámica que muestre los promedios de lectura por raza. Además debe tene run filtro para seleccionar por sexo.
+
+<div class="currentTheme">
+
+## 1BS08: Diseño un dashboard en Excel
+
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Crea tu diseño de Dashboard<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/b9ce4087a5ccf48709f4b1597e7f180f254482c3/docs/4-secundaria/archivos/Unidad2/pisa2009test.csv ':include :type=code')
+
+Un dashboard (o panel de control en español) es una herramienta de visualización de datos que presenta información clave de manera clara y concisa en una sola pantalla. Los dashboards se utilizan comúnmente en entornos empresariales para mostrar métricas y KPIs (indicadores clave de rendimiento) relevantes para un área específica de la empresa.
 
 </div>
