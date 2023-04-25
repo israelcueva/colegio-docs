@@ -148,7 +148,7 @@ Next
 
 #### Ejercicio de clase
 
-- Basádnote en el ejemplo de ForEach realiza el algoritmo para que el color cambie por fila.
+- Basándote en el ejemplo de ForEach realiza el algoritmo para que el color cambie por fila en el rango <code>A1:E50</code>.
 
 ### Ejercicios
 
