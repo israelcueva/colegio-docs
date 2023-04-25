@@ -26,7 +26,7 @@ Las tablas dinámicas permiten a los usuarios resumir y analizar grandes conjunt
 
 ## 1BS08: Diseño un dashboard en Excel
 
-> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Crea tu diseño de Dashboard<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/b9ce4087a5ccf48709f4b1597e7f180f254482c3/docs/4-secundaria/archivos/Unidad2/pisa2009test.csv ':include :type=code')
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Crea tu diseño de Dashboard<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/4-secundaria/archivos/Unidad2/Marks.csv ':include :type=code')
 
 Un dashboard (o panel de control en español) es una herramienta de visualización de datos que presenta información clave de manera clara y concisa en una sola pantalla. Los dashboards se utilizan comúnmente en entornos empresariales para mostrar métricas y KPIs (indicadores clave de rendimiento) relevantes para un área específica de la empresa.
 

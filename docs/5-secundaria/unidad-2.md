@@ -146,6 +146,10 @@ For Each cell In Range("A1:C5").Cells
 Next
 ```
 
+#### Ejercicio de clase
+
+- Basádnote en el ejemplo de ForEach realiza el algoritmo para que el color cambie por fila.
+
 ### Ejercicios
 
 - Sumar los números pares de una lista de números ingresados por el usuario en el rango <code>A1:A10</code> utilizando la estructura For-Next.
