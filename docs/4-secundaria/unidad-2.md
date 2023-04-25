@@ -60,5 +60,5 @@ Un dashboard (o panel de control en español) es una herramienta de visualizaci�
 - Desde la ficha Insertar->Formas añade una rectángulo redondeado.
 - Selecciona dicho rectángulo y en la barra de fórmulas([Referencia](https://www.accessyexcel.com/wp-content/uploads/2013/01/Excel-02_07-La-barra-de-formulas.jpg)) haz referencia a la celda donde se encuentra el porcentaje que representa la nota(F1). Lo que debería quedar así: <code>=F1</code>, luego presionamos la tecla F4 para añadir una referencia absoluta (O solo coloca el simbolo del dolar) y quedaría de esta manera: <code>=$F$1</code>
 - Finalmente seleccionamos los dos porcentajes (F1:G1) y nos vamos a la ficha Insertar, escogemos gráficos recomendados y pulsamos en el gráfico circular.
-- Ahora solo te falta eliminar el fondo del gráfico, eliminar cualquier elemento extra y colcoarlo encima de tu rectángulo redondeado.
+- Ahora solo te falta eliminar el fondo del gráfico, eliminar cualquier elemento extra y colocarlo encima de tu rectángulo redondeado.
 </div>
