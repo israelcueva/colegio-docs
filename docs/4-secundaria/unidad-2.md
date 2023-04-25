@@ -30,4 +30,29 @@ Las tablas dinámicas permiten a los usuarios resumir y analizar grandes conjunt
 
 Un dashboard (o panel de control en español) es una herramienta de visualización de datos que presenta información clave de manera clara y concisa en una sola pantalla. Los dashboards se utilizan comúnmente en entornos empresariales para mostrar métricas y KPIs (indicadores clave de rendimiento) relevantes para un área específica de la empresa.
 
+### Procedimiento:
+
+#### Preparación de los datos:
+
+1. Dividir texto de CSV en columnas: https://www.youtube.com/results?search_query=dividir+csv+excel
+2. Colocar nombres a los rangos de la hoja:
+    1. Colocar nombres a columnas(Seleccionar columna) desde: **Fórmulas** --> **Crear desde Selección**
+    2. Seleccionar todas las columnas y colocarle nombre desde el cuadro de nombres: https://cfb.rabbitloader.xyz/snr8jbbp/rls.t-nw-a28/wp-content/uploads/2022/07/cuadro-de-nombres-de-excel.jpg
+3. Crear una nueva hoja y ponerle de nombre **Estadisticas**
+    1. En la celda A1 de la misma colocar el encabezado "Promedio_General".
+    2. En la celda A2 colocar la fórmula: "=PROMEDIO(" y al abrir paréntesis seleccionar la primera hoja y seleccionar las notas del primer alumno, cerrar paréntesis y presionar enter; o simplemente escribir la fórmula: <code>=PROMEDIO(Marks!E2:BX2)</code> en esa celda.
+    3. Vuelve a seleccionar la celda A2 y desde la esquina (Cuadradito verde) arrastra hasta la fila 10001 para que se completen el resto de promedios.
+    4. Selecciona toda la columna A y ponle nombre usando **Crear desde selección**.
+
+#### Hoja Dashborad
+
+##### Datos:
+
+- Crear un hoja llamada **Dashboard**
+- En la celda **B2** hacer una validación de datos(Datos->Validación de datos) de tipo Lista; siendo el ORIGEN la columna <code>Apellidos</code>. No escribas el nombre usa la opción **Utilizar en fórmula** de la ficha Fórmulas. Si no te aparece nada no hiciste el paso 2 de la preparación de datos. Si lo haz hecho bien aparecerá una flecha en la celda que al presionar nos mostrará todos los apellidos de la primera hoja.
+- En la celda **D1** coloca la fórmula: <code>=COINCIDIR(B2;Apellidos;0)</code> y presiona ENTER, descuida, saldra un eror, el cual se areglará seleccionado un nombre de la lista en la celda B2. La fórmula busca lo que escribas o selecciones en la celda B2 dentro del rango Apellidos con una coincidencia excacta (0).
+- En la celda **E1** esribe la fórmula: <code>=INDICE(Promedio_General;D1;1)</code>. La fórmula anterior es para obtener el valor que se encuentra en el rango **Promedio_general** (Paso 3.4 de la preparación) en al fila que nos de la celda D1 y en la columna 1.
+- En la celda **F1** Dividimos la nota promedio que sacó(Celda E1) con el total (20), por ende, escribe la fórmula <code>=E1/20</code>. Obtendrás un decimal, el cuál debes convertir a porcentaje con el botón porcentaje que se encuentra en la ficha Inicio.
+- En la celda **G1** restaremos el porcentaje resultante de la nota(Celda F1) y el total del 100%, por ello escribe la fórmula siguiente: <code>=100%-F1</code>
+
 </div>
