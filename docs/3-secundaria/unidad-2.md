@@ -21,7 +21,7 @@ Crea una tabla en Excel que me permita seleccionar el país según su código y 
 
 ## 1BS08: Uso de tablas dinámicas para análisis de datos
 
-> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Revisar al final<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/3-secundaria/archivos/Unidad2/Amazon-Sale-Report.csv ':include :type=code')
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Revisar al final<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/3-secundaria/archivos/Unidad2/Amazon-Sale-Report.csv ':include :type=code')<br> **Video:** [Tablas dinámicas](https://www.youtube.com/watch?v=gsxCopOjGZo)
 
 Las tablas dinámicas se utilizan para transformar datos en información útil y fácilmente comprensible. Permiten organizar, resumir y filtrar grandes conjuntos de datos en tablas de resumen que muestran información relevante de forma concisa. Esto permite a los usuarios analizar los datos de diferentes maneras, lo que puede ayudar a identificar patrones, tendencias y oportunidades para mejorar el rendimiento del negocio.
 

@@ -67,7 +67,7 @@ End Sub
 
 ## 1BS08: Uso estructuras de control para el llenado de datos
 
-> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final<br> 
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final<br> **Videoos:** [Video1](https://www.youtube.com/watch?v=xTn0LQZ_VpQ) | [Video2](https://www.youtube.com/watch?v=WbOaRkigzzc)
 
 Las estructuras de control en VBA son herramientas que permiten controlar el flujo de ejecución de un programa. Estas estructuras permiten la ejecución de bloques de código en función de ciertas condiciones o repeticiones, lo que permite crear programas más complejos y versátiles.
 
