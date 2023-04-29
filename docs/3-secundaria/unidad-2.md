@@ -16,9 +16,6 @@ Las funciones de búsqueda en Excel son una herramienta importante para encontra
 
 Crea una tabla en Excel que me permita seleccionar el país según su código y que me muestre el nombre del país, el valor del PBI desde el año 2000.
 
-
-<div class="currentTheme">
-
 ## 1BS08: Uso de tablas dinámicas para análisis de datos
 
 > **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Revisar al final<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/3-secundaria/archivos/Unidad2/Amazon-Sale-Report.csv ':include :type=code')<br> **Video:** [Tablas dinámicas](https://www.youtube.com/watch?v=gsxCopOjGZo)
@@ -30,4 +27,13 @@ Las tablas dinámicas se utilizan para transformar datos en información útil y
 - Muestra, mediante una tabla dinámica, que tallas se vendieron según la ciudad.
 - Determina que tienda (Amazon o Tiendas retail) son las que tienen la mayor cantidad de ordenes canceladas.
 
+<div class="currentTheme">
+
+## 1BS09: Uso de Macros para automatizar tareas
+
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br>
+
+Las macros en Excel son un conjunto de acciones que se graban y se pueden reproducir posteriormente. Las macros permiten al usuario automatizar tareas repetitivas y complejas, como la creación de gráficos, la actualización de tablas de datos y la ejecución de fórmulas y cálculos complejos. La creación de macros en Excel implica grabar una serie de acciones que se pueden repetir para realizar una tarea específica.
+
 </div>
+

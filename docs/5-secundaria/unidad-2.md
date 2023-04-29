@@ -63,8 +63,6 @@ End Sub
 
 ```
 
-<div class="currentTheme">
-
 ## 1BS08: Uso estructuras de control para el llenado de datos
 
 > **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final<br> **Videos:** [Video1](https://www.youtube.com/watch?v=xTn0LQZ_VpQ) | [Video2](https://www.youtube.com/watch?v=WbOaRkigzzc)
@@ -184,5 +182,14 @@ Next
 - Crea una subrutina que use el rango <code>A1:A10</code> y utilice un bucle "For" para encontrar el elemento más grande de la matriz. Luego, muestra el resultado en un mensaje "MsgBox".
 
 Tomar captura a cada código, imprimir y colocar en el folder. Puedes usar una página para embellecer el código, como por ejemplo: [Carbon](https://carbon.now.sh/) escogiendo VB.NET.
+
+
+<div class="currentTheme">
+
+## 1BS09: Uso de formularios para la creación de Interfaces
+
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Video:** [Enlace](https://www.youtube.com/watch?v=4ldvBM0unr0)
+
+Los formularios en Excel son una herramienta que permite al usuario crear un formulario personalizado para introducir datos en una hoja de cálculo. Los formularios en Excel son especialmente útiles cuando se necesita ingresar datos de forma rápida y eficiente, como en el caso de encuestas, listas de control y otros tipos de recopilación de datos. Al crear un formulario en Excel, el usuario puede especificar los campos de datos necesarios y personalizar la apariencia del formulario. 
 
 </div>

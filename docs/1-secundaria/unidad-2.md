@@ -22,7 +22,7 @@ En esta oportunidad usaremos la técnica del lettering para crear nuestro cartel
 Si no tienes ideas puedes buscar en Google con la frase <code>Lettering poster</code> y en imágenes se te mostrarán infinidad de ideas para que puedas igualarlas.
 
 
-<div class="currentTheme">
+
 
 ## 1BS08: Creo un tríptico en Word
 
@@ -37,4 +37,13 @@ En esta oportunidad veremos como diseñar un tríptico en Word. Lo que debes tom
 - **Movimiento libre de Objetos:** Recuerda que para mover libremente los objetos debes configurar en el ajuste de texto: Atrás del texto o Delante del texto.
 
 Si no tienes ideas puedes buscar en Google con la frase <code>Trifold design</code> y en imágenes se te mostrarán infinidad de ideas para que puedas igualarlas.
+
+
+<div class="currentTheme">
+
+## 1BS09: Uso correspondencia para crear diplomas
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Word 2015 en adelante<br> **Tarea:** Sin tarea<br>
+
+La correspondencia en Word es una herramienta que permite al usuario crear documentos personalizados como cartas, sobres, etiquetas y correos electrónicos, utilizando una plantilla y una lista de destinatarios. El proceso de correspondencia en Word implica la creación de una plantilla de documento que incluye campos de combinación que se reemplazarán por información específica para cada destinatario. Luego, el usuario puede crear una lista de destinatarios que incluya la información necesaria para cada documento, como nombres, direcciones y otros datos relevantes. Una vez que se establece la lista de destinatarios y se crea la plantilla de documento, Word puede combinar automáticamente los datos de cada destinatario en el documento personalizado final. La correspondencia en Word es especialmente útil para aquellos que necesitan enviar documentos personalizados a múltiples destinatarios, como empresas que envían facturas, cartas de promoción, o cualquier organización que necesite enviar cartas o correos electrónicos personalizados. En resumen, la correspondencia en Word es una herramienta importante para aquellos que necesitan enviar documentos personalizados a múltiples destinatarios de manera eficiente y efectiva.
+
 </div>

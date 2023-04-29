@@ -14,8 +14,6 @@ Excel es una herramienta de software de hoja de cálculo que se utiliza para org
 Los gráficos en Excel son una herramienta útil para representar y visualizar datos de manera clara y efectiva. Los gráficos permiten a los usuarios presentar datos de manera visual, lo que facilita la identificación de patrones y tendencias en los datos.
 
 
-<div class="currentTheme">
-
 ## 1BS08: Uso datos y referencias externas
 
 > **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Realiza el proyecto hecho en clase
@@ -27,5 +25,12 @@ Las referencias externas son útiles para combinar y analizar datos de varias fu
 **Concepto Clave:**
 
 - Recuerda que para hacer referencia a una hoja desde otra debemos colocar el nombre de la hoja en comillas, seguida por el simbolo de exclamación y luego el rango que quieres referenciar, por ejemplo: <code>='P1'!A1</code>.
+
+<div class="currentTheme">
+
+## 1BS09: Importo contenido a mis hojas de Excel
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br>
+
+La importación de datos en Excel es una función que permite al usuario cargar datos desde fuentes externas, como archivos de texto, bases de datos, hojas de cálculo de otras aplicaciones y sitios web. Esto es especialmente útil para aquellos que necesitan trabajar con grandes conjuntos de datos que no se encuentran en la hoja de cálculo de Excel. Al importar datos a Excel, el usuario puede organizar y analizar la información en la hoja de cálculo utilizando las herramientas y funciones disponibles en Excel, como gráficos, tablas dinámicas y fórmulas. La importación de datos también permite al usuario ahorrar tiempo al evitar la necesidad de ingresar manualmente los datos en la hoja de cálculo. Además, Excel proporciona opciones de importación flexibles que permiten al usuario especificar el formato de los datos, el tipo de separador utilizado en los archivos de texto, el rango de celdas a importar y mucho más. 
 
 </div>

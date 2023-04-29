@@ -22,8 +22,6 @@ Las tablas dinámicas permiten a los usuarios resumir y analizar grandes conjunt
 - Crear una tabla dinámica que muestre los promedios de lectura por tipo de institución: Pública y Privada. Además debe tener un filtro para seleccionar el grado.
 - Crear una tabla dinámica que muestre los promedios de lectura por raza. Además debe tene run filtro para seleccionar por sexo.
 
-<div class="currentTheme">
-
 ## 1BS08: Diseño un dashboard en Excel
 
 > **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Crea tu diseño de Dashboard<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/4-secundaria/archivos/Unidad2/Marks.csv ':include :type=code') | [Dataset](https://github.com/israelcueva/colegio-docs/blob/e0ca72b62504f2e37c45b4e0f53350febd5083a3/docs/4-secundaria/archivos/Unidad2/Marks.csv ':include :type=code')
@@ -62,4 +60,13 @@ Un dashboard (o panel de control en español) es una herramienta de visualizaci�
 - Selecciona dicho rectángulo y en la barra de fórmulas([Referencia](https://www.accessyexcel.com/wp-content/uploads/2013/01/Excel-02_07-La-barra-de-formulas.jpg)) haz referencia a la celda donde se encuentra el porcentaje que representa la nota(F1). Lo que debería quedar así: <code>=F1</code>, luego presionamos la tecla F4 para añadir una referencia absoluta (O solo coloca el simbolo del dolar) y quedaría de esta manera: <code>=$F$1</code>
 - Finalmente seleccionamos los dos porcentajes (F1:G1) y nos vamos a la ficha Insertar, escogemos gráficos recomendados y pulsamos en el gráfico circular.
 - Ahora solo te falta eliminar el fondo del gráfico, eliminar cualquier elemento extra y colocarlo encima de tu rectángulo redondeado.
+
+<div class="currentTheme">
+
+## 1BS09: Añado funciones en mi dashboard
+
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br>
+
+En esta semana completaremos nuestro Dashboard iniciado en la semana 8.
+
 </div>
