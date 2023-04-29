@@ -37,15 +37,15 @@ Un dashboard (o panel de control en español) es una herramienta de visualizaci�
 1. Dividir texto de CSV en columnas: [Video](https://www.youtube.com/results?search_query=dividir+csv+excel)
 2. Colocar nombres a los rangos de la hoja:
     1. Seleccionar todas las columnas: [Video](https://www.youtube.com/watch?v=tOtXDGUTolk)
-    1. Colocar nombres automáticos a columnas seleccionadas desde: **Fórmulas** --> **Crear desde Selección** [Video](https://www.youtube.com/watch?v=UfCl4feinP8)
-    2. Seleccionar TODAS las columnas y colocarle nombre desde el cuadro de nombres (No olvides presionar enter): [Video](https://www.youtube.com/shorts/ldEtNi7xeB4)
-3. Crear una nueva hoja y ponerle de nombre **Estadisticas**
+    2. Colocar nombres automáticos a columnas seleccionadas desde: **Fórmulas** --> **Crear desde Selección** [Video](https://www.youtube.com/watch?v=UfCl4feinP8)
+    3. Seleccionar TODAS las columnas y colocarle nombre desde el cuadro de nombres (No olvides presionar enter): [Video](https://www.youtube.com/shorts/ldEtNi7xeB4)
+3. Crear una nueva hoja y ponerle de nombre **Estadisticas**(Sin tilde) [Video](https://www.youtube.com/watch?v=rNWij7nxATU)
     1. En la celda A1 de la misma colocar el encabezado "Promedio_General".
     2. En la celda A2 colocar la fórmula: "=PROMEDIO(" y al abrir paréntesis seleccionar la primera hoja y seleccionar las notas del primer alumno, cerrar paréntesis y presionar enter; o simplemente escribir la fórmula: <code>=PROMEDIO(Marks!E2:BX2)</code> en esa celda.
-    3. Vuelve a seleccionar la celda A2 y desde la esquina (Cuadradito verde) arrastra hasta la fila 10001 para que se completen el resto de promedios.
+    3. Vuelve a seleccionar la celda A2 y desde la esquina (Cuadradito verde) arrastra hasta la fila 10001 para que se completen el resto de promedios. [Video1](https://youtu.be/ufDGnFVTbWE?t=10)
     4. Selecciona toda la columna A y ponle nombre usando **Crear desde selección**.
 
-#### Hoja Dashborad
+#### 2. Hoja Dashborad
 
 ##### Llenando Datos
 

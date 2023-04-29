@@ -67,7 +67,7 @@ End Sub
 
 ## 1BS08: Uso estructuras de control para el llenado de datos
 
-> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final<br> **Videoos:** [Video1](https://www.youtube.com/watch?v=xTn0LQZ_VpQ) | [Video2](https://www.youtube.com/watch?v=WbOaRkigzzc)
+> **Fecha:** 24 al 28 de Abril<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver lista al final<br> **Videos:** [Video1](https://www.youtube.com/watch?v=xTn0LQZ_VpQ) | [Video2](https://www.youtube.com/watch?v=WbOaRkigzzc)
 
 Las estructuras de control en VBA son herramientas que permiten controlar el flujo de ejecución de un programa. Estas estructuras permiten la ejecución de bloques de código en función de ciertas condiciones o repeticiones, lo que permite crear programas más complejos y versátiles.
 
@@ -149,6 +149,31 @@ Next
 #### Ejercicio de clase
 
 - Basándote en el ejemplo de ForEach realiza el algoritmo para que el color cambie por fila en el rango <code>A1:E50</code>.
+
+```visual-basic
+Dim cell As Range
+Dim counter As Integer
+' Declaro y le asigno el valor de 1 a mi variable color
+Dim color As Integer
+color = 1
+ 
+For Each cell In Range("A1:E50").Cells
+
+    ' Aumento el contador en 1
+    counter = counter + 1
+    
+    ' Pinto la celda con el valor de color
+    cell.Interior.ColorIndex = color
+    
+    ' Verifico si es la celda 5,10,15...
+    If counter Mod 5 = 0 Then
+        'Si la celda es múltiplo de 5 entonces le aumento el valor del color en 1
+        color = color + 1
+    End If
+    
+    
+Next
+```
 
 ### Ejercicios
 
