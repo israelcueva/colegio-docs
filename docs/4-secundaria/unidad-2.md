@@ -65,7 +65,7 @@ Un dashboard (o panel de control en español) es una herramienta de visualizaci�
 
 ## 1BS09: Añado funciones en mi dashboard
 
-> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Dataset](https://github.com/israelcueva/colegio-docs/blob/7c5a6b9b6366fd9a031b9f11f1774241878108e1/docs/4-secundaria/archivos/Unidad2/Marks.xlsx ':include :type=code') 
+> **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Semana8](https://github.com/israelcueva/colegio-docs/blob/7c5a6b9b6366fd9a031b9f11f1774241878108e1/docs/4-secundaria/archivos/Unidad2/Marks.xlsx ':include :type=code') 
 
 En esta semana completaremos nuestro Dashboard iniciado en la semana 8.
 
