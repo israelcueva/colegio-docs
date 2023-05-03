@@ -61,12 +61,25 @@ Un dashboard (o panel de control en español) es una herramienta de visualizaci�
 - Finalmente seleccionamos los dos porcentajes (F1:G1) y nos vamos a la ficha Insertar, escogemos gráficos recomendados y pulsamos en el gráfico circular.
 - Ahora solo te falta eliminar el fondo del gráfico, eliminar cualquier elemento extra y colocarlo encima de tu rectángulo redondeado.
 
-<div class="currentTheme">
-
 ## 1BS09: Añado funciones en mi dashboard
 
 > **Fecha:** 01 al 05 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Semana8](https://github.com/israelcueva/colegio-docs/blob/7c5a6b9b6366fd9a031b9f11f1774241878108e1/docs/4-secundaria/archivos/Unidad2/Marks.xlsx ':include :type=code') 
 
 En esta semana completaremos nuestro Dashboard iniciado en la semana 8.
+
+<div class="currentTheme">
+
+## 1BS10: Práctica Calificada & presentación de folder
+> **Fecha:** 08 al 11 de Mayo<br>
+
+### Práctica Calificada
+
+Ir al siguiente enlace para accader a ella (La contraseña es la misma que la práctica de la semana 5).
+
+https://start-mrc.israelcueva.com/examenes/bimestre-1/unidad-2/4-secundaria/
+
+### Folder de computación
+
+Esta semana se le dará revisión a tu folder de Computación, por ende, debes tenerlo listo. Si algo no te queda claro, puedes revisar la documentación en la sección correspondiente: [Enlace](/?id=_3-folder-de-computaci%c3%b3n).
 
 </div>
