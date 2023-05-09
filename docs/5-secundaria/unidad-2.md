@@ -201,6 +201,10 @@ Ir al siguiente enlace para accader a ella (La contraseña es la misma que la pr
 
 https://start-mrc.israelcueva.com/examenes/bimestre-1/unidad-2/5-secundaria/
 
+#### Recuperación
+
+https://github.com/israelcueva/colegio-docs/blob/00f3bdf206a7b8c2d9306f926e8a0cf2e523eab7/docs/5-secundaria/archivos/Unidad1/ejemplo_factura.xlsx
+
 ### Folder de computación
 
 Esta semana se le dará revisión a tu folder de Computación, por ende, debes tenerlo listo. Si algo no te queda claro, puedes revisar la documentación en la sección correspondiente: [Enlace](/?id=_3-folder-de-computaci%c3%b3n).
