@@ -190,7 +190,7 @@ Tomar captura a cada código, imprimir y colocar en el folder. Puedes usar una p
 
 Los formularios en Excel son una herramienta que permite al usuario crear un formulario personalizado para introducir datos en una hoja de cálculo. Los formularios en Excel son especialmente útiles cuando se necesita ingresar datos de forma rápida y eficiente, como en el caso de encuestas, listas de control y otros tipos de recopilación de datos. Al crear un formulario en Excel, el usuario puede especificar los campos de datos necesarios y personalizar la apariencia del formulario. 
 
-<div class="currentTheme">
+
 
 ## 1BS10: Práctica Calificada & presentación de folder
 > **Fecha:** 08 al 11 de Mayo<br>
@@ -209,4 +209,4 @@ https://github.com/israelcueva/colegio-docs/blob/00f3bdf206a7b8c2d9306f926e8a0cf
 
 Esta semana se le dará revisión a tu folder de Computación, por ende, debes tenerlo listo. Si algo no te queda claro, puedes revisar la documentación en la sección correspondiente: [Enlace](/?id=_3-folder-de-computaci%c3%b3n).
 
-</div>
+

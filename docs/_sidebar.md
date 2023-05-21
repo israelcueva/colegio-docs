@@ -4,6 +4,7 @@
 
 - Aulas
 
+  - [5º Primaria](/5-primaria/inicio)
   - [6º Primaria](/6-primaria/inicio)
   - [1º Secundaria](/1-secundaria/inicio)
   - [2º Secundaria](/2-secundaria/inicio)

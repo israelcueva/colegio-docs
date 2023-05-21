@@ -44,7 +44,6 @@ Si no tienes ideas puedes buscar en Google con la frase <code>Trifold design</co
 
 La correspondencia en Word es una herramienta que permite al usuario crear documentos personalizados como cartas, sobres, etiquetas y correos electrónicos, utilizando una plantilla y una lista de destinatarios. El proceso de correspondencia en Word implica la creación de una plantilla de documento que incluye campos de combinación que se reemplazarán por información específica para cada destinatario. Luego, el usuario puede crear una lista de destinatarios que incluya la información necesaria para cada documento, como nombres, direcciones y otros datos relevantes. Una vez que se establece la lista de destinatarios y se crea la plantilla de documento, Word puede combinar automáticamente los datos de cada destinatario en el documento personalizado final. La correspondencia en Word es especialmente útil para aquellos que necesitan enviar documentos personalizados a múltiples destinatarios, como empresas que envían facturas, cartas de promoción, o cualquier organización que necesite enviar cartas o correos electrónicos personalizados. En resumen, la correspondencia en Word es una herramienta importante para aquellos que necesitan enviar documentos personalizados a múltiples destinatarios de manera eficiente y efectiva.
 
-<div class="currentTheme">
 
 ## 1BS10: Práctica Calificada & presentación de folder
 > **Fecha:** 08 al 11 de Mayo<br>
@@ -59,4 +58,3 @@ https://start-mrc.israelcueva.com/examenes/bimestre-1/unidad-2/1-secundaria/
 
 Esta semana se le dará revisión a tu folder de Computación, por ende, debes tenerlo listo. Si algo no te queda claro, puedes revisar la documentación en la sección correspondiente: [Enlace](/?id=_3-folder-de-computaci%c3%b3n).
 
-</div>
