@@ -4,7 +4,8 @@
 
 ## 2BS01: Resuelvo problemas de aritmética
 
-> **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/abfb8c8b77d71b431792fbd8799761c615517537/docs/5-primaria/archivos/Unidad3/5PRIM-2BS01.pdf ':include :type=code')
+> **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/5-primaria/archivos/Unidad3/5PRIM-2BS01.pdf ':include :type=code')
+
 
 En esta clase veremos sobre el uso de Microsoft Excel para realizar ejercicios de aritmética.
 

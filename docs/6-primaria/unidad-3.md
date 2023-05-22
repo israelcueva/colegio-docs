@@ -4,7 +4,7 @@
 
 ## 2BS01: Presento a mis futbolistas favoritos
 
-> **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/abfb8c8b77d71b431792fbd8799761c615517537/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS01.pdff ':include :type=code')
+> **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS01.pdf ':include :type=code')
 
 En esta clase haremos una presentación de nuestros jugadoras de futbol favoritos.
 
