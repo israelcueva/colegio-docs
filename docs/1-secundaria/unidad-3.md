@@ -14,6 +14,6 @@ En esta clase haremos una presentación sobre nosotros usando Power Point.
 
 ### Tarea semana 1:
 
-Realiza lo mismo hecho en clase, pero con información tuya. Guarda tu rpoyecto en PDF e imprimelo. Adjuntar en folder.
+Realiza lo mismo hecho en clase, pero con información tuya. Guarda tu proyecto en PDF e imprimelo. Adjuntar en folder.
 
 </div>

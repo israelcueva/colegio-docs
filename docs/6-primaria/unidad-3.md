@@ -10,7 +10,7 @@ En esta clase haremos una presentación de nuestros jugadoras de futbol favorito
 
 **Conceptos Clave**
 
-- Para los fondos busca imágene susando el prompt siguiente: **Background color**, por ejemplo: background blue.
+- Para los fondos busca imágenes en Google usando el prompt siguiente: **Background color**, por ejemplo: background blue.
 - Recuerda que así debes buscar las imágenes sin fondo. https://www.youtube.com/watch?v=mKr7tT0RByQ (Guardar y luego insertas dicha imagen).
 - Para guardar varias diapositivas no olvides hacerlo desde opciones cuando guardas el archivo.
 

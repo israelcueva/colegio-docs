@@ -18,7 +18,7 @@ En esta clase veremos sobre el uso de Microsoft Excel para realizar ejercicios d
 
 ### Tarea semana 1:
 
-Realiza lo mismo que se hizo en clase, pero resolviendo el ejercicio siguiente: 
+Realiza lo mismo que se hizó en clase, pero resolviendo el ejercicio siguiente: 
 
 ```
 Tenía S/. 14,25 el Lunes; el Martes S/. 16,89; el Miércoles cobre S/. 97 y el Jueves pagué S/. 56,07. ¿Cuánto me queda?

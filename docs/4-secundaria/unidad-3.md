@@ -6,7 +6,11 @@
 
 > **Fecha:** 22 al 26 de Mayo<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/a19ccbad37cba7b451be27cc8e5523964f9c076c/docs/4-secundaria/archivos/Unidad3/4SEC-2BS01.jpg ':include :type=code')
 
-En este clase veremos como crera un Wallpaper para nuestras computadoras de manera simple, usando Photoshop.
+En este clase veremos como crear un Wallpaper para nuestras computadoras de manera simple, usando Photoshop.
+
+**Conceptos clave:**
+
+- Instalar fuentes desde Dafont: https://www.youtube.com/watch?v=EU7tDnEs6NY&t=1s
 
 
 ### Tarea semana 1:
