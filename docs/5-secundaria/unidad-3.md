@@ -14,6 +14,13 @@ En este clase veremos como instalar Wordpress en nuestras computadoras.
 
 ### Tarea semana 1:
 
-Instala Xampp en tu computadora y luego instala Wordprees. Tomar captura de los pasos (En una sola hoja), imprimir y adjuntar en el folder.
+Instala Xampp en tu computadora y luego instala Wordprees. Tomar captura de los pasos (En una sola hoja), imprimir y adjuntar en el folder. Recuerda que las capturas deben ser las 6 siguientes:
+
+- Pantalla final después de instalar Xampp.
+- Panel de control de Xampp con los servicios que necesitamos iniciados (Apache y MySql).
+- Panel de control de phpmyadmin con la base de datos para wordpress creada.
+- Configuración de la base de datos (Nombres de la base de datos, host, usuario, etc).
+- Configuración del sitio de Wordpress ( Nombre del sitio, correo, etc).
+- Panel de Control de Wordpress.
 
 </div>
