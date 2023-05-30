@@ -20,7 +20,7 @@ Realiza tu propio Wallpaper usando la frase que más te identifique. Imprimir y 
 
 ## 2BS02: Uso máscaras de capa para eliminar fondo
 
-> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02.jpg ':include :type=code') | [Tarea](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02-TAREA.jpg ':include :type=code')
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/4fa66ef0abf29b3c9cf58c0f9cbe0a844ed43a0c/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02-FINAL.png ':include :type=code') | [Base](https://github.com/israelcueva/colegio-docs/blob/4fa66ef0abf29b3c9cf58c0f9cbe0a844ed43a0c/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02.jpg ':include :type=code')  | [Tarea](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02-TAREA.jpg ':include :type=code') 
 
 En este clase veremos como usar las máscaras de capa en Photoshop.
 
