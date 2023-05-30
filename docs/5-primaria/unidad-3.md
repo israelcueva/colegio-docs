@@ -1,7 +1,5 @@
 # 5-Primaria - Unidad 3
 
-<div class="currentTheme">
-
 ## 2BS01: Resuelvo problemas de aritmética
 
 > **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/5-primaria/archivos/Unidad3/5PRIM-2BS01.pdf ':include :type=code') / [ArchivoBase](https://github.com/israelcueva/colegio-docs/blob/c662732e52e159dd5a8b0648db283eea4655e102/docs/5-primaria/archivos/Unidad3/5PRIM-2BS01-BASE.xlsx ':include :type=code')
@@ -25,5 +23,22 @@ Tenía S/. 14,25 el Lunes; el Martes S/. 16,89; el Miércoles cobre S/. 97 y el 
 ```
 
 Imprime tu tarea y adjuntálo en tu folder.
+
+
+<div class="currentTheme">
+
+## 2BS02: Presento la medición de ángulos interiores de un triángulo
+
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/2-secundaria/archivos/Unidad3/2SEC-2BS01.jpg ':include :type=code') | [Archivo base]()
+
+En esta clase veremos como aplicar estilo a celdas, usar formas y añadir simbolos en Excel.
+
+**Conceptos Clave**
+
+- colocar símbolo de grados. https://youtu.be/H3JUIidrTi8?t=109
+
+### Tarea semana 2:
+
+Realiza lo mismo hecho en clase en tu casa.
 
 </div>

@@ -1,7 +1,5 @@
 # 6-Primaria - Unidad 3
 
-<div class="currentTheme">
-
 ## 2BS01: Presento a mis futbolistas favoritos
 
 > **Fecha:** 22 al 26 de Mayo<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS01.pdf ':include :type=code')
@@ -18,5 +16,17 @@ En esta clase haremos una presentación de nuestros jugadoras de futbol favorito
 ### Tarea semana 1:
 
 Realiza lo mismo hecho en clase, solo que debes tener de 3 a 5 futbolistas.
+
+<div class="currentTheme">
+
+## 2BS02: Elaboro presentaciones animadas de deportes acuáticos
+
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/2-secundaria/archivos/Unidad3/2SEC-2BS01.jpg ':include :type=code')
+
+En esta clase crearemos una presentación de Power Point sobre deportes acuáticos.
+
+### Tarea semana 2:
+
+Completa un total de 9 diapositivas sobre deportes acuáticos.
 
 </div>
