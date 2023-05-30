@@ -25,7 +25,7 @@ Instala Xampp en tu computadora y luego instala Wordpress. Tomar captura de los 
 
 ## 2BS02: Aprendo sobre los Temas y plugins en wordpress.
 
-> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final.
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final. **Archivo:** [Deep Theme](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/5-secundaria/archivos/Unidad3/deep.zip ':include :type=code') 
 
 En este clase veremos como usar los plugins iniciales y los temas de Wordpress.
 

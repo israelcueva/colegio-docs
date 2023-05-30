@@ -21,7 +21,7 @@ Realiza lo mismo hecho en clase, pero con información tuya. Guarda tu proyecto 
 
 ## 2BS01: Creo una lista de mis gustos en Power Point
 
-> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/1-secundaria/archivos/Unidad3/1SEC-2BS01.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/tree/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/1-secundaria/archivos/Unidad3)
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/1-secundaria/archivos/Unidad3/S02/Creo%20una%20lista%20de%20mis%20gustos%20en%20Power%20Point.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/tree/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/1-secundaria/archivos/Unidad3/S02)
 
 En esta oportunidad elaboraremos una lista de nuestros gusto en Power Point.
 

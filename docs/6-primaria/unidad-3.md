@@ -21,7 +21,7 @@ Realiza lo mismo hecho en clase, solo que debes tener de 3 a 5 futbolistas.
 
 ## 2BS02: Elaboro presentaciones animadas de deportes acuáticos
 
-> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/2-secundaria/archivos/Unidad3/2SEC-2BS01.jpg ':include :type=code')
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS02.pdf ':include :type=code')
 
 En esta clase crearemos una presentación de Power Point sobre deportes acuáticos.
 

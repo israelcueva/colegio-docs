@@ -29,13 +29,13 @@ Imprime tu tarea y adjuntálo en tu folder.
 
 ## 2BS02: Presento la medición de ángulos interiores de un triángulo
 
-> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/0adfcaa2320adc3d6902edf5c7c55f79362b9a51/docs/2-secundaria/archivos/Unidad3/2SEC-2BS01.jpg ':include :type=code') | [Archivo base]()
+> **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-BASE.xlsx)
 
 En esta clase veremos como aplicar estilo a celdas, usar formas y añadir simbolos en Excel.
 
 **Conceptos Clave**
 
-- colocar símbolo de grados. https://youtu.be/H3JUIidrTi8?t=109
+- Colocar símbolo de grados. https://youtu.be/H3JUIidrTi8?t=109
 
 ### Tarea semana 2:
 
