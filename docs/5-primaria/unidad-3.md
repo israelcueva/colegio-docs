@@ -24,9 +24,6 @@ Tenía S/. 14,25 el Lunes; el Martes S/. 16,89; el Miércoles cobre S/. 97 y el 
 
 Imprime tu tarea y adjuntálo en tu folder.
 
-
-<div class="currentTheme">
-
 ## 2BS02: Presento la medición de ángulos interiores de un triángulo
 
 > **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Microsoft Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-BASE.xlsx)
@@ -40,5 +37,17 @@ En esta clase veremos como aplicar estilo a celdas, usar formas y añadir simbol
 ### Tarea semana 2:
 
 Realiza lo mismo hecho en clase en tu casa.
+
+<div class="currentTheme">
+
+## 2BS03: Elaboro minigráficos para análisis estadístico
+
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-BASE.xlsx)
+
+En esta clase veremos como usar los minigráficos en Excel.
+
+### Tarea semana 3:
+
+Descarga el archivo base y completa el cuadro en casa.
 
 </div>

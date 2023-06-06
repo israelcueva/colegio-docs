@@ -13,8 +13,6 @@ En este clase veremos como usar las formas básicas en Ilustrator.
 Realiza lo mismo hecho en clase, y acompaña a la nube con un sol kawaii. Imprime y adjunta en tu folder para su presentación.
 
 
-<div class="currentTheme">
-
 ## 2BS02: Creo un icono usando el panel buscatrazos
 
 > **Fecha:** 29 de Mayo al 02 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/2BS02.png ':include :type=code') | [Guia visual](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/3SEC-2BS02.jpg ':include :type=code') | [Tarea](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/2BS02-TAREA.png ':include :type=code')
@@ -25,5 +23,18 @@ En este clase veremos como realizar un icono/logo usando el panel buscatrazos (P
 ### Tarea semana 2:
 
 Diseña el logo/icono de la imagen de tarea adjunta.
+
+
+<div class="currentTheme">
+
+## 2BS03: Uso la herramienta pluma para diseñar un ave
+
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/2BS02.png ':include :type=code') | [Guia visual](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/3SEC-2BS02.jpg ':include :type=code') | [Tarea](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/3-secundaria/archivos/Unidad3/2BS02-TAREA.png ':include :type=code')
+
+En esta clase aprenderemos a usar la herramienta Pluma.
+
+### Tarea semana 2:
+
+Realiza la ilustración del ave de muestra.
 
 </div>
