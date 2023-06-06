@@ -29,7 +29,7 @@ Realiza lo mismo hecho en clase, pero con información tuya. Guarda tu proyecto 
 
 ## 2BS03: Diseño un cuadro FODA sobre mí en Power Point
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/1-secundaria/archivos/Unidad3/S02/Creo%20una%20lista%20de%20mis%20gustos%20en%20Power%20Point.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/tree/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/1-secundaria/archivos/Unidad3/S02)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03-ModeloBase.pdf ':include :type=code') | [Imagen](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03.jpg)
 
 En esta oportunidad elaboraremos cuadro FODA y le daremos funcionalidad con hipervinculos.
 

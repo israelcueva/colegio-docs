@@ -39,7 +39,7 @@ Añade el tema escogido, crea la página de Inicio (Home) y la primera entrada (
 
 ## 2BS03: Escojo un constructor de sitios
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** <br> **Tutorial:** [Video](https://www.youtube.com/watch?v=CEOqsf5zS_o)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** [Elementor](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-secundaria/archivos/Unidad3/S02/elementor.3.13.4.zip)<br> **Tutorial:** [Elementor](https://www.youtube.com/watch?v=CEOqsf5zS_o)
 
 En esta clase aprenderemos a usar el constructor escogido: **Elementor**.
 

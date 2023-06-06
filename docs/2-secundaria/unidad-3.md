@@ -26,7 +26,7 @@ En Ilustrator realiza la imagen del buho correspondiente a la tarea, imprime y p
 
 ## 2BS03: Diseño un escenario usando buscatrazos
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/2-secundaria/archivos/Unidad3/2SEC-2BS02.png ':include :type=code') | [Tarea](https://github.com/israelcueva/colegio-docs/blob/93fac6d65ad9b07e8061eb1e433e9cd5d6d09414/docs/2-secundaria/archivos/Unidad3/2SEC-2BS02-TAREA.png ':include :type=code')
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Tarea](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/2-secundaria/archivos/Unidad3/2SEC-2BS03-TAREA.png ':include :type=code')
 
 En este clase veremos como usar el panel buscatrazos para generaR trazados complejos a través de trazados simples.
 
