@@ -42,7 +42,7 @@ Realiza lo mismo hecho en clase en tu casa.
 
 ## 2BS03: Elaboro minigráficos para análisis estadístico
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-BASE.xlsx) | [Modelo final](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-MODELO-FINAL.png)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-primaria/archivos/Unidad3/5PRIM-2BS03-BASE.xlsx) | [Archivo base2](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-primaria/archivos/Unidad3/5PRIM-2BS03-BASE.xlsx) | [Modelo final](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-primaria/archivos/Unidad3/5PRIM-2BS02-MODELO-FINAL.png)
 
 En esta clase veremos como usar los minigráficos en Excel.
 

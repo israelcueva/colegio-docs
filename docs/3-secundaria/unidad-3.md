@@ -29,7 +29,7 @@ Diseña el logo/icono de la imagen de tarea adjunta.
 
 ## 2BS03: Uso la herramienta pluma para diseñar un ave
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/3-secundaria/archivos/Unidad3/2BS03-CLASE.png ':include :type=code') [Tarea](https://png.pngtree.com/png-vector/20220410/ourlarge/pngtree-yellow-cute-cartoon-birds-png-image_4538170.png ':include :type=code')
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/3-secundaria/archivos/Unidad3/2BS03-CLASE.png ':include :type=code') | [Tarea](https://png.pngtree.com/png-vector/20220410/ourlarge/pngtree-yellow-cute-cartoon-birds-png-image_4538170.png ':include :type=code')
 
 En esta clase aprenderemos a usar la herramienta Pluma.
 

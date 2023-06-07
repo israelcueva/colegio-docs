@@ -30,7 +30,7 @@ Trata de realizar un cover similar al de la imagen de la tarea.
 
 ## 2BS03: Mejoro una fotografía usando canales
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** Cualquier imagen<br> **Tutorial:** [Video](https://www.youtube.com/watch?v=CEOqsf5zS_o)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final<br> **Archivo:** Cualquier imagen<br> **Tutorial:** [Video](https://www.youtube.com/watch?v=CEOqsf5zS_o)
 
 En esta clase aprenderemos a usar los canales para mejorar valores espécificos de nuestra imagen.
 

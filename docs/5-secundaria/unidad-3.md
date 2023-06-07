@@ -39,12 +39,39 @@ Añade el tema escogido, crea la página de Inicio (Home) y la primera entrada (
 
 ## 2BS03: Escojo un constructor de sitios
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** [Elementor](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-secundaria/archivos/Unidad3/S02/elementor.3.13.4.zip)<br> **Tutorial:** [Elementor](https://www.youtube.com/watch?v=CEOqsf5zS_o)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** [Elementor](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-secundaria/archivos/Unidad3/S02/elementor.3.13.4.zip)<br>
 
 En esta clase aprenderemos a usar el constructor escogido: **Elementor**.
 
 ### Tarea semana 3:
 
-Usa el constructor de sitios para crear una página acerca
+Usa el constructor de sitios para crear una página de ejemplo.
+
+!> Importante<br>Realizar lo siguiente para evitar problemas a la hora de instalar los plugins
+
+#### Archivo PHP.ini
+
+?> **Ubicación:** Xampp Control Panel-> Config (Apache) -> PHP (php.ini)
+
+- <code>max_execution_time=120</code> cambiar a <code>max_execution_time=180</code>
+- <code>;max_input_vars = 1000</code> cambiar a <code>max_input_vars = 10000</code>
+- <code>memory_limit=128M</code> cambiar a <code>memory_limit=512M</code>
+- <code>post_max_size=40M</code> cambiar a <code>post_max_size=1024M</code>
+- <code>upload_max_filesize=40M</code> cambiar a <code>upload_max_filesize=1024M</code>
+- <code>;extension=zip</code> cambiar a <code>extension=zip</code>
+
+#### Archivo wp_config.php
+
+?> **Ubicación:** "**C:\xampp\htdocs\wordpress**" En este caso la carpeta se llama Wordpress, toma en cuenta esto si le pusiste otro nombre.
+
+A este archivo, antes del mensaje: **That's all, stop editing! Happy publishing.** ( ¡Eso es todo, deja de editar! Feliz blogging) Agrega el código: <code>define('WP_MEMORY_LIMIT','256M');</code>. Es decir que debe quedar así:
+
+```
+/* Add any custom values between this line and the "stop editing" line. */
+
+define( 'WP_MEMORY_LIMIT', '256M' );
+/* That's all, stop editing! Happy publishing. */
+```
+
 
 </div>
