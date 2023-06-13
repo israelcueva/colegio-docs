@@ -27,8 +27,6 @@ En esta clase crearemos una presentación de Power Point sobre deportes acuátic
 
 Completa un total de 9 diapositivas sobre deportes acuáticos.
 
-<div class="currentTheme">
-
 ## 2BS03: Creo un video animado de los deportes con balón
 
 > **Fecha:** 05 al 09 de Junio<br> **Programa:** Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS03.pdf ':include :type=code')<br>
@@ -38,5 +36,11 @@ En esta clase veremos como crear un video usando Power Point.
 ### Tarea semana 3:
 
 Realiza una presentación sobre los principales referentes de cada deporte con balón que vimos en clase.
+
+<div class="currentTheme">
+
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Power Point 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS03.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS03.pdf ':include :type=code')<br>
+
+En esta clase veremos como usar audio y video en nuestras presentaciones.
 
 </div>

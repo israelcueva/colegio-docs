@@ -22,16 +22,22 @@ En este clase veremos como usar la harramienta pluma para realización de formas
 
 En Ilustrator realiza la imagen del buho correspondiente a la tarea, imprime y presneta tu proyecto en el folder.
 
-<div class="currentTheme">
-
 ## 2BS03: Diseño un escenario usando buscatrazos
 
 > **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [Tarea](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/2-secundaria/archivos/Unidad3/2SEC-2BS03-TAREA.png ':include :type=code')
 
-En este clase veremos como usar el panel buscatrazos para generaR trazados complejos a través de trazados simples.
+En este clase veremos como usar el panel buscatrazos para generar trazados complejos a través de trazados simples.
 
 ### Tarea semana 3:
 
 Realiza la ilustración de la tarea.
+
+<div class="currentTheme">
+
+## 2BS04: Interpreto luces y sombras en Ilustrator
+
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Base](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/2-secundaria/archivos/Unidad3/2SEC-2BS03-TAREA.png ':include :type=code')
+
+
 
 </div>

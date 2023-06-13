@@ -24,9 +24,6 @@ En este clase veremos como realizar un icono/logo usando el panel buscatrazos (P
 
 Diseña el logo/icono de la imagen de tarea adjunta.
 
-
-<div class="currentTheme">
-
 ## 2BS03: Uso la herramienta pluma para diseñar un ave
 
 > **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/3-secundaria/archivos/Unidad3/2BS03-CLASE.png ':include :type=code') | [Tarea](https://png.pngtree.com/png-vector/20220410/ourlarge/pngtree-yellow-cute-cartoon-birds-png-image_4538170.png ':include :type=code')
@@ -36,5 +33,13 @@ En esta clase aprenderemos a usar la herramienta Pluma.
 ### Tarea semana 2:
 
 Realiza la ilustración de tarea. Imprimir y presentar en el folder.
+
+<div class="currentTheme">
+
+## 2BS04: Elaboró una letra personalizada
+
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/3-secundaria/archivos/Unidad3/2BS03-CLASE.png ':include :type=code')
+
+En esta oportunidad elaboraremes un texto en base a una letra personalizada inspirada en el imperior incaico.
 
 </div>

@@ -26,7 +26,7 @@ En este clase veremos como usar las máscaras de capa en Photoshop.
 
 Trata de realizar un cover similar al de la imagen de la tarea.
 
-<div class="currentTheme">
+
 
 ## 2BS03: Mejoro una fotografía usando canales
 
@@ -37,5 +37,13 @@ En esta clase aprenderemos a usar los canales para mejorar valores espécificos 
 ### Tarea semana 3:
 
 Usa una fotografía tuya y mejorála usando canales. Coloca un antes y después de la fotografía mejorada. Imprimir y presentar en el folder.
+
+<div class="currentTheme">
+
+## 2BS04: Integro imágenes en un solo proyecto
+
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [Base](https://github.com/israelcueva/colegio-docs/blob/4fa66ef0abf29b3c9cf58c0f9cbe0a844ed43a0c/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02.jpg ':include :type=code')
+
+Usando los canales de luces y sombras visto en la clase pasada, igualaremos los tonos de dos imágenes distintas.
 
 </div>

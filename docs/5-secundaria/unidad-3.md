@@ -35,11 +35,9 @@ Para nuestros ejemplos usaremos el tema Deep Theme. https://webnus.net/deep-word
 
 Añade el tema escogido, crea la página de Inicio (Home) y la primera entrada (Bienvenida) en tu sitio web.
 
-<div class="currentTheme">
-
 ## 2BS03: Escojo un constructor de sitios
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Ver al final.<br> **Archivos:** [Elementor](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-secundaria/archivos/Unidad3/S02/elementor.3.13.4.zip)<br>
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final.<br> **Archivos:** [Elementor](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/5-secundaria/archivos/Unidad3/S02/elementor.3.13.4.zip)<br>
 
 En esta clase aprenderemos a usar el constructor escogido: **Elementor**.
 
@@ -72,6 +70,39 @@ A este archivo, antes del mensaje: **That's all, stop editing! Happy publishing.
 define( 'WP_MEMORY_LIMIT', '256M' );
 /* That's all, stop editing! Happy publishing. */
 ```
+
+<div class="currentTheme">
+
+## 2BS04: Añado contenido a mi sitio web
+
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Sin tarea<br>
+
+### Entradas
+
+Las entradas de un blog se dividen en categorías, además pueden llevar etiquetas para que sea más fácil su organización. Veamos un ejemplo.
+
+Tengo un blog donde comparto recetas de cocina, las categorías serían postres, sopas, segundos, etc. Las etiquetas de los postres podrían ser: Piña, Horno, Congelado, Licuado, etc Como se ve las categorías sirven para estructurar el contenido y las etiquetas para darle contexto a la receta.
+
+Para tu blog deberás añadir un total de 11 entradas. Con las características siguientes.
+
+-	Una entrada de Bienvenida con la categoría saludos.
+-	9 entradas de temas varios y múltiples categorías. Estas entradas puedes copiarlo de Internet, sin embargo, al final coloca de donde fue copiado.
+-	Una entrada original con la categoría editorial.
+
+A cada entrada añade las etiquetas que creas conveniente.
+
+### Añadiendo páginas
+
+Las páginas serían como las secciones del sitio. Las páginas que crearemos serán:
+
+-	Inicio/Home/Principal: Página con el contenido inicial del sitio.
+-	Acerca de: Página con información acerca del autor imaginario del sitio.
+-	Blog: Donde aparecerán las entradas o publicaciones del sitio. Esta página debe estar vacía.
+-	Contacto: Una sección donde se pueda contactar al autor del sitio.
+
+Todas ellas las diseñaremos usando elementor. 
+
+Recuerda que desde los ajustes de lectura debe estar configurado para que la portada sea una página estática (Inicio) y la página de entradas sea blog.
 
 
 </div>

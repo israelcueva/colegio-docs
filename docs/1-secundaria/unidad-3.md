@@ -25,9 +25,19 @@ En esta oportunidad elaboraremos una lista de nuestros gusto en Power Point.
 
 Realiza lo mismo hecho en clase, pero con información tuya. Guarda tu proyecto en PDF e imprimelo. Adjuntar en folder.
 
+## 2BS03: Diseño un cuadro FODA sobre mí en Power Point
+
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03-ModeloBase.pdf ':include :type=code') | [Imagen](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03.jpg)
+
+En esta oportunidad elaboraremos cuadro FODA y le daremos funcionalidad con hipervinculos.
+
+### Tarea semana 3:
+
+Realiza tu propio cuadro FODA usando Power Point.
+
 <div class="currentTheme">
 
-## 2BS03: Diseño un cuadro FODA sobre mí en Power Point
+## 2BS04: Uso gráficos para representarme
 
 > **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03-ModeloBase.pdf ':include :type=code') | [Imagen](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03.jpg)
 
