@@ -38,7 +38,7 @@ Realiza la ilustración de tarea. Imprimir y presentar en el folder.
 
 ## 2BS04: Elaboró una letra personalizada
 
-> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/3-secundaria/archivos/Unidad3/2BS03-CLASE.png ':include :type=code')
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/e3bfd3d550ea32239b08f821350616bdb0098f26/docs/3-secundaria/archivos/Unidad3/3SEC-2BS04-MODELO-FINAL.png ':include :type=code')
 
 En esta oportunidad elaboraremes un texto en base a una letra personalizada inspirada en el imperior incaico.
 
