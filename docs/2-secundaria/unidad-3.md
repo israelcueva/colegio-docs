@@ -36,8 +36,9 @@ Realiza la ilustración de la tarea.
 
 ## 2BS04: Interpreto luces y sombras en Ilustrator
 
-> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Base](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/2-secundaria/archivos/Unidad3/2SEC-2BS03-TAREA.png ':include :type=code')
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/2-secundaria/archivos/Unidad3/2SEC-2BS04.png ':include :type=code')
 
+En esta oportunidad veremos una de las técnicas para interpretar luces y sombras en Ilustrator usando degradados.
 
 
 </div>

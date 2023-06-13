@@ -39,7 +39,7 @@ Realiza tu propio cuadro FODA usando Power Point.
 
 ## 2BS04: Uso gráficos para representarme
 
-> **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03-ModeloBase.pdf ':include :type=code') | [Imagen](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/1-secundaria/archivos/Unidad3/S03/2BS03.jpg)
+> **Fecha:** 05 al 09 de Junio<br> **Programa:** Microsoft Power Point 2015 en adelante<br> **Tarea:** Ver al final.<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/1-secundaria/archivos/Unidad3/S04/1SEC-2BS04-ModeloFinal.pdf ':include :type=code') | [Base](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/1-secundaria/archivos/Unidad3/S04/2BS04-%20Graficos%20para%20mi%20personalidad%20BASE.pptx)
 
 En esta oportunidad elaboraremos cuadro FODA y le daremos funcionalidad con hipervinculos.
 

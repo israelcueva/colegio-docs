@@ -39,7 +39,7 @@ Realiza una presentación sobre los principales referentes de cada deporte con b
 
 <div class="currentTheme">
 
-> **Fecha:** 12 al 16 de Junio<br> **Programa:** Power Point 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS03.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/blob/2168a6b79bbb40e9c453db8ae2e39f3559ba9176/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS03.pdf ':include :type=code')<br>
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Power Point 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS04.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS04.zip ':include :type=code')<br>
 
 En esta clase veremos como usar audio y video en nuestras presentaciones.
 

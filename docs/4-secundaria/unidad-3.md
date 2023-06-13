@@ -42,7 +42,7 @@ Usa una fotografía tuya y mejorála usando canales. Coloca un antes y después 
 
 ## 2BS04: Integro imágenes en un solo proyecto
 
-> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [Base](https://github.com/israelcueva/colegio-docs/blob/4fa66ef0abf29b3c9cf58c0f9cbe0a844ed43a0c/docs/4-secundaria/archivos/Unidad3/4SEC-2BS02.jpg ':include :type=code')
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Photoshop CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [Fondo](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/4-secundaria/archivos/Unidad3/4SEC-2BS04-FONDO.jpg ':include :type=code') | [Paloma](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/4-secundaria/archivos/Unidad3/4SEC-2BS4-PALOMA.png)
 
 Usando los canales de luces y sombras visto en la clase pasada, igualaremos los tonos de dos imágenes distintas.
 
