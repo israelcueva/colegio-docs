@@ -52,7 +52,7 @@ Descarga el archivo base y completa el cuadro en casa.
 
 ## 2BS04: Creo la calcudora para determinar el IMC
 
-> **Fecha:** 12 al 16 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-BASE.xlsx) | [Modelo final](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-MODELO-FINAL.png) | [Imágenes](https://github.com/israelcueva/colegio-docs/tree/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3)
+> **Fecha:** 12 al 16 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-BASE.xlsx) | [Archivo base 2](https://github.com/israelcueva/colegio-docs/blob/0de6f652a101abee3d9286c48c3950cbd02e456b/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-BASE-2.xlsx) | [Modelo final](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-MODELO-FINAL.png) | [Imágenes](https://github.com/israelcueva/colegio-docs/tree/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3)
 
 En esta oportunidad veremos como crear una calculadora para el índice de masa muscular en Excel.
 
