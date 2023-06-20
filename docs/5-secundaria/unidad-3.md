@@ -71,8 +71,6 @@ define( 'WP_MEMORY_LIMIT', '256M' );
 /* That's all, stop editing! Happy publishing. */
 ```
 
-<div class="currentTheme">
-
 ## 2BS04: Añado contenido a mi sitio web
 
 > **Fecha:** 12 al 16 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Sin tarea<br>
@@ -103,6 +101,25 @@ Las páginas serían como las secciones del sitio. Las páginas que crearemos se
 Todas ellas las diseñaremos usando elementor. 
 
 Recuerda que desde los ajustes de lectura debe estar configurado para que la portada sea una página estática (Inicio) y la página de entradas sea blog.
+
+<div class="currentTheme">
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Wordpress<br>
+
+### Práctica Calificada
+
+Para tu práctica tu sitio de Wordpress debe tener lo siguiente:
+
+- **11 Entradas:** Una entrada de bienvenida, una entrada original del tema y 9 entradas que pueden ser copiados de otros sitios. Cada entrada con su respectiva categoría y etiquetas.
+- **4 Páginas:** La página de inicio (Diseñada con Elementor), Acerca de (Donde hablarás del autor), Blog (Donde se mostraran las entradas), Contacto (Donde iran los datos de contacto).
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de María](https://www.canva.com/design/DAFldtCOBV0/ew9MmLRIBdJD38lYJ7Lrjg/view?utm_content=DAFldtCOBV0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 </div>

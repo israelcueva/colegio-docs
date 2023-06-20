@@ -37,12 +37,29 @@ En esta clase veremos como crear un video usando Power Point.
 
 Realiza una presentación sobre los principales referentes de cada deporte con balón que vimos en clase.
 
-<div class="currentTheme">
-
 ## 2BS04: Presento un video sobre deportes de aventura
 
 > **Fecha:** 12 al 16 de Junio<br> **Programa:** Power Point 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivos:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS04.pdf ':include :type=code') | [Archivos](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS04.zip ':include :type=code')<br>
 
 En esta clase veremos como usar audio y video en nuestras presentaciones.
+
+<div class="currentTheme">
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Power Point<br> **Archivo:** [Archivo Base]()
+
+### Práctica Calificada
+
+Para tu práctica deberas hacer lo siguiente:
+
+Mira el archivo de ejemplo y crea una diapositiva similar, añade transiciones y animaciones.
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 </div>

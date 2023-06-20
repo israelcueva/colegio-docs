@@ -35,7 +35,6 @@ En esta oportunidad elaboraremos cuadro FODA y le daremos funcionalidad con hipe
 
 Realiza tu propio cuadro FODA usando Power Point.
 
-<div class="currentTheme">
 
 ## 2BS04: Uso gráficos para representarme
 
@@ -46,5 +45,24 @@ En esta oportunidad elaboraremos cuadro FODA y le daremos funcionalidad con hipe
 ### Tarea semana 3:
 
 Realiza tu propio cuadro FODA usando Power Point.
+
+<div class="currentTheme">
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Power Point<br>
+
+### Práctica Calificada
+
+Para tu práctica deberas hacer lo siguiente:
+
+Crear un presentación sobre Miguel Grau, con un mínimo de 6 diapositivas. Usa todos los recursos aprendidos para que tu presentación sea visualmente atractiva.
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de Juanita](https://www.canva.com/design/DAFlMxa-QKM/mrWsdB-Z9YwpDXUPI9IXng/view?utm_content=DAFlMxa-QKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 </div>

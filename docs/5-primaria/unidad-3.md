@@ -48,12 +48,27 @@ En esta clase veremos como usar los minigráficos en Excel.
 
 Descarga el archivo base y completa el cuadro en casa.
 
-<div class="currentTheme">
-
 ## 2BS04: Creo la calcudora para determinar el IMC
 
 > **Fecha:** 12 al 16 de Junio<br> **Programa:** Excel 2015 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [Archivo base](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-BASE.xlsx) | [Archivo base 2](https://github.com/israelcueva/colegio-docs/blob/0de6f652a101abee3d9286c48c3950cbd02e456b/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-BASE-2.xlsx) | [Modelo final](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3/5PRIM-2BS04-MODELO-FINAL.png) | [Imágenes](https://github.com/israelcueva/colegio-docs/tree/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/5-primaria/archivos/Unidad3)
 
 En esta oportunidad veremos como crear una calculadora para el índice de masa muscular en Excel.
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Excel<br> <br> **Archivo:** [Archivo Base]() | [Modleo Final]()
+
+### Práctica Calificada
+
+Para tu práctica deberas hacer lo siguiente:
+
+Mira el archivo de ejemplo y usando el archivo base recrea lo mismo.
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 
 </div>
