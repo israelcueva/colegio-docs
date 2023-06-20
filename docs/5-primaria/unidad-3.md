@@ -56,7 +56,7 @@ En esta oportunidad veremos como crear una calculadora para el índice de masa m
 
 ## 2BS05: Práctica Calificada & Revisión de folder
 
-> **Fecha:** 19 al 23 de Junio<br> **Programa:** Excel<br> <br> **Archivo:** [Archivo Base]() | [Modleo Final]()
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Excel<br> **Archivo:** [Archivo Base](https://github.com/israelcueva/colegio-docs/blob/3aaee5a03183c2602ccc09c1aa482b80b0020e98/docs/5-primaria/archivos/Unidad3/5PRIM-2BS05-EXAMEN-BASE.xlsx) | [Modelo Final](https://github.com/israelcueva/colegio-docs/blob/3aaee5a03183c2602ccc09c1aa482b80b0020e98/docs/5-primaria/archivos/Unidad3/5PRIM-2BS05-EXAMEN.pdf)
 
 ### Práctica Calificada
 

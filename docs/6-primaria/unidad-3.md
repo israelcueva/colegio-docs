@@ -47,7 +47,7 @@ En esta clase veremos como usar audio y video en nuestras presentaciones.
 
 ## 2BS05: Práctica Calificada & Revisión de folder
 
-> **Fecha:** 19 al 23 de Junio<br> **Programa:** Power Point<br> **Archivo:** [Archivo Base]()
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Power Point<br> **Archivo:** [Archivo Base](https://github.com/israelcueva/colegio-docs/blob/3aaee5a03183c2602ccc09c1aa482b80b0020e98/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS05-EXAMEN.pdf)
 
 ### Práctica Calificada
 
