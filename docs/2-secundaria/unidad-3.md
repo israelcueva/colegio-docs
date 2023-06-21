@@ -32,13 +32,31 @@ En este clase veremos como usar el panel buscatrazos para generar trazados compl
 
 Realiza la ilustración de la tarea.
 
-<div class="currentTheme">
-
 ## 2BS04: Interpreto luces y sombras en Ilustrator
 
 > **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/c270d174436739d11d2dcbd2886ba9136c7c99b3/docs/2-secundaria/archivos/Unidad3/2SEC-2BS04.png ':include :type=code')
 
 En esta oportunidad veremos una de las técnicas para interpretar luces y sombras en Ilustrator usando degradados.
 
+<div class="currentTheme">
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final]()
+
+### Práctica Calificada
+
+Para tu práctica, mira el modelo final y realiza lo siguiente:
+
+- Añade un rectángulo y píntalo de color celeste para el fondo.
+- Usa un elipse y juega con los colores y opacidades para generar la sombra.
+- Une varios elipses usando buscatrazos para la nube y le colocas el degradado correspondiente para asimilar el efecto 3D.
+- Completa la Ilustración colocando los ojos y la boca.
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 </div>

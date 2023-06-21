@@ -34,12 +34,30 @@ En esta clase aprenderemos a usar la herramienta Pluma.
 
 Realiza la ilustración de tarea. Imprimir y presentar en el folder.
 
-<div class="currentTheme">
-
 ## 2BS04: Elaboró una letra personalizada
 
 > **Fecha:** 12 al 16 de Junio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/e3bfd3d550ea32239b08f821350616bdb0098f26/docs/3-secundaria/archivos/Unidad3/3SEC-2BS04-MODELO-FINAL.png ':include :type=code')
 
 En esta oportunidad elaboraremes un texto en base a una letra personalizada inspirada en el imperior incaico.
+
+<div class="currentTheme">
+
+## 2BS05: Práctica Calificada & Revisión de folder
+
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final]()
+
+### Práctica Calificada
+
+Para tu práctica, mira el modelo final y realiza lo siguiente:
+
+- Se te entrega la tipografía de muestra con la palabra PEPITO.
+- Usa dicha tipografía para realizar la frase bíblica.
+- Recuerda usar la cuadricula para ajustar los trazados.
+
+### Folder de Computación
+
+Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
+
+- [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 </div>
