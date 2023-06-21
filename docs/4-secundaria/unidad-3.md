@@ -48,7 +48,7 @@ Usando los canales de luces y sombras visto en la clase pasada, igualaremos los 
 
 ## 2BS05: Práctica Calificada & Revisión de folder
 
-> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final]() | [Modelo Final]()
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Imagen Base](https://github.com/israelcueva/colegio-docs/blob/586aba37fec444816a276da9962199f9ffa3e156/docs/4-secundaria/archivos/Unidad3/4SEC-2BS5-IMAGEN-BASE.png) | [Modelo Final](https://github.com/israelcueva/colegio-docs/blob/586aba37fec444816a276da9962199f9ffa3e156/docs/4-secundaria/archivos/Unidad3/4SEC-2BS5-IMAGEN-FINAL.png)
 
 ### Práctica Calificada
 
