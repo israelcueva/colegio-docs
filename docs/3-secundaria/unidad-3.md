@@ -44,7 +44,7 @@ En esta oportunidad elaboraremes un texto en base a una letra personalizada insp
 
 ## 2BS05: Práctica Calificada & Revisión de folder
 
-> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final]()
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final](https://github.com/israelcueva/colegio-docs/blob/586aba37fec444816a276da9962199f9ffa3e156/docs/3-secundaria/archivos/Unidad3/3SEC-2BS05-EXAMEN.png)
 
 ### Práctica Calificada
 

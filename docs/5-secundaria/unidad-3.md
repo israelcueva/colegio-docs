@@ -102,8 +102,6 @@ Todas ellas las diseñaremos usando elementor.
 
 Recuerda que desde los ajustes de lectura debe estar configurado para que la portada sea una página estática (Inicio) y la página de entradas sea blog.
 
-<div class="currentTheme">
-
 ## 2BS05: Práctica Calificada & Revisión de folder
 
 > **Fecha:** 19 al 23 de Junio<br> **Programa:** Wordpress<br>
@@ -122,4 +120,3 @@ Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-comp
 - [Folder de María](https://www.canva.com/design/DAFldtCOBV0/ew9MmLRIBdJD38lYJ7Lrjg/view?utm_content=DAFldtCOBV0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
-</div>

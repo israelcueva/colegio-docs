@@ -4,7 +4,7 @@
 
 ## 2BS06 - Instalo el plugin Woocommerce
 
-> **Fecha:** 26 al 30 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/67007522c14692eed50dfc3237c56663c29c477b/docs/5-secundaria/archivos/Unidad4/woocommerce.7.8.0.zip ':include :type=code')
+> **Fecha:** 26 al 30 de Junio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/7f50c4bdb174f5f43f9eff963b208fbb7b3efb70/docs/5-secundaria/archivos/Unidad4/woocommerce.7.8.0.zip ':include :type=code')
 
 En esta oportunidad aprenderemos como configurar nuestra tienda en línea usando el plugin Woocommerce para Wordpress.
 
