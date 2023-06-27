@@ -43,8 +43,6 @@ Realiza una presentación sobre los principales referentes de cada deporte con b
 
 En esta clase veremos como usar audio y video en nuestras presentaciones.
 
-<div class="currentTheme">
-
 ## 2BS05: Práctica Calificada & Revisión de folder
 
 > **Fecha:** 19 al 23 de Junio<br> **Programa:** Power Point<br> **Archivo:** [Archivo Base](https://github.com/israelcueva/colegio-docs/blob/3aaee5a03183c2602ccc09c1aa482b80b0020e98/docs/6-primaria/archivos/Unidad3/6TOPRIM-2BS05-EXAMEN.pdf)
@@ -60,6 +58,3 @@ Mira el archivo de ejemplo y crea una diapositiva similar, añade transiciones y
 Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
 
 - [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-
-</div>

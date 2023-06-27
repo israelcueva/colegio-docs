@@ -38,11 +38,9 @@ Realiza la ilustración de la tarea.
 
 En esta oportunidad veremos una de las técnicas para interpretar luces y sombras en Ilustrator usando degradados.
 
-<div class="currentTheme">
-
 ## 2BS05: Práctica Calificada & Revisión de folder
 
-> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final]()
+> **Fecha:** 19 al 23 de Junio<br> **Programa:** Ilustrator<br> **Archivo:** [Modelo Final](https://github.com/israelcueva/colegio-docs/blob/586aba37fec444816a276da9962199f9ffa3e156/docs/2-secundaria/archivos/Unidad3/2SEC-2BS05-EXAMEN.png)
 
 ### Práctica Calificada
 
@@ -58,5 +56,3 @@ Para tu práctica, mira el modelo final y realiza lo siguiente:
 Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-computación). También puedes tomar este folder de ejemplo:
 
 - [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-</div>
