@@ -40,7 +40,6 @@ Realiza la ilustración de tarea. Imprimir y presentar en el folder.
 
 En esta oportunidad elaboraremes un texto en base a una letra personalizada inspirada en el imperior incaico.
 
-<div class="currentTheme">
 
 ## 2BS05: Práctica Calificada & Revisión de folder
 
@@ -60,4 +59,3 @@ Para este folder debes tener lo pedido en esta [sección](/?id=_3-folder-de-comp
 
 - [Folder de Pepito](https://www.canva.com/design/DAFjszqgKGE/F_ujj4U5TmxYIWFDHVcVVA/view?utm_content=DAFjszqgKGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-</div>
