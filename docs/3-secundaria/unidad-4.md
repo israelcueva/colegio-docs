@@ -14,7 +14,7 @@ Tarea Semana 6:
 
 ## 2BS07 - Diseño un hero image usando degradados
 
-> **Fecha:** 03 al 07 de Julio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/266bd772153e225878c750122c6b5743d5396772/docs/2-secundaria/archivos/Unidad4/2SEC-2BS06-DIBUJAR-DENTRO.jpeg ':include :type=code')
+> **Fecha:** 03 al 07 de Julio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/3-secundaria/archivos/Unidad4/3SEC-2BS76-HERO-IMAGE.png ':include :type=code')
 
 Para esta clase veremos como usar blobs para generar diseños líquidos.
 

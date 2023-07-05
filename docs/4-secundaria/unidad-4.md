@@ -15,7 +15,7 @@ Tarea Semana 6:
 
 ## 2BS07 - Uso la herramienta pluma para crear fuego
 
-> **Fecha:** 03 al 07 de Julio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/266bd772153e225878c750122c6b5743d5396772/docs/4-secundaria/archivos/Unidad4/2SEC-4SEC-2BS06-ILUSTRACION.png ':include :type=code')
+> **Fecha:** 03 al 07 de Julio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/4-secundaria/archivos/Unidad4/4SEC-2BS07-FUEGO.png ':include :type=code')
 
 En esta oportunidad aprenderemos el uso de la herramienta Pluma y crearemos un trazado compuesto.
 
