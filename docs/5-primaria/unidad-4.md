@@ -14,7 +14,7 @@ En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar las 
 
 ## 2BS07 - Preparo un álbum de fotos de prendas de vestir
 
-> **Fecha:** 03 al 07 de Julio<br> **Programa:** Power Point<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/7f50c4bdb174f5f43f9eff963b208fbb7b3efb70/docs/5-primaria/archivos/Unidad4/2BS06-MODELO-FINAL.pdf ':include :type=code')
+> **Fecha:** 03 al 07 de Julio<br> **Programa:** Power Point<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/5-primaria/archivos/Unidad4/5PRIM-2BS07-CLOTH.pdf ':include :type=code') | [Base](https://github.com/israelcueva/colegio-docs/blob/4a0350bdc3b9738dc43565c1bd853ec5947eb6a9/docs/5-primaria/archivos/Unidad4/5PRIM-2BS07-BASE.pptx)
 
 En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar los distintos tipos de prenda en ese Idioma.
 
