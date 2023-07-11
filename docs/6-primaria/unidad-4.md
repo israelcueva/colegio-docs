@@ -24,9 +24,9 @@ En este oportunidad veremos como usar el asistente de improtación para usar fra
 
 ## 2BS08 - Presento los buenos modales en Inglés
 
-> **Fecha:** 10 al 14 de Julio<br> **Programa:** VSDC Editor<br> **Tarea:** Sin tarea<br> **Archivos:** [Música - SOA - Roa](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/6-primaria/archivos/Unidad4/6PRIM-2BS07-FRAMES.zip)
+> **Fecha:** 10 al 14 de Julio<br> **Programa:** VSDC Editor<br> **Tarea:** Sin tarea<br> **Archivos:** [Música - SOA - Roa](https://github.com/israelcueva/colegio-docs/blob/a2a3dd354bbbf71f2aa347c85aeedbccdd505df1/docs/6-primaria/archivos/Unidad4/Roa%20-%20Sora.mp3)
 
-En esta clase crearemosw un video sobre los modales, usando títulos y música.
+En esta clase crearemos un video sobre los modales, usando títulos y música.
 
 - [Please](https://teamjapanese.com/wp-content/uploads/2021/12/please-in-japanese-768x512.jpg)
 - [Excuse me](https://www.beautysided.com/wp-content/uploads/2022/09/Beautiful-smiling-shy-girl-looking-down-isolated-on-pink-.jpeg)

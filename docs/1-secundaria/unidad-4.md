@@ -20,7 +20,7 @@ En esta oportunidad veremos como crear una presentación-video sobre la vida de 
 
 ## 2BS08 - Uso de animaciones para la elaboración de un GIF animado
 
-> **Fecha:** 10 al 15 de Julio<br> **Programa:** Power Point<br> **Tarea:** Sin tarea<br> **Archivo:** [Música](https://mismp3cristianos.net/musica-cristiana-pablo-olivares-mp3/)
+> **Fecha:** 10 al 15 de Julio<br> **Programa:** Power Point<br> **Tarea:** Sin tarea<br> **Archivo:** [Base](https://github.com/israelcueva/colegio-docs/blob/a2a3dd354bbbf71f2aa347c85aeedbccdd505df1/docs/1-secundaria/archivos/Unidad4/1SEC-2BS08-BASE.pptx)
 
 En esta oportunidad veremos como crear una presentación-video sobre la vida de Jesús. 
 

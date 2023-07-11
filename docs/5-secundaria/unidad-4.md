@@ -13,7 +13,7 @@ En esta oportunidad aprenderemos como configurar nuestra tienda en línea usando
 
 ## 2BS07 - Creo y gestiono mi inventario de productos
 
-> **Fecha:** 03 al 07 de Julio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/7f50c4bdb174f5f43f9eff963b208fbb7b3efb70/docs/5-secundaria/archivos/Unidad4/woocommerce.7.8.0.zip ':include :type=code') | [Datos Ejemplo]()
+> **Fecha:** 03 al 07 de Julio<br> **Programa:** Wordpress<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/7f50c4bdb174f5f43f9eff963b208fbb7b3efb70/docs/5-secundaria/archivos/Unidad4/woocommerce.7.8.0.zip ':include :type=code') | [Datos Ejemplo](https://github.com/israelcueva/colegio-docs/blob/a2a3dd354bbbf71f2aa347c85aeedbccdd505df1/docs/5-secundaria/archivos/Unidad4/shein-data2.csv)
 
 En esta oportunidad agregaremos productos a nuestra tienda en línea, configuraremos la página donde irá dicha tienda y el sidebar de esa tienda.
 
