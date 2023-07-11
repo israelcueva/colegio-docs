@@ -10,8 +10,6 @@ En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar las 
 
 - Realiza una presentación de las partes de una computadora en Inglés.
 
-<div class="currentTheme">
-
 ## 2BS07 - Preparo un álbum de fotos de prendas de vestir
 
 > **Fecha:** 03 al 07 de Julio<br> **Programa:** Power Point<br> **Tarea:** Ver al final<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/5-primaria/archivos/Unidad4/5PRIM-2BS07-CLOTH.pdf ':include :type=code') | [Base](https://github.com/israelcueva/colegio-docs/blob/4a0350bdc3b9738dc43565c1bd853ec5947eb6a9/docs/5-primaria/archivos/Unidad4/5PRIM-2BS07-BASE.pptx)
@@ -21,5 +19,14 @@ En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar los 
 **Tarea Semana 7:**
 
 - Realiza una presentación de estos [alimentos](https://a5a3c8e4.rocketcdn.me/wp-content/uploads/2020/05/Alimentos-en-ingl%C3%A9s-1024x692.jpg) en Inglés. Imprimir y presentar en folder.
+
+<div class="currentTheme">
+
+## 2BS08 - Muestro los saludos más conocidos en Inglés
+
+> **Fecha:** 10 al 14 de Julio<br> **Programa:** Power Point<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/2e32d3b4a7923ee1a0235cec09c58c52aafbb424/docs/5-primaria/archivos/Unidad4/5PRIM-2BS07-CLOTH.pdf ':include :type=code')
+
+En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar los saludos más conocidos en Inglés.
+
 
 </div>
