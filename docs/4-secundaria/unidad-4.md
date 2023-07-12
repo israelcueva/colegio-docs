@@ -11,7 +11,7 @@ Tarea Semana 6:
 
 - Basado en lo que hicimos realiza tu ilustración, añadiendo elementos ideados por tí.
 
-<div class="currentTheme">
+
 
 ## 2BS07 - Uso la herramienta pluma para crear fuego
 
@@ -23,6 +23,13 @@ Tarea Semana 6:
 
 - Crea el mismo diseño, pero usando colores basados en azul.
 
-</div>
+<div class="currentTheme">
 
+## 2BS08 - Uso la herramienta pluma para vectorizar una imagen
+
+> **Fecha:** 10 al 14 de Julio<br> **Programa:** Adobe Ilustrator CS6 en adelante<br> **Tarea:** Sin tarea **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/bbedf1d6782fab419fd778f510a6efe69a324b55/docs/4-secundaria/archivos/Unidad4/4SEC-2BS08-TUMI.png)
+
+En esta oportunidad aprenderemos el uso de la herramienta Pluma y crearemos un trazado compuesto.
+
+</div>
 
