@@ -14,7 +14,7 @@ En esta clase veremos como usar las etiquetas semánticas para generar una plant
 
 <div class="currentTheme">
 
-## 3BS03 - Creo una aplicación responsiva usando media querys.
+## 3BS03 - Creo una aplicación responsiva usando media querys
 
 > **Fecha:** 21 al 25 de Agosto<br> **Programa:** Editor de código<br>  **Tarea:** Escoge otro artículo de Wikipedia y replicalo como se hizó en clase.<br> **Archivo:** [Enlace]()
 
