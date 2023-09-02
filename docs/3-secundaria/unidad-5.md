@@ -18,10 +18,24 @@ En esta clase veremos como usar las etiquetas semánticas para generar una plant
 
 Durante esta clase veremos como replicar un artículo de Wikipedia.
 
-<div class="currentTheme">
-
 ## 3BS04 -  Uso una tabla para representar mi horario
 
 > **Fecha:** 28 de Agosto al 01 de Setiembre<br> **Programa:** Editor de código<br>  **Tarea:** Crea el horario de tu aula<br> **Archivo:** [Enlace](https://replit.com/@israelcueva/3S3BS04-HORARIO) / [Fichas](https://app.box.com/s/bb6afk6ro4bui12kdgqpkrtitre1st6d)
+
+En esta clase veremos como crear una tabla desde HTML.
+
+<div class="currentTheme">
+
+## 3BS05 - Revisión de Folder y Práctica calificada
+
+> **Fecha:** 04 al 08 de Setiembre<br> **Programa:** Editor de código<br> **Archivo:** [Carpeta](https://app.box.com/s/0dexih33q7ag9wuzzs1pggjyt5kltyep)
+
+### Folder
+
+Esta semana te tocará entregar la totalidad de tareas en el folder, cumpliendo los requerimientos de la misma.
+
+### Práctica Calificada
+
+Crea tu horario en HTML, presenta la práctica en USB la próxima clase o bien envialo por correo: israel@israelcueva.com
 
 </div>
