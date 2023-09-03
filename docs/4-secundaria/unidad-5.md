@@ -12,15 +12,15 @@ Esta clase será una introducción a lo que es HTML y entendiendo su estructura 
 
 En esta clase veremos como usar las etiquetas semánticas para generar una plantilla base.
 
-## 3BS03 - Creo una aplicación responsiva usando media querys
+## 3BS03 - Creo una aplicación responsiva usando mediaqueries
 
 > **Fecha:** 21 al 25 de Agosto<br> **Programa:** Editor de código<br>  **Tarea:** Escoge otro artículo de Wikipedia y replicalo como se hizó en clase.<br> **Archivos:** [Proyecto](https://replit.com/@israelcueva/4S3BS02-MENU-SIMPLE#index.html) | [Archivos](https://app.box.com/s/4a2lnbrnxzvqqugm587oayaderjp5apd) | [Video](https://youtu.be/uoyMVcl_9co)
 
 Durante esta clase veremos como replicar un artículo de Wikipedia.
 
-## 3BS04 - Creo una aplicación responsiva usando media querys
+## 3BS04 - Descargo y edito una plantilla de Internet
 
-> **Fecha:** 28 de Agosto al 01 de Setiembre<br> **Programa:** Editor de código<br>  **Tarea:** Escoge otro artículo de Wikipedia y replicalo como se hizó en clase.<br> **Archivos:** [Archivos](https://app.box.com/s/4a2lnbrnxzvqqugm587oayaderjp5apd) | [Video](https://youtu.be/uoyMVcl_9co)
+> **Fecha:** 28 de Agosto al 01 de Setiembre<br> **Programa:** Editor de código<br>  **Tarea:** Escoge otro artículo de Wikipedia y replicalo como se hizó en clase.<br> **Archivos:** [Archivos](https://app.box.com/s/4a2lnbrnxzvqqugm587oayaderjp5apd) | [Video](https://youtu.be/IM7WoBCJSvs)
 
 En esta semana descargaremos una plantilla HTML de Internet y la editaremos según nuestros requerimientos.
 
