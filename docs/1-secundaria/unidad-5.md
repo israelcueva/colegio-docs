@@ -24,8 +24,6 @@ En esta clase daremos un repaso sobre los porcentajes y como usarlos en Excel.
 
 En esta clase daremos una Introducción al uso de gráficos para representar datos de manera visual y entendible.
 
-<div class="currentTheme">
-
 ## 3BS05 - Práctica Calificada & Revisión de folder
 
 > **Fecha:** 04 al 08 de Setiembre<br> **Programa:** Microsoft Excel<br> **Archivo:** [Carpeta](https://app.box.com/s/3yelumaa4ifg1d9uurs0lnixdg5p338i)
@@ -37,5 +35,3 @@ Esta semana te tocará entregar la totalidad de tareas en el folder, cumpliendo 
 ### Práctica Calificada
 
 Mira el modelo adjunto en la carpeta de archivos del grado (Semana 4). Usa la última fila para saber donde usar fórmulas. Guarda tu proyecto en formato XLSX, présentalo en USB o envialo por correo: israel@israelcueva.com
-
-</div>
