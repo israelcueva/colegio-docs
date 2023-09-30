@@ -24,7 +24,7 @@ En este clase veremos como añadir luces y sombras a nuestro fondo
 
 ## 3BS09 -  Práctica Calificada & Revisión de folder
 
-> **Fecha:** 02 al 06 de Octubre<br> **Programa:** Adobe Photoshop<br>
+> **Fecha:** 02 al 06 de Octubre<br> **Programa:** Adobe Photoshop<br>**Archivo:** [Base & Modelo Final](https://app.box.com/s/0dexih33q7ag9wuzzs1pggjyt5kltyep)
 
 ### Folder
 

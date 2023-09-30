@@ -36,7 +36,7 @@ Puedes presentar cualquiera de estos dos proyectos:
 
 #### 1. Práctica Calificada
 
-Para esta práctica debes editar el proyecto facilitado por el profesor. Cambiando los colores según lo siguientes criterios.
+Para esta práctica debes editar el proyecto facilitado por el profesor. Cambiando los colores según los siguientes criterios.
 
 - **Modo de presentación:** En USB (Clase) o usando REPL y compartiendo el enlace.
 - **Fecha y hora límite:** El límite de tiempo para presentar será hasta que termine la hora de Computación.
