@@ -36,7 +36,15 @@ Puedes presentar cualquiera de estos dos proyectos:
 
 #### 1. Práctica Calificada
 
-El arhivo base, como el modelo final se encuentran en la carpeta del tercer bimestre, en la semana 5. Descargar y procurar igualar el modelo final.
+El arhivo base, como el modelo final se encuentran en la carpeta del tercer bimestre, en la semana 9. Descargar y procurar igualar el modelo final.
+
+- Para las tres últimas columnas deberás usar las fórmulas **MAX**, **MIN** y **PROMEDIO**.
+- Usa el botón que permite disminuir decimales para que solo queden dos.
+- Usa formato condicional para que las estadísticas por país aparezcan en rojo si son menores de 0 y verde si es al contrario.
+- Añade el gráfico para visualizar todos los datos.
+- Agrega los colores y estilos mostrados.
+
+Para presentar toma en cuenta lo siguiente:
 
 - **Modo de presentación:** En clase (USB), por correo o por WhatsApp (Indicando datos completos).
 - **Fecha y hora límite:** El límite de tiempo para presentar será hasta que termine la hora de Computación.
