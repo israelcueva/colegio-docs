@@ -36,7 +36,7 @@ Puedes presentar cualquiera de estos dos proyectos:
 
 #### 1. Práctica Calificada
 
-Para esta práctica debes crear un "edit" de la película **Desafiando gigantes** y usando esta canción https://www.youtube.com/watch?v=ocZX1Je_gfE, ya sea en inglés o español.  
+Para esta práctica debes crear un "edit" de la película [Desafiando gigantes](https://www.mediafire.com/file/8zgc6nx3ubjvvve/Facing.The.Giants.2006.1080P.BibliotecaFilmicaCristiana.Blogspot.mp4/file) y usando esta canción https://www.youtube.com/watch?v=ocZX1Je_gfE, ya sea en inglés o español.  
 
 - **Modo de presentación:** En USB (Clase) o usando Youtube y compartiendo el enlace.
 - **Fecha y hora límite:** El límite de tiempo para presentar será hasta que termine la hora de Computación.
