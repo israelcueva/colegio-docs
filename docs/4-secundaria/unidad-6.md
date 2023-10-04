@@ -44,7 +44,7 @@ Para esta práctica debes editar el proyecto facilitado por el profesor. Cambian
 
 #### 2. Concurso
 
-El concurso trata sobre la creación de un afiche de las Olimpiadas para tu colegio usando Photoshop.
+El concurso trata sobre la creación de una landing page sobre las Olimpiadas de tu colegio.
 
 - **Modo de presentación:** Enviar a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EsGn_GXXW9hBlHSzQkg9uf4BXH0bL1yfkqLe9ZkgvQ31KA). Indicando Nombre y Apellidos completos del estudiante.
 - **Fecha y hora límite:** El límite de tiempo para presentar será hasta el día Miércoles 04 de Octubre.
