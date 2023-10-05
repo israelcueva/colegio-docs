@@ -2,13 +2,13 @@
 
 ## 3BS06 - Uso inputs para crear un formulario
 
-> **Fecha:** 11 al 15 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Busca la lista completa de tipos de input's e imprimelo<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S-3BS06-INPUTS#index.html) | [Carpeta](https://app.box.com/s/3yelumaa4ifg1d9uurs0lnixdg5p338i)
+> **Fecha:** 11 al 15 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Busca la lista completa de tipos de input's e imprimelo<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S-3BS06-INPUTS#index.html) | [Carpeta](https://app.box.com/s/bb6afk6ro4bui12kdgqpkrtitre1st6d)
 
 Etsa semana veremos el uso de input's para la creación de formularios
 
 ## 3BS07 - Muestro un listado de imágenes en forma local
 
-> **Fecha:** 18 al 22 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Crea tu propia tienda de video juegos o series con como mínimo 40 items (1).<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S-3BS07-IMAGENES#index.html) | [Carpeta](https://app.box.com/s/3yelumaa4ifg1d9uurs0lnixdg5p338i)
+> **Fecha:** 18 al 22 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Crea tu propia tienda de video juegos o series con como mínimo 40 items (1).<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S-3BS07-IMAGENES#index.html) | [Carpeta](https://app.box.com/s/bb6afk6ro4bui12kdgqpkrtitre1st6d)
 
 Esta semana editaremos un sitio web de videojuegos
 
@@ -19,7 +19,7 @@ Esta semana editaremos un sitio web de videojuegos
 
 ## 3BS07 - Añado vínculos e hipervínculos a mi artículo
 
-> **Fecha:** 25 al 29 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Sin tarea<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S3BS08#index.html) | [Carpeta](https://app.box.com/s/3yelumaa4ifg1d9uurs0lnixdg5p338i)
+> **Fecha:** 25 al 29 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Sin tarea<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S3BS08#index.html) | [Carpeta](https://app.box.com/s/bb6afk6ro4bui12kdgqpkrtitre1st6d)
 
 Esta semana veremos como usar hipervinculos en nuestro proyecto
 
