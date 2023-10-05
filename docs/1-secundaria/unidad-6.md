@@ -52,8 +52,4 @@ Para presentar toma en cuenta lo siguiente:
 
 #### 2. Concurso
 
-El concurso trata sobre la creación de videos usando Power Point. La temática es libre, claro tomándo en cuenta que es un concurso escolar.
-
-- **Modo de presentación:** Enviar a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EoWGPyLufixEp-IIKOoaqF8BXMcVV0MdNRrjp1JZgk1tgA). Indicando Nombre y Apellidos completos del estudiante.
-- **Fecha y hora límite:** El límite de tiempo para presentar será hasta el día Miércoles 04 de Octubre.
-- **Archivo a presentar:** Son dos archivo: PPTX (Archivo-Guardar) y MP4 (Archivo-Guardar Como).
+FINALIZADO

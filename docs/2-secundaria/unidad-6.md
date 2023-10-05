@@ -44,10 +44,4 @@ Para esta práctica calificada debes presentar el proyecto del duende finalizado
 
 #### 2. Concurso
 
-El concurso trata sobre la creación de una mascota para tu colegio, el diseño
-debe ser totalmente ideado por tí.
-
-- **Modo de presentación:** Enviar a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Eq7gg5OLz1dNuAtC40WJ-FEBaeVd68bWzwbIV8QAckbCDQ). Indicando Nombre y Apellidos completos del estudiante.
-- **Fecha y hora límite:** El límite de tiempo para presentar será hasta el día Miércoles 04 de Octubre.
-- **Archivo a presentar:** Debes enviar el archivo PSD o AI del proyecto. Además, de la imagen resultante en formato PNG.
-
+FINALIZADO

@@ -47,8 +47,4 @@ Para esta práctica debes hacer una tienda de películas, series o videojuegos. 
 
 #### 2. Concurso
 
-El concurso trata sobre la creación de un afiche de las Olimpiadas para tu colegio usando Photoshop.
-
-- **Modo de presentación:** Enviar a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EmXKeJ9KttpKkJq7McFKkw4BQN4KZUOebtBEMZAa_UYhGw). Indicando Nombre y Apellidos completos del estudiante.
-- **Fecha y hora límite:** El límite de tiempo para presentar será hasta el día Miércoles 04 de Octubre.
-- **Archivo a presentar:** Debes enviar el archivo PSD del proyecto. Además, de la imagen resultante en formato PNG.
+FINALIZADO

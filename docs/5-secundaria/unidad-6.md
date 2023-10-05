@@ -44,8 +44,4 @@ Para esta práctica debes crear un "edit" de la película [Desafiando gigantes](
 
 #### 2. Concurso
 
-El concurso trata sobre la creación de un vídeo con temática creativa, inspiradora o divertida.
-
-- **Modo de presentación:** Enviar a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Eu--67KRYRlLg76QRipjWWMBS3nQQ2_VP3YGDQnXr9wZPw). Indicando Nombre y Apellidos completos del estudiante.
-- **Fecha y hora límite:** El límite de tiempo para presentar será hasta el día Miércoles 04 de Octubre.
-- **Archivo a presentar:** Debes enviar el archivo el vídeo en formato MP4.
+FINALIZADO
