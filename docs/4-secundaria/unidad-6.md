@@ -12,15 +12,11 @@ En esta semana veremos una introducción al uso de Boostrap
 
 Esta semana veremos como añadir estilos propios a nuestra app de Boostrap
 
-<div class="currentTheme">
-
 ## 3BS08 - Uso componentes en mi aplicación web
 
 > **Fecha:** 25 al 29 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Añade estilos propios a tu proyecto<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/4S-3BS08-COMPONENTES) | [Carpeta](https://app.box.com/s/4a2lnbrnxzvqqugm587oayaderjp5apd)
 
 Esta veremos un poco más sobre los componentes de Bootstrap
-
-</div>
 
 ## 3BS09 -  Práctica Calificada & Revisión de folder
 

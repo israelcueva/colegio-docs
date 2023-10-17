@@ -14,16 +14,11 @@ Esta semana editaremos un sitio web de videojuegos
 
 (1) Las imágenes que se usan tienen un tamaño de 1920x1080.
 
-
-<div class="currentTheme">
-
 ## 3BS07 - Añado vínculos e hipervínculos a mi artículo
 
 > **Fecha:** 25 al 29 de Setiembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Sin tarea<br> **Archivo:** [Proyecto](https://replit.com/@israelcueva/3S3BS08#index.html) | [Carpeta](https://app.box.com/s/bb6afk6ro4bui12kdgqpkrtitre1st6d)
 
 Esta semana veremos como usar hipervinculos en nuestro proyecto
-
-</div>
 
 ## 3BS09 -  Práctica Calificada & Revisión de folder
 

@@ -12,15 +12,11 @@ En esta clase veremos como usar la ténica del Stop Motion para crear una pelíc
 
 Esta semana veremos más sobre el uso de color para la edición de videos
 
-<div class="currentTheme">
-
 ## 3BS07 - Creo un video de efectos especiales usando green screen
 
 > **Fecha:** 25 al 29 de Setiembre<br> **Programa:** VSDC editor<br> **Tarea:** Sin tarea<br> **Archivo:** [Carpeta](https://app.box.com/s/fvacg8e4k3l397hxrrnmaajkbs40am0j)
 
 Esta semana veremos como añadir efectos especiales usando pantalla verde y colorimetria
-
-</div>
 
 ## 3BS09 -  Práctica Calificada & Revisión de folder
 

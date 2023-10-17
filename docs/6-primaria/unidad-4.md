@@ -20,7 +20,7 @@ En este oportunidad veremos como usar el asistente de improtación para usar fra
 
 - Prepara 100 fotos para tu corto stop motion, traer la próxima clase en USB o enviar por correo.
 
-<div class="currentTheme">
+
 
 ## 2BS08 - Presento los buenos modales en Inglés
 
@@ -34,4 +34,3 @@ En esta clase crearemos un video sobre los modales, usando títulos y música.
 - [Thank you](https://www.happierhuman.com/wp-content/uploads/2021/08/gratitude-songs.jpg)
 
 
-</div>

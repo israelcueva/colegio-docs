@@ -10,17 +10,13 @@ Crearemos nuestro propio fondo ilustrado en Photoshop
 
 > **Fecha:** 18 al 22 de Setiembre<br> **Programa:** Adobe Photoshop<br> **Tarea:** Sin tarea<br> **Archivo:** [Base & Modelo Final](https://app.box.com/s/0dexih33q7ag9wuzzs1pggjyt5kltyep)
 
-Esta semana usaremos las texturas para darle más énfasis a nuestro fondo
-
-<div class="currentTheme">
+Esta semana usaremos las texturas para darle más énfasis a nuestro fondo.
 
 ## 3BS08 -  Añado luces y sombras en mi escenario
 
 > **Fecha:** 25 al 29 de Setiembre<br> **Programa:** Adobe Photoshop<br> **Tarea:** Sin tarea<br> **Archivo:** [Base & Modelo Final](https://app.box.com/s/0dexih33q7ag9wuzzs1pggjyt5kltyep)
 
 En este clase veremos como añadir luces y sombras a nuestro fondo
-
-</div>
 
 ## 3BS09 -  Práctica Calificada & Revisión de folder
 

@@ -20,13 +20,8 @@ En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar los 
 
 - Realiza una presentación de estos [alimentos](https://a5a3c8e4.rocketcdn.me/wp-content/uploads/2020/05/Alimentos-en-ingl%C3%A9s-1024x692.jpg) en Inglés. Imprimir y presentar en folder.
 
-<div class="currentTheme">
-
 ## 2BS08 - Muestro los saludos más conocidos en Inglés
 
 > **Fecha:** 10 al 14 de Julio<br> **Programa:** Power Point<br> **Tarea:** Sin tarea<br> **Archivo:** [ModeloFinal](https://github.com/israelcueva/colegio-docs/blob/a2a3dd354bbbf71f2aa347c85aeedbccdd505df1/docs/5-primaria/archivos/Unidad4/2BS08-MODELO-FINAL.pdf ':include :type=code') | [Base](https://github.com/israelcueva/colegio-docs/blob/d0df31fa69711e6d9e899bfd13341d3c2ce963a0/docs/5-primaria/archivos/Unidad4/5PRIM-2BS08-BASE.pptx)
 
 En esta oportunidad usaremos nuestros conocimiento de Inglés para realizar los saludos más conocidos en Inglés.
-
-
-</div>
