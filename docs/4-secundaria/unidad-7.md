@@ -8,7 +8,7 @@ Esta semana introductoría nos mostrará como usar Javascript para que nuestros 
 
 <div class="currentTheme">
 
-## 4BS01 - Entendiendo el uso de objetos, Arrays y controles de flujo para trabajar con múltiples datos
+## 4BS02 - Entendiendo el uso de objetos, Arrays y controles de flujo para trabajar con múltiples datos
 
 > **Fecha:** 23 al 27 de Octubre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Crea el aplicativo para que al seleccionar un país, se muestre el Idioma y un extracto de este.<br> **Archivo:** [Recursos](https://app.box.com/s/55t5pekz9yetltzxzjokkw2c2a67e7ap)
 
