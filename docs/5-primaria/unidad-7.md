@@ -8,4 +8,10 @@
 
 Esta semana veremos como empezar a ausar photoshop para la creación de proyectos visuales.
 
+<div class="currentTheme">
+
+> **Fecha:** 23 al 27 de Octubre<br> **Programa:** Adobbe Photoshop<br> **Tarea:** Crea tu propia versión del proyecto visto en clase.<br> **Archivo:** [Recursos](https://app.box.com/s/j51z2hba60r58400muagzs47ak9xfp4z)
+
+En este uprtunidad veremos las opciones de fusión de las capas.
+
 </div>

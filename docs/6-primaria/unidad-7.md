@@ -8,4 +8,3 @@
 
 En esta oportuniad crearemos una melodía usando los bloques de música, de paso aprenderemos un poco sobre teoría musical.
 
-</div>
