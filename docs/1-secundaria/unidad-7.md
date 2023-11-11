@@ -13,12 +13,18 @@ Esta semana veremos como usar el programa de Pilas Engine para la creación de v
 
 Esta semana veremos como se crea movimiento básico usando Pilas Engine.
 
-<div class="currentTheme">
-
 ## 4BS03 - Genero interacciones básicas entre actores usando físicas y sensores
 
 > **Fecha:** 30 de Octubre al 03 de Noviembre<br> **Programa:** Pilas Engine<br> **Tarea:** Sin tarea <br> **Archivo:** [Recursos](https://app.box.com/s/w424gtovq0yku7y5fc00cfojstbui0it)
 
 Esta semana veremos el uso de sensores para detectar colisiones.
+
+<div class="currentTheme">
+
+## 4BS03 - Intercomunico objetos usando mensajes
+
+> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Pilas Engine<br> **Tarea:** Sin tarea <br> **Archivo:** [Recursos](https://app.box.com/s/w424gtovq0yku7y5fc00cfojstbui0it)
+
+Esta semana veremos como es la dinámica de envío y recepción de mensajes usando Pilas Engine.
 
 </div>

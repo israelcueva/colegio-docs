@@ -12,12 +12,16 @@ En esta oportunidad nos iniciaremos en el mundo de la animación creando una muy
 
 Esta semana veremos la interpolación clásica nos ayuda a realizar animaciones de manera más simple.
 
-<div class="currentTheme">
-
 ## 4BS03 - Creo movimientos con la herramientas hueso
 
 > **Fecha:** 30 de Octubre al 03 de Noviembre<br> **Programa:** Flash / Animate<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/oyak0bxbumv0jxncq4k3xmmdo9bjtq3t)<br> **Proyecto:** [Enlace](https://www.canva.com/design/DAFx6MyvHW4/9AMozs-TpQhJ35VkZnTA4Q/view?utm_content=DAFx6MyvHW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Esta semana verenos como añadir movimientos usando la herramienta hueso.
+
+<div class="currentTheme">
+
+## 4BS04 - Creo movimientos con la herramientas hueso
+
+> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Flash / Animate<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/oyak0bxbumv0jxncq4k3xmmdo9bjtq3t)<br> **Proyecto:** [Enlace](https://www.canva.com/design/DAFx6MyvHW4/9AMozs-TpQhJ35VkZnTA4Q/view?utm_content=DAFx6MyvHW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 </div>

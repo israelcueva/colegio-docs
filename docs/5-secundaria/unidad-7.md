@@ -12,12 +12,18 @@ Esta semana, aprenderemos como crear una base de datos, una tabla y varios regis
 
 Esta semana veremos como funcionan las relaciones en una base de datos relacional.
 
-<div class="currentTheme">
-
 ## 4BS03 -  Usando los comandos CREATE, UPDATE y DELETE
 
 > **Fecha:** 30 de Octubre al 03 de Noviembre<br> **Programa:** HeidiSQL<br> **Tarea:** Crea una tabla con los datos de tus compañeros de aula<br> **Archivo:** [Recursos](https://app.box.com/s/j6839vt1pzeteundyj91v2v9nsp5w9qp)
 
 Esta semana veremos como editar y eliminar registros.
+
+<div class="currentTheme">
+
+## 4BS03 -  Usando combinaciones de tablas para generar consultas más avanzadas
+
+> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** HeidiSQL<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/j6839vt1pzeteundyj91v2v9nsp5w9qp)
+
+Esta semana veremos el funcionamiento de los JOIN ne MySql.
 
 </div>

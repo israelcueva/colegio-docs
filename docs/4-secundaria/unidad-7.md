@@ -12,12 +12,18 @@ Esta semana introductoría nos mostrará como usar Javascript para que nuestros 
 
 En esta oportunidad veremos como trabajar con objetos y arrays, además, del evento onchange del select.
 
-<div class="currentTheme">
-
 ## 4BS03 - Comprendiendo el uso de condicionales y operadores lógicos
 
 > **Fecha:** 30 de Octubre al 03 de Noviembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Recrea el proyecto de clase usando replit y enviar al profesor.<br> **Archivo:** [Recursos](https://app.box.com/s/55t5pekz9yetltzxzjokkw2c2a67e7ap)<br> **Video:** [Enlace](https://youtu.be/OGBKxIDvxEM)
 
 Esta semana escribiremos más líneas de código usando condiconales, bucles y funciones.
+
+<div class="currentTheme">
+
+## 4BS03 - Usando funciones y peticiones asíncronas con FECTH
+
+> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/55t5pekz9yetltzxzjokkw2c2a67e7ap)<br> **Video:** [Enlace](https://youtu.be/9sIUzCpmh8w)
+
+Esta semana veremos como usar Fetch para consumir datos de una API REST.
 
 </div>
