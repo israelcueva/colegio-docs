@@ -19,12 +19,29 @@ Esta semana veremos como se crea movimiento básico usando Pilas Engine.
 
 Esta semana veremos el uso de sensores para detectar colisiones.
 
-<div class="currentTheme">
+## 4BS04 - Intercomunico objetos usando mensajes
 
-## 4BS03 - Intercomunico objetos usando mensajes
-
-> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Pilas Engine<br> **Tarea:** Sin tarea <br> **Archivo:** [Recursos](https://app.box.com/s/w424gtovq0yku7y5fc00cfojstbui0it)
+> **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Pilas Engine<br> **Tarea:** Sin tarea <br> **Archivo:** [Recursos](https://app.box.com/s/w424gtovq0yku7y5fc00cfojstbui0it) **Archivo:** [Video](https://youtu.be/feg3fW-s9Xs)
 
 Esta semana veremos como es la dinámica de envío y recepción de mensajes usando Pilas Engine.
+
+<div class="currentTheme">
+
+## 4BS05 - Práctica Calificada
+
+> **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Pilas Engine<br>
+
+Lo que deberás hacer es crear un juego con las siguientes características:
+
+- El personaje principal será una nube. Escoger la imagen más tierna posible para ello. Este personaje debe tener el mismo funcionamiento que el conejo usado en clase.
+- La nube deberá reunir gotas en vez de monedas y que al conseguir una, el puntaje se sume en 1.
+- El enemigo de la nube será un niño con una matamoscas, el funcionamiento será simple: **Cuando la nube choque al niño se esfumará para siempre(La nube)**.
+
+Retos para obtener AD:
+
+- El puntaje se vuelva a 0 cuando la nube choque con el niño.
+- Que el niño patrulle en cada plataforma, es decir, vaya de un lado hacía otro de manera repetitiva.
+
+Para presentar este proyecto enviar el archivo por correo o llevarlo en USB el día de clases de Computación.
 
 </div>

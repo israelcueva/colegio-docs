@@ -18,12 +18,25 @@ Esta semana veremos como funcionan las relaciones en una base de datos relaciona
 
 Esta semana veremos como editar y eliminar registros.
 
-<div class="currentTheme">
-
-## 4BS03 -  Usando combinaciones de tablas para generar consultas más avanzadas
+## 4BS04 -  Usando combinaciones de tablas para generar consultas más avanzadas
 
 > **Fecha:** 06 al 10 de Noviembre<br> **Programa:** HeidiSQL<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/j6839vt1pzeteundyj91v2v9nsp5w9qp)
 
 Esta semana veremos el funcionamiento de los JOIN ne MySql.
+
+<div class="currentTheme">
+
+## 4BS05 -  Práctica Calificada
+
+> **Fecha:** 13 al 17 de Noviembre<br> **Programa:** HeidiSQL<br>
+
+Genera una base de datos de los idiomas de todos los paises del mundo y generar las siguientes consultas:
+
+- Paises que comparten idioma.
+- Paises con idioma único.
+
+Nombrar la base de datos según el primer nombre y apellido, por ejemplo: db_pepito_periquito. 
+
+Enviar el archivo SQL por mail o presentarlo en horas de clase.
 
 </div>

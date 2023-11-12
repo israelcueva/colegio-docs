@@ -18,12 +18,19 @@ Esta semana nos adentraremos en el estándar de modelos de bloque para el diseñ
 
 Esta semana veremos como usar Fuentes e Iconos web.
 
-<div class="currentTheme">
-
 ## 4BS04 -  4BS04: Trucos son selectores avanzados
 
 > **Fecha:** 06 al 10 de Noviembre<br> **Programa:** Cualquier editor de código<br> **Tarea:** Sin tarea<br> **Archivo:** [Recursos](https://app.box.com/s/ffkfipl5hk7lcr8m5p4jpmkc83cwglbu)<br> **Proyecto:** [Enlace](https://www.canva.com/design/DAFx6eumHn0/jpSOgkDSJGP5IIAUM0hEqA/view?utm_content=DAFx6eumHn0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Esta semana veremos el uso de Pseudo selectores para aplicar estilos de manera específica.
+
+<div class="currentTheme">
+
+## 4BS05 -  Práctica calificada
+
+> **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Cualquier editor de código<br>
+
+Crea una ficha de matrícula basada en los estilos usados la semana 4. Presentar enviando URL del proyecto en [repl.com](https://replit.com/) o en USB en horas de clase.
+
 
 </div>
