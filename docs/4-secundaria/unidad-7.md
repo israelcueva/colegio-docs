@@ -24,8 +24,6 @@ Esta semana escribiremos más líneas de código usando condiconales, bucles y f
 
 Esta semana veremos como usar Fetch para consumir datos de una API REST.
 
-<div class="currentTheme">
-
 ## 4BS05 - Práctica Calificada
 
 > **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Cualquier editor de código<br>
@@ -33,5 +31,3 @@ Esta semana veremos como usar Fetch para consumir datos de una API REST.
 Para esta semana deberás presentar tu portafolio de proyectos, es decir, presentar los proyectos hechos hasta el momento finalizados.
 
 Deberás usar replit.com o presentarlo en USB en horas de clase.
-
-</div>

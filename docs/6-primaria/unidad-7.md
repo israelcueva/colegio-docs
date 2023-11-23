@@ -1,6 +1,5 @@
 # 6º de Primaria - Unidad 7
 
-<div class="currentTheme">
 
 ## 4BS01 - Uso los bloques de música para crear mi propia melodía.
 

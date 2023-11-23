@@ -21,6 +21,7 @@
 
   - [Unidad 7](6-primaria/unidad-7.md)
   - [Unidad 8](6-primaria/unidad-8.md)
+  - [Proyecto Final](6-primaria/proyecto-final.md)
 
 - [Regresar a principal](/)
 

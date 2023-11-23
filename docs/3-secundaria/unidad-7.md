@@ -24,13 +24,8 @@ Esta semana veremos como usar Fuentes e Iconos web.
 
 Esta semana veremos el uso de Pseudo selectores para aplicar estilos de manera específica.
 
-<div class="currentTheme">
-
 ## 4BS05 -  Práctica calificada
 
 > **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Cualquier editor de código<br>
 
 Crea una ficha de matrícula basada en los estilos usados la semana 4. Presentar enviando URL del proyecto en [repl.com](https://replit.com/) o en USB en horas de clase.
-
-
-</div>

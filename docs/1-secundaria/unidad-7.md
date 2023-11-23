@@ -25,8 +25,6 @@ Esta semana veremos el uso de sensores para detectar colisiones.
 
 Esta semana veremos como es la dinámica de envío y recepción de mensajes usando Pilas Engine.
 
-<div class="currentTheme">
-
 ## 4BS05 - Práctica Calificada
 
 > **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Pilas Engine<br>
@@ -44,4 +42,3 @@ Retos para obtener AD:
 
 Para presentar este proyecto enviar el archivo por correo o llevarlo en USB el día de clases de Computación.
 
-</div>

@@ -24,8 +24,6 @@ Esta semana veremos como editar y eliminar registros.
 
 Esta semana veremos el funcionamiento de los JOIN ne MySql.
 
-<div class="currentTheme">
-
 ## 4BS05 -  Práctica Calificada
 
 > **Fecha:** 13 al 17 de Noviembre<br> **Programa:** HeidiSQL<br>
@@ -39,4 +37,3 @@ Nombrar la base de datos según el primer nombre y apellido, por ejemplo: db_pep
 
 Enviar el archivo SQL por mail o presentarlo en horas de clase.
 
-</div>

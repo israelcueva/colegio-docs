@@ -24,8 +24,6 @@ Esta semana verenos como añadir movimientos usando la herramienta hueso.
 
 Esta semana veremos como encapsular animaciones usando clips de película.
 
-<div class="currentTheme">
-
 ## 4BS05 - Práctica Calificada
 
 > **Fecha:** 13 al 17 de Noviembre<br> **Programa:** Adobe Flash / Animate<br>
@@ -37,4 +35,3 @@ Esta semana presentarás tu práctica calificada, para lo cual animarás lo sigu
 
 La presentación será en formato MP4, el cual deberás enviar por correo o llevarlo en USB el día de la clase de Computación.
 
-</div>
