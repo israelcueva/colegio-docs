@@ -1,10 +1,11 @@
 - 5º Secundaria
 
-  - [Inicio](5-secundaria/inicio)
+  - [<i class="bi bi-house"></i> Inicio](5-secundaria/inicio)
+  - [<i class="bi bi-clipboard-check"></i> Proyectos](5-secundaria/proyectos.md)
 
 - 1 Bimestre
 
-  - [Unidad 1](5-secundaria/unidad-1.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 1](5-secundaria/unidad-1.md)
   - [Unidad 2](5-secundaria/unidad-2.md)
 
 - 2 Bimestre 
@@ -22,6 +23,6 @@
   - [Unidad 7](5-secundaria/unidad-7.md)
   - [Unidad 8](5-secundaria/unidad-8.md)
 
-- [Regresar a principal](/)
+- [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
 
 

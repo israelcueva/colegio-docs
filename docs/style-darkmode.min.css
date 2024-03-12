@@ -230,6 +230,9 @@ main.hidden {
     transition: transform 0.25s ease-out;
     width: 300px;
     z-index: 20;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.1);
+-webkit-box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.1);
 }
 .sidebar > h1 {
     margin: 0 auto 1rem;
@@ -320,13 +323,14 @@ li:has(.app-sub-sidebar)>a{
     background-color: var(--accent);
     color:white !important;
 }
+
 body.sticky .sidebar,
 body.sticky .sidebar-toggle {
     position: fixed;
     background-color: var(--navColor);
 }
 .content {
-    margin: 3rem 1rem;
+    margin: 0;
     position: absolute;
     top: 0;
     right: 0;
@@ -338,7 +342,7 @@ body.sticky .sidebar-toggle {
 .content .markdown-section{
     border-radius: 0.375rem;
     background-color: var(--contentBackground);
-    padding: 4rem;
+    padding: 4rem 6rem;
 }
 #docsify-darklight-theme {
     right: 40px !important;
@@ -346,7 +350,6 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section {
     margin: 0 auto;
-    max-width: 90%;
     padding: 3rem;
     position: relative;
 }
@@ -691,6 +694,9 @@ body {
 .sidebar ul li ul {
     padding: 0;
 }
+.sidebar i{
+    margin-right: .5rem;
+}
 /*.sidebar ul li.active > a {
     border-right: 5px solid;
     color: var(--accent);
@@ -719,12 +725,21 @@ body {
     margin: 3rem 0;
     color: var(--titleColor) !important;
 }
+.markdown-section i{
+    font-weight: 900;
+    color: var(--titleColor);
+}
+
 .markdown-section h2 {
     font-size: 1.75rem;
-    margin: 6rem 0 2rem;
-    border: 1px solid var(--borderColor);
+    margin: 3rem 0 2rem;
     padding: 1.4rem 2rem;
     border-radius: 0.375rem;
+    border: 1px solid var(--borderColor);
+    background-color: var(--navColor);
+    box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.15);
+    -webkit-box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.15);
 }
 .markdown-section h3 {
     font-size: 1.5rem;

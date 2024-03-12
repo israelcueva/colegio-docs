@@ -1,6 +1,6 @@
 # Página principal - Bienvenida
 
-¡Bienvenidos estudiantes al curso de Computación del año 2023!
+¡Bienvenidos estudiantes al curso de Computación del año 2024!
 
 Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.
 
@@ -24,10 +24,10 @@ La estructura del curso se rige a la calendarización general.
 
 |   **Bimestre**   |   **Inicio**  |     **Fin**     |        **Vacaciones**        |
 |:----------------:|:-------------:|:---------------:|:----------------------------:|
-| Primer Bimestre  | 06 de Marzo   | 12 de Mayo      | 15 al 19 de Mayo             |
-| Segundo Bimestre | 22 de Mayo    | 21 de Julio     | 24 de Julio al 04 de Agosto  |
-| Tercer Bimestre  | 07 de Agosto  | 06 de Octubre   | 09 al 13 de Octubre          |
-| Cuarto Bimestre  | 16 de Octubre | 21 de Diciembre | A partir del 22 de Diciembre |
+| Primer Bimestre  | 04 de Marzo   | 10 de Mayo      | 13 al 17 de Mayo             |
+| Segundo Bimestre | 20 de Mayo    | 26 de Julio     | 29 de Julio al 09 de Agosto  |
+| Tercer Bimestre  | 12 de Agosto  | 11 de Octubre   | 14 al 18 de Octubre          |
+| Cuarto Bimestre  | 21 de Octubre | 20 de Diciembre |                              |
 
 Si quieres ver más detallada la calendarización, puedes hacerlo desde este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUeMofKJXcNg6xZV_PYlnyIEoM9xmn0y4KA5dlgMDrk3quW5HIBV26MGMRSKOuoISH7YDHgulLgEqu/pubhtml?gid=0&single=true)
 
@@ -65,10 +65,6 @@ Folder
 3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
 4. **Tareas:** Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.
 
-A continuación podrás una muestra de un folder de Computación.
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 141.4516%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfLjw1P70&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFfLjw1P70&#x2F;view?utm_content=DAFfLjw1P70&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FOLDER</a> de Israel Cueva
-
 ## 4. Trabajos hechos a mano
 
 Tener una computadora en casa con conexión a Internet se ha vuelto imprescindible estos días, tanto para labores educativas y de aprendizaje en línea, como para el trabajo. El no tener una se convierte en una dificultad para el correcto aprendizaje del estudiante. Sin embargo, a fin de no perjudicar las notas de los que no tienen una, se les permite desarrollar las tareas a mano.
@@ -80,6 +76,6 @@ Los trabajos hechos a mano deberán tomar en cuenta lo siguiente:
 - **Lapices de colores:** Los lapices de colores son perfectos para el pintado, pero debes usarlos correctamente [Video](https://www.youtube.com/watch?v=UMNwTIs8FJw). No los presiones mucho y respeta las líneas.
 - **Líneas:** Si tu pulso no es adecuado, lo mejor es que uses una regla para el trazado de líneas rectas.
 
-## 5. Resolución de dudas
+## 5. Tu avance en en el curso
 
-La resolución de dudas se harán en clase, si hubiera alguna duda que no haya sido tocado en clase, enviar un mensaje por el chat adjunto.
+Para poder revisar tu rendimiento en el curso, puedes ir a la [App de Inicio]() del curso.
