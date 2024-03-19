@@ -19,8 +19,6 @@ Este es tu decálogo para el uso de la computadoras. Infringir una puede resulta
 - Usaré las computadoras de la escuela únicamente para actividades relacionadas con el estudio y la investigación académica.
 - No haré uso indebido de las redes sociales mientras utilizo las computadoras de la escuela, como enviar mensajes de acoso o difamación a otros estudiantes o publicar contenido inapropiado.
 
-<div class="currentTheme">
-
 ## 1BS02: Aprendo el manejo de archivos en Windows
 
 > <i class="bi bi-calendar"></i> **Fecha:** 11 al 15 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Bloc de Notas <br><i class="bi bi-clipboard-check"></i> **Tarea:** Buscar e imprimir el explorador de archivos de Mac y Linux <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=5MN32Q_7wF0
@@ -28,5 +26,13 @@ Este es tu decálogo para el uso de la computadoras. Infringir una puede resulta
 El explorador de archivos de Windows es una herramienta fundamental que permite a los usuarios navegar por los archivos y carpetas almacenados en sus sistemas operativos Windows. Con una interfaz intuitiva y fácil de usar, el explorador de archivos proporciona acceso rápido a documentos, imágenes, videos, programas y otros tipos de archivos almacenados en el disco duro de la computadora, así como en unidades externas y en la nube.
 
 Al abrir el explorador de archivos, los usuarios son recibidos con una vista de árbol jerárquica de las carpetas en su sistema, lo que les permite explorar la estructura de archivos de manera organizada. Además, el explorador de archivos ofrece una variedad de herramientas y funciones útiles, como la capacidad de copiar, cortar y pegar archivos, renombrar archivos y carpetas, y realizar búsquedas rápidas para encontrar archivos específicos.
+
+<div class="currentTheme">
+
+## 1BS03: Uso el bloc de notas para escribir un cuento
+
+> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Bloc de Notas <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea una historia y digitala en el bloc de Notas<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=AUns8c40dxw <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
+
+El Bloc de Notas es ideal para una variedad de tareas, desde tomar notas rápidas hasta escribir scripts o códigos de programación. Su ligereza lo hace perfecto para abrir archivos rápidamente, incluso en sistemas con recursos limitados. Además, los archivos creados con el Bloc de Notas son altamente portables y pueden abrirse en cualquier sistema que admita archivos de texto sin formato.
 
 </div>
