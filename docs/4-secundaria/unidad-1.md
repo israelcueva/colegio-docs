@@ -8,12 +8,21 @@ Perplexity AI es un buscador conversacional, es decir, un motor de respuestas qu
 
 Como avisan sus creadores, como resultado puede generar contenido ofensivo o peligroso. Además, recomiendan no proporcionar información personal, habida cuenta que como otros algoritmos AI, se entrena con el uso. Es decir, con tus preguntas, sus respuestas, feedback y análisis por parte del equipo de desarrollo.
 
-<div class="currentTheme">
-
 ## 1BS02: Creando la estructura de mi tesis
 
 > <i class="bi bi-calendar"></i> **Fecha:** 11 al 15 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Elabora la estructura de tu tesis <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=2kYa4Mil1Qs
 
 La elaboración de una tesis es uno de los hitos más significativos en el viaje académico de cualquier estudiante universitario. Este proceso no solo representa la culminación de años de estudio y dedicación, sino también la oportunidad de sumergirse en un tema específico y contribuir al cuerpo de conocimiento en un campo particular. A lo largo de este emocionante viaje, los estudiantes se embarcan en una exploración profunda, utilizando habilidades de investigación, análisis crítico y síntesis para abordar una pregunta o problema central.
+
+<div class="currentTheme">
+
+## 1BS03: Usando los estilos APA en la tesis
+
+> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una lista de todas las reglas APA<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=z9B_GlFinG0 <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
+
+
+Los Estilos de la American Psychological Association (APA) son un conjunto de normas y directrices diseñadas para estandarizar la presentación de trabajos académicos y científicos en el ámbito de las ciencias sociales y del comportamiento. Estas pautas son ampliamente utilizadas en disciplinas como psicología, educación, sociología, ciencias políticas y otras áreas relacionadas. El objetivo principal de los Estilos APA es promover la claridad y la precisión en la comunicación académica, asegurando la consistencia en la presentación de citas, referencias bibliográficas, tablas, figuras y otros elementos de los documentos escritos.
+
+El formato APA establece reglas específicas para la estructura y el formato del trabajo, incluyendo aspectos como la organización del contenido, la presentación de citas y referencias, el estilo de escritura y la presentación de tablas y figuras. Además, proporciona pautas detalladas para la citación de fuentes, lo que permite a los lectores identificar fácilmente las fuentes utilizadas y consultarlas si lo desean. Esto es crucial para garantizar la integridad académica y evitar el plagio.
 
 </div>
