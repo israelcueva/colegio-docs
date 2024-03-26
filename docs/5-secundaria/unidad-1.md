@@ -12,11 +12,9 @@ Excel, una herramienta omnipresente en entornos empresariales y académicos, no 
 
 En el ámbito de la gestión de datos y la organización de información, las tablas son una herramienta fundamental que facilita la visualización y el acceso a los datos de manera estructurada y eficiente. Ya sea en entornos empresariales, académicos o personales, las tablas ofrecen una forma sistemática de organizar información en filas y columnas, lo que permite una fácil referencia y manipulación de datos.
 
-<div class="currentTheme">
-
 ## 1BS03: Empleo las tablas dinámicas para generar reportes
 
-> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=C4_kHhpY5jE / https://www.youtube.com/watch?v=rpSAvYQfNeo<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
+> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=C4_kHhpY5jE / https://www.youtube.com/watch?v=rpSAvYQfNeo<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
 
 
 Las tablas dinámicas son herramientas poderosas y versátiles utilizadas en el análisis y la visualización de datos en diversas áreas, desde negocios hasta investigación científica. Permiten resumir, organizar y manipular grandes conjuntos de datos de manera rápida y eficiente, facilitando la identificación de patrones, tendencias y relaciones significativas.
@@ -24,5 +22,21 @@ Las tablas dinámicas son herramientas poderosas y versátiles utilizadas en el 
 Al contrario de las tablas estáticas convencionales, las tablas dinámicas permiten a los usuarios explorar datos de diversas maneras, permitiendo la filtración, agrupación, ordenación y resumen instantáneos de la información. Esto brinda la capacidad de obtener perspectivas profundas y detalladas sobre los datos, sin la necesidad de realizar complejas operaciones de análisis manualmente.
 
 Las tablas dinámicas se utilizan comúnmente en hojas de cálculo como Microsoft Excel, así como en herramientas de análisis de datos más avanzadas como Google Sheets y software de análisis estadístico. Su flexibilidad y facilidad de uso las convierten en una herramienta indispensable para profesionales de negocios, investigadores, analistas de datos y cualquier persona que trabaje con grandes conjuntos de datos en su día a día.
+
+### Tarea
+
+Descarga el archivo <code>laptops.csv</code> de la carpeta de recursos. Usando ese archivo haz lo siguiente:
+
+- Muestra las laptops menos pesadas de cada marca.
+- Filtra las laptops que tienen GPU Intel Iris y una resolución de 1920 x 1080.
+- Convierte el valor de dolares a soles y muestra las laptops gaming por precio más bajo.
+
+<div class="currentTheme">
+
+## 1BS04: Exporto los datos obtenidos
+
+> <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea un archivo CSV de la tarea de la semana 3<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=yENIufK6pRg<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
+
+La versatilidad de Excel como herramienta de análisis y almacenamiento de datos la convierte en una opción popular para la gestión de información en numerosos sectores y disciplinas. Sin embargo, para aprovechar al máximo el potencial de estos datos, es crucial poder exportarlos en formatos compatibles con otros programas, bases de datos o plataformas, según las necesidades específicas de cada usuario o proyecto.
 
 </div>
