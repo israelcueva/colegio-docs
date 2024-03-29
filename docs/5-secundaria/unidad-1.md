@@ -40,3 +40,21 @@ Descarga el archivo <code>laptops.csv</code> de la carpeta de recursos. Usando e
 La versatilidad de Excel como herramienta de análisis y almacenamiento de datos la convierte en una opción popular para la gestión de información en numerosos sectores y disciplinas. Sin embargo, para aprovechar al máximo el potencial de estos datos, es crucial poder exportarlos en formatos compatibles con otros programas, bases de datos o plataformas, según las necesidades específicas de cada usuario o proyecto.
 
 </div>
+
+## 1BS05: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Busca y recopila datos sobre la oferta laboral y sueldos según carreras (Universitarias y técnicas).
+- Usando las tablas dinámicas elabora reportes sobre:
+    - Las 10 carreras universitarias con mayor oferta laboral y sueldos.
+    - Las 10 carreras técnicas con mayor ofertar Laboral y sueldos.
+    - Las 10 carreras con peor oferta laboral.
+    - Las 10 carreras con peores sueldos.
+- Adjuntar en una hoja de donde fueron sacados los datos y de que año son (Mientras más recientes los datos mejor será la nota)
+
+Imprime los reportes y presenta esta práctica el día de clase de Computo en la semana 6.
+
+> No habrá extensión de fecha para la práctica.

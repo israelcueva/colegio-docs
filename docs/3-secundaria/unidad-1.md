@@ -27,3 +27,15 @@ Las etiquetas de texto en HTML abarcan desde los encabezados y párrafos hasta l
 Las imágenes son un elemento esencial en el diseño web, ya que permiten agregar atractivo visual y comunicar información de una manera más efectiva. En HTML, las imágenes se insertan mediante la etiqueta <code>img</code>.
 
 </div>
+
+## 1BS05: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Editor de código
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Busca una monografía en Internet y pásalo completamente a HTML (Por ahora ignora las imágenes). Presenta el archivo <code>index.html</code> en USB o envialo por correo a <code>israel@israelcueva.com</code> con tus datos completos.
+
+Si lo presentas en USB lo debes hacer el día que toque Computación en la semana 6 y si lo envias por correo tienes hasta un día anterior al día que toque Computación.
+
+> No habrá extensión de fecha para la práctica.

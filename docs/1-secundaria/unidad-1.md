@@ -35,8 +35,22 @@ El Bloc de Notas es ideal para una variedad de tareas, desde tomar notas rápida
 
 <div class="currentTheme">
 
-> <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Paint <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sigue el tutorial para crear una casa en MS Paint<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=P2eb2JEIFbY <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
+## 1BS04: Uso Paint para diseñar una imagen
+
+> <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Paint <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sigue el tutorial para crear una casa en MS Paint o replica el proyecto de clase<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=P2eb2JEIFbY <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
 
 Microsoft Paint es un programa de edición de imágenes básico que se incluye en todas las versiones de Windows. Es una herramienta fácil de usar que permite realizar tareas básicas de edición de imágenes.
 
 </div>
+
+## 1BS05: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Paint
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Realiza una historia que se base en la pelea de los emojis para saber cual es más popular, escribela en el bloc de notas o cualquier otra app de texto.
+
+Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día que toque Computación en la semana 6.
+
+> No habrá extensión de fecha para la práctica.
