@@ -33,15 +33,13 @@ Al abrir el explorador de archivos, los usuarios son recibidos con una vista de 
 
 El Bloc de Notas es ideal para una variedad de tareas, desde tomar notas rápidas hasta escribir scripts o códigos de programación. Su ligereza lo hace perfecto para abrir archivos rápidamente, incluso en sistemas con recursos limitados. Además, los archivos creados con el Bloc de Notas son altamente portables y pueden abrirse en cualquier sistema que admita archivos de texto sin formato.
 
-<div class="currentTheme">
-
 ## 1BS04: Uso Paint para diseñar una imagen
 
 > <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Paint <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sigue el tutorial para crear una casa en MS Paint o replica el proyecto de clase<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=P2eb2JEIFbY <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
 
 Microsoft Paint es un programa de edición de imágenes básico que se incluye en todas las versiones de Windows. Es una herramienta fácil de usar que permite realizar tareas básicas de edición de imágenes.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
@@ -54,3 +52,5 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día que toque Computación en la semana 6.
 
 > No habrá extensión de fecha para la práctica.
+
+</div>

@@ -31,7 +31,6 @@ Descarga el archivo <code>laptops.csv</code> de la carpeta de recursos. Usando e
 - Filtra las laptops que tienen GPU Intel Iris y una resolución de 1920 x 1080.
 - Convierte el valor de dolares a soles y muestra las laptops gaming por precio más bajo.
 
-<div class="currentTheme">
 
 ## 1BS04: Exporto los datos obtenidos
 
@@ -39,7 +38,7 @@ Descarga el archivo <code>laptops.csv</code> de la carpeta de recursos. Usando e
 
 La versatilidad de Excel como herramienta de análisis y almacenamiento de datos la convierte en una opción popular para la gestión de información en numerosos sectores y disciplinas. Sin embargo, para aprovechar al máximo el potencial de estos datos, es crucial poder exportarlos en formatos compatibles con otros programas, bases de datos o plataformas, según las necesidades específicas de cada usuario o proyecto.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
@@ -58,3 +57,5 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Imprime los reportes y presenta esta práctica el día de clase de Computo en la semana 6.
 
 > No habrá extensión de fecha para la práctica.
+
+</div>

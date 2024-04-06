@@ -22,15 +22,14 @@ Los Estilos de la American Psychological Association (APA) son un conjunto de no
 
 El formato APA establece reglas específicas para la estructura y el formato del trabajo, incluyendo aspectos como la organización del contenido, la presentación de citas y referencias, el estilo de escritura y la presentación de tablas y figuras. Además, proporciona pautas detalladas para la citación de fuentes, lo que permite a los lectores identificar fácilmente las fuentes utilizadas y consultarlas si lo desean. Esto es crucial para garantizar la integridad académica y evitar el plagio.
 
-<div class="currentTheme">
-
 ## 1BS04: Añadiendo citas, Bibliografía y paginación a mi tesis
 
 > <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una lista de 10 citas / Libros sobre las ideologías de Izquierda y derecha<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=m09MGyFfvTU / https://www.youtube.com/watch?v=HZzIcjXoHjM <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
 
 El estilo APA tiene reglas específicas para la forma de escribir las citas, referencias y bibliografía. Estas reglas se pueden encontrar en el Manual de Publicación de la American Psychological Association (Publication Manual of the American Psychological Association).
 
-</div>
+
+<div class="currentTheme">
 
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
@@ -41,3 +40,5 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 - Haz un texto científico sobre la importancia o no de la religión en la vida de las personas, puedes usar este [artículo](https://dialnet.unirioja.es/descarga/articulo/7304362.pdf) de guía. Guarda el proyecto en formato **DOCX**. Presenta el proyecto en USB el día de clases en la semana 6 o envíalo por correo a <code>israel@israelcueva.com</code> colocando tus datos completos, hasta un día antes del día de clases.
 
 > No habrá extensión de fecha para la práctica.
+
+</div>

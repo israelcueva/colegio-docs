@@ -22,15 +22,13 @@ Los estilos son conjuntos predefinidos de formatos que permiten aplicar de maner
 
 Utilizar estilos en Word no solo agiliza el proceso de formato, sino que también garantiza la coherencia visual y facilita la navegación en documentos extensos. Además, al separar el contenido del formato, los estilos permiten realizar cambios globales de manera rápida y sencilla, lo que resulta especialmente útil en proyectos colaborativos o en etapas de revisión.
 
-<div class="currentTheme">
-
 ## 1BS04: Genero imágenes para mi cuento
 
 > <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Genera imágenes sobre la vida diaria de los mochicas<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=rIic3PuQHAU / https://www.youtube.com/watch?v=yq7RYXdcVb8<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/9y3lmtqy71xtcjcluqmldxjsu8d9e83n
 
 La generación de imágenes por IA es un campo emergente que utiliza la inteligencia artificial para crear imágenes realistas a partir de texto o conceptos. Esta tecnología tiene el potencial de revolucionar la forma en que creamos y consumimos contenido visual, con aplicaciones en una amplia gama de industrias, como el arte, el diseño, la publicidad, el entretenimiento, la medicina y la educación.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
@@ -43,3 +41,6 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día que toque Computación en la semana 6.
 
 > No habrá extensión de fecha para la práctica.
+
+
+</div>
