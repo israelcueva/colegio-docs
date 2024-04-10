@@ -29,8 +29,6 @@ El formato APA establece reglas específicas para la estructura y el formato del
 El estilo APA tiene reglas específicas para la forma de escribir las citas, referencias y bibliografía. Estas reglas se pueden encontrar en el Manual de Publicación de la American Psychological Association (Publication Manual of the American Psychological Association).
 
 
-<div class="currentTheme">
-
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word
@@ -40,5 +38,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 - Haz un texto científico sobre la importancia o no de la religión en la vida de las personas, puedes usar este [artículo](https://dialnet.unirioja.es/descarga/articulo/7304362.pdf) de guía. Guarda el proyecto en formato **DOCX**. Presenta el proyecto en USB el día de clases en la semana 6 o envíalo por correo a <code>israel@israelcueva.com</code> colocando tus datos completos, hasta un día antes del día de clases.
 
 > No habrá extensión de fecha para la práctica.
-
-</div>

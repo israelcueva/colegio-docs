@@ -39,8 +39,6 @@ El Bloc de Notas es ideal para una variedad de tareas, desde tomar notas rápida
 
 Microsoft Paint es un programa de edición de imágenes básico que se incluye en todas las versiones de Windows. Es una herramienta fácil de usar que permite realizar tareas básicas de edición de imágenes.
 
-<div class="currentTheme">
-
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Paint
@@ -52,5 +50,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día que toque Computación en la semana 6.
 
 > No habrá extensión de fecha para la práctica.
-
-</div>

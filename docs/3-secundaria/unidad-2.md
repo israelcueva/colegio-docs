@@ -1,7 +1,11 @@
 # 3-Secundaria - Unidad 2
 
+<div class="currentTheme">
+
 ## 1BS06: Uso los enlaces para crear una estructura de navegación en mi sitio
 
-> <i class="bi bi-calendar"></i> **Fecha:** 08 al 12 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Grafica en un mapa conceptual la estructura de tu sitio web del proyecto de la semana 10. <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=GcOpT7RYoPk
+> <i class="bi bi-calendar"></i> **Fecha:** 08 al 12 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Grafica en un mapa conceptual la estructura de tu sitio web del proyecto de la semana 10. <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=GcOpT7RYoPk<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/6p6h30uryj9wy13hvs5iv7wdtvuodoj6
 
 En el vasto y complejo paisaje de la web, la navegación eficiente es fundamental tanto para los usuarios como para los motores de búsqueda. En este contexto, los sitemaps emergen como una herramienta esencial para organizar y estructurar la información de un sitio web de manera clara y accesible. Los sitemaps, en su esencia, son mapas detallados que delinean la arquitectura de un sitio web, proporcionando una visión panorámica de su estructura y contenido. Desde la perspectiva de los usuarios, los sitemaps simplifican la experiencia de navegación al ofrecer una guía rápida y directa para encontrar información relevante. Por otro lado, para los motores de búsqueda como Google, los sitemaps facilitan la indexación y clasificación precisa del contenido del sitio, lo que puede mejorar significativamente su visibilidad en los resultados de búsqueda.
+
+</div>

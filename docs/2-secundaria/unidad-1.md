@@ -28,8 +28,6 @@ Utilizar estilos en Word no solo agiliza el proceso de formato, sino que tambié
 
 La generación de imágenes por IA es un campo emergente que utiliza la inteligencia artificial para crear imágenes realistas a partir de texto o conceptos. Esta tecnología tiene el potencial de revolucionar la forma en que creamos y consumimos contenido visual, con aplicaciones en una amplia gama de industrias, como el arte, el diseño, la publicidad, el entretenimiento, la medicina y la educación.
 
-<div class="currentTheme">
-
 ## 1BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word
@@ -41,6 +39,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día que toque Computación en la semana 6.
 
 > No habrá extensión de fecha para la práctica.
-
-
-</div>

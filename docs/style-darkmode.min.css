@@ -947,3 +947,22 @@ pre:after {
 #docsify-darklight-theme p {
     visibility: hidden;
 }
+
+@media only screen and (max-width: 980px) and (min-width: 880px){
+    .markdown-section{
+      padding: 4rem !important;
+    }
+  }
+
+@media only screen and (max-width: 879px){
+    .markdown-section{
+      padding: 3rem !important;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .ready.sticky:not(.close)>main>.sidebar{
+      box-shadow: none;
+      border-right: 1 px solid var(--borderColor);
+    }
+}
