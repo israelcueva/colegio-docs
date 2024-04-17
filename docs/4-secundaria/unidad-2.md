@@ -10,8 +10,10 @@ Excel ofrece una plataforma versátil que permite a los usuarios crear y persona
 
 ## 1BS07: Uso gráficos para representar información valiosa
 
-> <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** De la tarea <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=6q1xGFW-xOQ<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
+> <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Realizar 5 gráficos usando los dos archivos de Excel facilitados.<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=6q1xGFW-xOQ<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
 
+Los gráficos dinámicos en Excel son una herramienta poderosa que permite visualizar y analizar datos de manera interactiva y dinámica. Con esta funcionalidad, los usuarios pueden crear representaciones visuales de conjuntos de datos complejos, lo que facilita la identificación de patrones, tendencias y relaciones.
 
+La característica principal de los gráficos dinámicos es su capacidad para cambiar automáticamente en función de los filtros y opciones seleccionados por el usuario. Esto significa que, al modificar los criterios de análisis, como rangos de fechas, categorías o valores, el gráfico se ajusta instantáneamente para reflejar los nuevos datos.
 
 </div>
