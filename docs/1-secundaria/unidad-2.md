@@ -10,7 +10,7 @@
 
  ## 1BS07: Uso la técnica del lettering para crear un letrero para mi restaurante
 
- > <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz un menú para una cevicheria e imprimelo <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=QdBVOKplamo<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
+ > <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea una igual que la clase, pero de una heladería <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=QdBVOKplamo<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
 
 Utilizar cuadros de texto y texto WordArt en Word puede agregar un toque creativo a tus letreros mediante la técnica del lettering. El lettering es un arte que consiste en dibujar letras de forma decorativa y personalizada, y con Word puedes lograr resultados sorprendentes. 
 

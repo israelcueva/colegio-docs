@@ -10,7 +10,7 @@ Microsoft Excel es una poderosa herramienta de hoja de cálculo que se utiliza e
 
 ## 1BS07: Resuelvo problemas de porcentajes
 
-> <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-play-circle"></i> **Tutorial:** - <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=GCHVz9fHn_k<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/4e6fbd5ypov8fy32zjbygcd4sq4aqgzt
+> <i class="bi bi-calendar"></i> **Fecha:** 15 al 19 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-play-circle"></i> **Tutorial:** https://youtu.be/MOpO8XDa1B0 <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=GCHVz9fHn_k<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/4e6fbd5ypov8fy32zjbygcd4sq4aqgzt
 
 Los porcentajes son una forma útil de expresar una parte de un todo como una fracción del 100%. En el ámbito empresarial, educativo y personal, los porcentajes se utilizan para analizar datos, realizar presupuestos, calcular descuentos, entre otros fines.
 
