@@ -12,8 +12,6 @@ Excel ofrece una plataforma versátil que permite a los usuarios crear y persona
 
 Los gráficos en Excel son herramientas visuales poderosas que permiten representar datos numéricos de una manera clara y comprensible. En lugar de simplemente ver una lista de números en una hoja de cálculo, los gráficos te permiten visualizar patrones, tendencias y comparaciones de manera rápida y efectiva.
 
-<div class="currentTheme">
-
 ## 1BS08: Creo la ficha descriptiva de mi personaje
 
 > <i class="bi bi-calendar"></i> **Fecha:** 22 al 26 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz la ficha de Runa<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=u1-LNurY88g<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/9y3lmtqy71xtcjcluqmldxjsu8d9e83n
@@ -33,4 +31,34 @@ La creación de fichas de personajes puede seguir un formato estándar o adaptar
 
 Crear fichas de personajes puede ser una actividad divertida y creativa por sí misma, pero su verdadero valor radica en cómo ayudan a los escritores a construir mundos coherentes y personajes tridimensionales que resuenen con los lectores.
 
+<div class="currentTheme">
+
+## 1BS09: Creo la ficha de mi cortometraje
+
+> <i class="bi bi-calendar"></i> **Fecha:** 29 de Abril al 03 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/9y3lmtqy71xtcjcluqmldxjsu8d9e83n
+
+Las fichas de análisis de cortometrajes proporcionan un marco sistemático para examinar diversos aspectos de la obra, como la trama, los personajes, la cinematografía, el sonido y los temas. Al desglosar estos elementos de manera individual, los espectadores pueden apreciar mejor cómo cada uno contribuye a la experiencia general y al mensaje del cortometraje.
+
+Algunas áreas comunes que suelen abordarse en las fichas de análisis incluyen:
+
+- **Sinopsis:** Resumen breve pero completo de la trama del cortometraje.
+- **Personajes:** Descripción de los personajes principales y su desarrollo a lo largo del cortometraje.
+- **Narrativa:** Análisis de la estructura narrativa, incluyendo la introducción, el desarrollo, el clímax y la conclusión.
+- **Estilo cinematográfico:** Exploración de la dirección de arte, la fotografía, la edición y otros aspectos visuales que contribuyen al estilo único del cortometraje.
+- **Sonido y música:** Evaluación del uso del sonido y la música para crear atmósfera, establecer el tono y realzar la narrativa.
+- **Tema y mensaje:** Interpretación de los temas subyacentes y el mensaje central del cortometraje.
+- **Impacto emocional:** Reflexión sobre cómo el cortometraje afecta al espectador y provoca una respuesta emocional.
+
 </div>
+
+## 1BS10: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 10<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Usando el modelo de la semana 9 elabora lo que sería la ficha de la siguiente película: https://www.youtube.com/watch?v=H0wFUwyLtfg.
+
+Cuanto termines tu proyecto, imprímelo y preséntalo en tu folder en el día indicado por el profesor en la semana 10.
+
+> No habrá extensión de fecha para la práctica.

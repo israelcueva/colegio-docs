@@ -34,8 +34,6 @@ Calcular el costo total de producción de las camisas.
 Considerando un precio de venta de S/. 15.00 por camisa, ¿Cuál sería el ingreso total por la venta de las 2,000 camisas?
 Calcular la ganancia total obtenida por la empresa en este pedido.
 
-<div class="currentTheme">
-
 ## 1BS08: Elaboro gráficos para representar datos
 
 > <i class="bi bi-calendar"></i> **Fecha:** 22 al 26 de de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-play-circle"></i> **Tutorial:** https://youtu.be/vX9DReorYZg <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/4e6fbd5ypov8fy32zjbygcd4sq4aqgzt
@@ -46,4 +44,24 @@ En el mundo actual, inundado de datos, los gráficos desempeñan un papel crucia
 
 Al utilizar gráficos, es importante seleccionar el tipo adecuado que mejor se adapte a los datos y al mensaje que se quiere transmitir. Entre los tipos comunes de gráficos se incluyen gráficos de barras, gráficos circulares, gráficos de líneas, gráficos de dispersión y gráficos de áreas, cada uno con sus propias ventajas y aplicaciones específicas.
 
+
+## 1BS08: Uso minigráficos en Presupuestos (Feriado)
+
+> <i class="bi bi-calendar"></i> **Fecha:** 29 de de Abril al 04 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-play-circle"></i> **Tutorial:** https://youtu.be/vX9DReorYZg <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/4e6fbd5ypov8fy32zjbygcd4sq4aqgzt
+
+-------
+
+<div class="currentTheme">
+
+## 1BS10: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Jueves 09 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Descarga el archivo BASE de la carpeta recursos y resuelve según aprendiste en clase, añáde los estilos correspondientes para que se vea bien el archivo y finalmente imprimelo, preséntalo en folder el día Jueves 09 de Mayo.
+
+> No habrá extensión de fecha para la práctica.
+
 </div>
+

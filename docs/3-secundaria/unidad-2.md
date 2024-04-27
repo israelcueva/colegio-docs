@@ -22,8 +22,6 @@ Para tu tarea de esta semana haz lo siguiente:
 
 - Presenta la captura del capitulo que avanzaste de la app Sololearn sobre HTML o Realiza cualquier tutorial de Youtube de CSS y presenta una captura donde se vea la URL de tu proyecto mediante replit.
 
-<div class="currentTheme">
-
 ## 1BS08: Aprendo a usar el Developer Tools
 
 > <i class="bi bi-calendar"></i> **Fecha:** 22 al 26 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=xBXYIs4-xJE<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/6p6h30uryj9wy13hvs5iv7wdtvuodoj6
@@ -32,4 +30,31 @@ Las herramientas para desarrolladores, comúnmente conocidas como "Developer Too
 
 Desde la inspección de elementos individuales hasta la modificación del CSS y el JavaScript en vivo, las Developer Tools ofrecen un conjunto completo de capacidades para mejorar la experiencia de desarrollo web. Además, proporcionan herramientas para analizar el rendimiento de una página, identificar problemas de carga y mejorar la optimización para una mejor experiencia del usuario.
 
+<div class="currentTheme">
+
+## 1BS09: Comparto mi proyecto por Internet
+
+> <i class="bi bi-calendar"></i> **Fecha:**29 de Abril al 03 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=Nd4MvQOYbhM<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/6p6h30uryj9wy13hvs5iv7wdtvuodoj6
+
+Replit es una plataforma en línea que ofrece un entorno de desarrollo integrado (IDE) en la nube, lo que significa que puedes escribir, ejecutar y compartir código directamente desde tu navegador web. Esta herramienta es especialmente útil para aquellos que desean colaborar en proyectos de programación o simplemente compartir su trabajo con otros de manera rápida y sencilla.
+
+Una de las características más destacadas de Replit es su capacidad para compartir archivos de manera eficiente. Con Replit, puedes compartir fácilmente tus proyectos completos, incluidos todos los archivos de código, con otros usuarios mediante un enlace único. Esto facilita la colaboración en equipo, ya que elimina la necesidad de enviar archivos por correo electrónico o cargarlos en servicios de almacenamiento en la nube.
+
+Además, Replit ofrece integraciones con Git, lo que te permite sincronizar tus proyectos con repositorios en GitHub u otras plataformas de control de versiones. Esto significa que puedes mantener un historial completo de los cambios en tus proyectos y colaborar con otros desarrolladores de manera aún más eficiente.
+
 </div>
+
+## 1BS10: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 10<br><i class="bi bi-laptop"></i> **Programa:** Replit
+
+Para esta semana deberás realizar tu práctica calificada que consiste en una de las siguiente propuestas:
+
+- ALT 1 para AD: Crea un sitio web que hable sobre la cultura CHIMÚ en replit.com. Dicha página web debe contener como mínimo 4 páginas.
+- ALT 2- En tu celular descarga la aplicación SOLOLEARN y realiza el curso de "Introducción a HTML" y por lo menos llega hasta el capítulo "Uso de atributos".
+
+Si presentas la alternativa 1 deberás mostrar la página el día que toque Computación o enviar la URL por correo hasta un día antes: israel@israelcueva.com
+
+Si presentas la alternativa dos, deberas hacer un vídeo donde aparezcas tú mostrando tu avance en dicha aplicación. Se te sugiere subir el video a youtube en modo [NO LISTADO](https://www.youtube.com/watch?v=8aBlrlKH-ks) y enviar la URL por correo a: israel@israelcueva.com
+
+> No habrá extensión de fecha para la práctica.

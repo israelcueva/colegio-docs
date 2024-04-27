@@ -34,9 +34,9 @@ donde $m$ es la pendiente de la recta y $b$ es la ordenada al origen.
 
 En este ejemplo, <code>\begin{equation}</code> y <code>\end{equation}</code> se utilizan para delimitar la ecuación, mientras que *y = mx + b* es la propia ecuación matemática. Además, se ha utilizado el paquete **amsmath** para acceder a funciones y entornos matemáticos adicionales.
 
-<div class="currentTheme">
+## 1BS08: Inserto gráficos usando Látex
 
-> <i class="bi bi-calendar"></i> **Fecha:** 22 al 26 de Abril<br><i class="bi bi-laptop"></i> **Programa:** [Papeeria](https://papeeria.com/) / [TextMaker](https://www.xm1math.net/texmaker/)<br><i class="bi bi-clipboard-check"></i> **Tarea:** Escribe 10 fórmulas matemáticas usando Latex. Muetsra el código y el resultado. <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=oeM1SJTQWOM<br><i class="bi bi-files"></i> **Recursos:** https://es.wikibooks.org/wiki/Manual_de_LaTeX/Inclusi%C3%B3n_de_gr%C3%A1ficos/Gr%C3%A1ficos_con_TikZ / https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
+> <i class="bi bi-calendar"></i> **Fecha:** 22 al 26 de Abril<br><i class="bi bi-laptop"></i> **Programa:** [Papeeria](https://papeeria.com/) / [TextMaker](https://www.xm1math.net/texmaker/)<br><i class="bi bi-clipboard-check"></i> **Tarea:** Escribe 10 fórmulas matemáticas usando Latex. Muestra el código y el resultado. <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=oeM1SJTQWOM<br><i class="bi bi-files"></i> **Recursos:** https://es.wikibooks.org/wiki/Manual_de_LaTeX/Inclusi%C3%B3n_de_gr%C3%A1ficos/Gr%C3%A1ficos_con_TikZ / https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
 
 La biblioteca TikZ es una herramienta poderosa y versátil para la creación de gráficos y figuras en LaTeX, el sistema de composición de documentos ampliamente utilizado en la comunidad académica y técnica. TikZ, que significa "TikZ ist kein Zeichenprogramm" (TikZ no es un programa de dibujo) en alemán, permite a los usuarios generar gráficos de alta calidad directamente dentro de sus documentos LaTeX, proporcionando un control preciso sobre cada aspecto de la apariencia y el diseño.
 
@@ -63,8 +63,32 @@ Desde diagramas simples hasta gráficos complejos, TikZ ofrece una amplia gama d
     \node at (3,0.5) {8m};
     \node at (3.4,2.4) {10m};
 
-\end{tikzpicture}p
+\end{tikzpicture}
 
 ```
 
+<div class="currentTheme">
+
+## 1BS09: Insertando la información Látex en Excel
+
+> <i class="bi bi-calendar"></i> **Fecha:** 29 de Abril al 04 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** [Papeeria](https://papeeria.com/) / [TextMaker](https://www.xm1math.net/texmaker/)<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
+
+Integrar LaTeX dentro de Excel permite a los usuarios aprovechar las capacidades de formateo y presentación de LaTeX mientras trabajan con datos y cálculos en una hoja de cálculo. Esto puede ser especialmente útil para aquellos que necesitan presentar resultados complejos o fórmulas matemáticas en sus documentos de Excel de una manera elegante y profesional.
+
+La combinación de LaTeX y Excel puede ofrecer una serie de beneficios, como la capacidad de crear informes técnicos y científicos que incluyan tanto datos numéricos como contenido matemático detallado. Además, LaTeX proporciona un control preciso sobre el formato del texto y las ecuaciones, lo que permite una presentación altamente personalizada y estéticamente atractiva.
+
 </div>
+
+## 1BS10: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 10<br><i class="bi bi-laptop"></i> **Programa:** Cualquier intérprete de Latex.
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+1. Escoge 10 ejercicios de la página 145 -> 146 de tu separata (Trigonometría - Sigo practicando).
+2. Usando latex realiza dichas fórmulas, gráficos, etc.
+3. Para AD: Haz la resolución de dichos ejercicios usando latex.
+
+Copiar el código a un archivo txt para que el profesor lo copie y lo ejecute en su programa. Enviar dicho archivo por correo a: israel@israelcueva.com
+
+> No habrá extensión de fecha para la práctica.
