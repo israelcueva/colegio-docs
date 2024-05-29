@@ -1,16 +1,15 @@
 - 1º Secundaria
   
   - [<i class="bi bi-house"></i> Inicio](1-secundaria/inicio)
-  - [<i class="bi bi-clipboard-check"></i> Proyecto](1-secundaria/proyecto.md)
 
 - 1 Bimestre
 
   - [Unidad 1](1-secundaria/unidad-1.md)
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 2](1-secundaria/unidad-2.md)
+  - [Unidad 2](1-secundaria/unidad-2.md)
 
 - 2 Bimestre 
 
-  - [Unidad 3](1-secundaria/unidad-3.md)
+  - [<i class="bi bi-arrow-right-square"></i>  Unidad 3](1-secundaria/unidad-3.md)
   - [Unidad 4](1-secundaria/unidad-4.md)
 
 - 3 Bimestre

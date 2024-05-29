@@ -18,8 +18,6 @@ Utilizar cuadros de texto y texto WordArt en Word puede agregar un toque creativ
 
 El diseño de trípticos en Word ofrece una herramienta accesible y versátil para crear material promocional, informativo o educativo de manera efectiva y atractiva. Los trípticos son una forma eficaz de comunicar información de manera concisa, ya que dividen el espacio en secciones claramente definidas que guían al lector a través del contenido de manera ordenada. Con Word, una de las herramientas de procesamiento de texto más utilizadas, puedes aprovechar una variedad de funciones para diseñar trípticos que se ajusten a tus necesidades específicas. Desde la organización del contenido hasta la selección de fuentes y colores, Word te ofrece la flexibilidad necesaria para crear trípticos profesionales y atractivos sin necesidad de software especializado de diseño gráfico. En esta guía, exploraremos paso a paso cómo utilizar Word para diseñar trípticos impactantes que capturen la atención de tu audiencia y comuniquen tu mensaje de manera efectiva.
 
- <div class="currentTheme">
-
   ## 1BS09: Añado diseño a mi tríptico publicitario
 
   > <i class="bi bi-calendar"></i> **Fecha:** 29 de Abril al 03 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/playlist?list=PLa1C9ukdURJDFHZGJbWSasJSiSJ22VmAe<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
@@ -29,7 +27,6 @@ El diseño de trípticos en Word ofrece una herramienta accesible y versátil pa
 
   Usaremos Word con todas sus herramientas para generar un diseño impactante para nuestro tríptico.
 
- </div>
 
 
 ## 1BS10: Práctica Calificada & Revisión de Folder
