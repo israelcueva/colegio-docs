@@ -40,9 +40,9 @@ En la animación tradicional, el pintado de imágenes se realiza en celdas de ac
 
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
 
-- Usa la base de fuego que se usó la semana pasada y pintalo en cualquier programa para pintar y completa la animación de fuego. Si deseas hacer la animación desde 0 también cuenta.
+- Usa la base de fuego que se usó la semana pasada, pintalo en cualquier programa de pintura y completa la animación de fuego. Si deseas hacer la animación desde 0 también cuenta.
 
-Cuanto termines tu proyecto, expórtalo en video con el nombre siguiente (Cambiando lo tachado por tus datos):
+Cuanto termines tu proyecto, expórtalo en video o gif con el nombre siguiente (Cambiando lo tachado por tus datos):
 
 <code><del>CALLAO</del>-<del>2A</del>-2BS05-<del>PEPITO</del>-<del>PERIQUITO</del>-<del>DE</del>-<del>LOS</del>-<del>PALOTES</del>.MP4</code>
 
