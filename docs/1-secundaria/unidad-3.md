@@ -24,19 +24,16 @@ https://docs.google.com/forms/d/e/1FAIpQLScquRlyAeqVee3dHC6i56ZJYufCpwTgt3TN6xVS
 
 Los encabezados y pies de página son elementos fundamentales en la creación de documentos profesionales y bien organizados en Microsoft Word. Estos elementos permiten incluir información repetitiva o constante en cada página del documento, como números de página, títulos, nombres de capítulos, fechas, nombres de autores, entre otros datos relevantes. Utilizar encabezados y pies de página no solo mejora la presentación y estructura del documento, sino que también facilita la navegación y comprensión del contenido para el lector.
 
-<div class="currentTheme">
-
 ## 2BS04: Genero mi tabla de contenidos automáticamente
 
 > <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Junio<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=XJIL65fRjhc<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/sppupfhf2a6flndqg1q4f4yudlzw5ksu
 
 El proceso de generación automática de índices en Word implica varios pasos que garantizan la precisión y la coherencia. Primero, es fundamental estructurar el documento utilizando los estilos de encabezado incorporados en Word (como Título 1, Título 2, etc.). Estos estilos permiten a Word identificar y jerarquizar las secciones del documento. Una vez que los encabezados están correctamente aplicados, se puede insertar el índice de forma automática.
 
-</div>
 
 ## 2BS05: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i>**Fecha:** Semana 05<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 05<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word
 
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
 
