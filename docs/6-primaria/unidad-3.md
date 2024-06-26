@@ -18,15 +18,11 @@ Las animaciones en PowerPoint son una herramienta esencial para mejorar la diná
 
 El storytelling es una técnica poderosa que ha sido utilizada durante siglos para transmitir conocimientos, valores y emociones a través de historias. En el mundo moderno, PowerPoint se ha consolidado como una herramienta eficaz para llevar el arte del storytelling a nuevas alturas, permitiendo a los narradores combinar elementos visuales y textuales de manera creativa. Con PowerPoint, es posible estructurar y presentar historias de una manera que capte la atención del público y deje una impresión duradera. Desde el diseño de diapositivas hasta la integración de imágenes, videos y gráficos, esta herramienta ofrece un sinfín de posibilidades para enriquecer la narrativa y hacerla más atractiva y memorable. En esta guía, exploraremos cómo utilizar PowerPoint para convertir historias ordinarias en presentaciones extraordinarias que informen, inspiren y conmuevan a la audiencia.
 
-<div class="currentTheme">
-
 ## 2BS04: Creo un video animado de los deportes con balón
 
 > <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Junio<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Power Point <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=aXJaeAPg-Jg / https://www.youtube.com/watch?v=GyRNdajZ_jU<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/4e6fbd5ypov8fy32zjbygcd4sq4aqgzt
 
 Crear un video en PowerPoint implica varios pasos clave. Primero, se diseña la presentación como de costumbre, incorporando texto, imágenes, gráficos y cualquier otro elemento visual necesario. Luego, se añaden animaciones y transiciones para controlar el flujo de información y mantener la atención del espectador. Es posible grabar narraciones de audio para acompañar cada diapositiva, proporcionando explicaciones detalladas y una conexión más personal con la audiencia. Además, se puede integrar música de fondo para enriquecer la experiencia audiovisual.
-
-</div>
 
 ## 2BS05: Práctica Calificada & Revisión de Folder
 
