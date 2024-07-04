@@ -10,7 +10,7 @@
 - 2 Bimestre 
 
   - [Unidad 3](4-secundaria/unidad-3.md)
-  - <i class="bi bi-arrow-right-square"></i>  [Unidad 4](4-secundaria/unidad-4.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 4](4-secundaria/unidad-4.md)
 
 - 3 Bimestre
 
