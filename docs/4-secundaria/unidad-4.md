@@ -38,9 +38,11 @@ Un sistema de puntajes es un mecanismo que asigna puntos a los jugadores en func
 
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
 
-- Sigue este video tutorial: <code>Disponible desde el Domingo a las 00:01 hrs</code>
-- Realiza y completa las personalizaciones a tu juego, como indica en el videotutorial.
-- Compila tu proyecto a Web (Mira en el video tutorial) y envia el archivo ZIP generado.
+- Sigue este video tutorial: https://youtu.be/BVpPccZ3J6I
+- Usa diferentes recursos a los usados en el videotutorial.
+- Envia el ZIP de tu proyecto:
+    - Opción 1: Comprime el proyecto en ZIP.
+    - Opción 2: Exportar para escritorio y la carpeta nombre-win-x64 comprimela en zip y envia ese archivo.
 
 El archivo zip envíalo a través del enlace siguiente:
 

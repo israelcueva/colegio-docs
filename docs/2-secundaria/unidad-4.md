@@ -12,7 +12,7 @@ En el mundo de la animación y la edición de video, los fotogramas clave son un
 
 La animación de fondos es una parte fundamental de la creación de escenas visualmente atractivas y dinámicas en cualquier proyecto animado. Un fondo bien diseñado no solo establece el ambiente y la atmósfera de la narrativa, sino que también puede interactuar con los personajes y objetos en movimiento para mejorar la experiencia visual del espectador. Adobe Animate, anteriormente conocido como Flash, es una poderosa herramienta que ofrece una amplia gama de funcionalidades para la creación de animaciones de fondos complejas y detalladas.
 
-## 2BS08: Animo los escenarios de mi proyecto
+## 2BS08: Añado algunos efectos especiales a mi animación
 
 > <i class="bi bi-calendar"></i> **Fecha:** 08 al 12 de Julio<br><i class="bi bi-laptop"></i> **Programa:** Adobe animate<br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea el storyboard de la historia de RUNA<br> <i class="bi bi-card-checklist"></i> **Guía:**  <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=gpDhc_vIRPg <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/9y3lmtqy71xtcjcluqmldxjsu8d9e83n
 

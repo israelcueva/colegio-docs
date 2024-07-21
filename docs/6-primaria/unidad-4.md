@@ -43,7 +43,7 @@ Désfile cívico
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
 
 - Escoge una canción que hable acerca de Dios o de nuestra relación con él.
-- Grábate haciendo un [lipsync](https://www.facebook.com/watch/?v=3274191132870120)
+- Grábate haciendo un [lipsync](https://www.facebook.com/watch/?v=3274191132870120).
 - Puedes hacer diversas tomas, o una sola como el video de ejemplo.
 - Añade transiciones, pegatinas, etc. Lo que desees para que tu video salga de la mejor manera.
 
