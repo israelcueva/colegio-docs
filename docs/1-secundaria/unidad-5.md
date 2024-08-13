@@ -1,0 +1,7 @@
+# 1-Secundaria - Unidad 5
+
+## 3BS01: Entiendo los modos de color
+
+> <i class="bi bi-calendar"></i> **Fecha:** 12 al 16 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** https://www.photopea.com/<br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea una portada para el proyecto RUNA.<br> <i class="bi bi-card-checklist"></i> **Guía:** [Teoría del color](https://www.canva.com/design/DAGNfccR4kg/o5DpwoNsGyKy_tHe1RQcBA/view?utm_content=DAGNfccR4kg&utm_campaign=designshare&utm_medium=link&utm_source=editor) / [RGB y CMYK](https://www.canva.com/design/DAGNfQFdtaQ/B2EXD0iEXk6-UrxW2NJsMw/view?utm_content=DAGNfQFdtaQ&utm_campaign=designshare&utm_medium=link&utm_source=editor) <br> <i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=hwMESkM37N8<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1ev25PE4bjMT60w1CPIE-WQE2sEoIb55H?usp=sharing
+
+Los modos de color son configuraciones específicas que determinan cómo se representa el color en un sistema visual, como una pantalla de computadora, una impresora o una cámara digital. Estos modos son fundamentales para cualquier actividad relacionada con el diseño gráfico, la fotografía, la impresión y la producción de contenido digital, ya que afectan la manera en que los colores se mezclan y se reproducen.
