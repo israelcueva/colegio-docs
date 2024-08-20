@@ -24,8 +24,6 @@ En Adobe Animate, los filtros son efectos gráficos que se pueden aplicar a clip
 
 En términos simples, la profundidad de campo se refiere al rango de distancia dentro de una escena en la que los objetos se ven nítidos. Fuera de esta área, los objetos se vuelven progresivamente más borrosos. En la animación 2D, aunque trabajamos en un plano bidimensional, podemos simular este efecto para crear la ilusión de profundidad y hacer que nuestras escenas se sientan más realistas y tridimensionales.
 
-<div class="currentTheme">
-
 ## 2BS10: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** Cualquier programa de animación
@@ -40,5 +38,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Tu proyecto lo deberás presentar a través del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EuNY-btSvD1LokHqVAaGZR0BIPQ75Ylg-Earp3k12xpb9g
-
-</div>

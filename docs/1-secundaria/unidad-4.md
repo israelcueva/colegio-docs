@@ -26,8 +26,6 @@ En el ámbito del diseño gráfico, web, y de productos, la presentación visual
 
 El Pincel es una herramienta que aplica color a la imagen de una manera controlada. Los pinceles pueden variar en forma, tamaño y textura, lo que permite a los usuarios crear diferentes efectos visuales. Además, los pinceles no solo se utilizan para pintar, sino también para borrar, clonar y aplicar máscaras de capa.
 
-<div class="currentTheme">
-
 ## 2BS10: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** [Photopea](https://www.photopea.com/)
@@ -43,5 +41,5 @@ Tu proyecto lo deberás presentar a través del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Estln3JVjHlOjLKK74HAuawB83My07pRuAdzIwRNw2brgw
 
-</div>
+
 

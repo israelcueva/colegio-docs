@@ -30,8 +30,6 @@ En el contexto de los videojuegos, los escenarios (también conocidos como nivel
 
 Un sistema de puntajes es un mecanismo que asigna puntos a los jugadores en función de sus acciones y logros dentro del juego. Estos puntos pueden obtenerse al completar niveles, derrotar enemigos, recolectar objetos, alcanzar objetivos específicos o realizar ciertas acciones con destreza. Los puntajes pueden ser acumulativos, representando el total de puntos obtenidos a lo largo del juego, o específicos a cada nivel o misión.
 
-<div class="currentTheme">
-
 ## 2BS10: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** CT JS
@@ -47,5 +45,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 El archivo zip envíalo a través del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EtBtJlK0OglNsHbMqBTA-QMBafev80lHPvalPZqBWbYeFQ
-
-</div>

@@ -40,8 +40,6 @@ Las columnas son elementos que permiten dividir el espacio horizontal en un cont
 
 Los iconos son pequeñas imágenes o símbolos que representan una acción, objeto o concepto. Se utilizan en interfaces de usuario para mejorar la comunicación visual, guiando a los usuarios a través de una aplicación o sitio web. Los iconos pueden ser simples pictogramas, gráficos detallados o incluso representaciones estilizadas de elementos del mundo real.
 
-<div class="currentTheme">
-
 ## 2BS10: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** W3C School
@@ -56,5 +54,3 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 Las capturas envialas a través del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EgpT_v5rd2NHltIgSFRqJa8BwwMjogfSg7gMnM7QGosIBA
-
-</div>
