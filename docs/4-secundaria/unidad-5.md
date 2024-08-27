@@ -12,12 +12,18 @@ Para crear nuestro HUD necesitaremos tres cosas:
 - **WELCOME ROOM**: La pantalla de bienvenida con el botón start para abrir los otros ROOM. <code>rooms.switch("Nombre del room al que se desea ir")</code>.
 - **LEVEL ROOM**: Son los ROOM al que se le añadira el room del HUD con el código <code>rooms.append("Nombre del HUD")</code>. Desde el botón EVENTOS al costado del ojo.
 
-<div class="currentTheme">
-
 ## 3BS02: Trabajo con fondos usando Tiles
 
 > <i class="bi bi-calendar"></i> **Fecha:** 19 al 23 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:**  <br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
 
 En el desarrollo de videojuegos, uno de los desafíos más importantes es la creación de entornos visuales que sean tanto atractivos como funcionales. Los "tiles" (o baldosas) son una solución popular para este problema, ya que permiten construir mundos de juego de manera modular y eficiente. En este tutorial, exploraremos cómo utilizar cat.js para gestionar y mostrar tiles en tus proyectos de videojuegos.
+
+<div class="currentTheme">
+
+## 3BS03: Añadiendo sistema de puntajes
+
+> <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:**  <br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
+
+
 
 </div>
