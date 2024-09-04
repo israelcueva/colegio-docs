@@ -44,7 +44,17 @@ emitters.append(this,"nombreEfecto");
 
 ## 3BS05: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** CT JS
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6<br><i class="bi bi-laptop"></i> **Programa:** CT JS
 
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+
+- Crea un juego de tipo parkour con 3 niveles y una pantalla de bienvenida con su respectivo boton de inicio.
+- En la pantalla de Bienvenida coloca el titulo del juego "El desafio de <<tunombre>>" y reemplaza la útlima palabra con tu nombre.
+- Plus: Añade un sistema de puntajes.
+
+Guarda tu proyecto en USB y lo presentarás en clase, en la semana 6.
+
+
+
+
 
