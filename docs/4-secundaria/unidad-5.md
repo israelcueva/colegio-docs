@@ -18,12 +18,33 @@ Para crear nuestro HUD necesitaremos tres cosas:
 
 En el desarrollo de videojuegos, uno de los desafíos más importantes es la creación de entornos visuales que sean tanto atractivos como funcionales. Los "tiles" (o baldosas) son una solución popular para este problema, ya que permiten construir mundos de juego de manera modular y eficiente. En este tutorial, exploraremos cómo utilizar cat.js para gestionar y mostrar tiles en tus proyectos de videojuegos.
 
-<div class="currentTheme">
-
 ## 3BS03: Añadiendo sistema de puntajes
 
-> <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:**  <br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:** https://ulisesfreitas.itch.io/ctjs-cheatsheet-spanish-es<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
 
+El Local Storage es una herramienta poderosa y sencilla en el desarrollo web que permite a los desarrolladores guardar datos de manera persistente en el navegador del usuario. En el contexto de los videojuegos, Local Storage es especialmente útil para almacenar puntajes, configuraciones o cualquier tipo de información que se desee mantener entre sesiones, sin necesidad de configurar una base de datos en un servidor.
 
+A diferencia de las cookies, Local Storage ofrece más capacidad de almacenamiento (alrededor de 5MB por dominio en la mayoría de los navegadores) y es más fácil de usar para datos no sensibles. Además, los datos almacenados en Local Storage persisten incluso cuando el usuario cierra el navegador, lo que significa que los puntajes de los videojuegos se pueden conservar y cargar la próxima vez que el jugador regrese al juego.
+
+<div class="currentTheme">
+
+## 3BS04: Usando emiters para añadir efectos
+
+> <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea. Relizar práctica<br> <i class="bi bi-card-checklist"></i> **Guía:** https://img.itch.zone/aW1hZ2UvODEzOTYxLzE0OTkyMTE1LnBuZw==/original/tfoEIH.png<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
+
+Imagina un fuego de campamento, una explosión estelar o una cascada de agua. Todos estos efectos, por complejos que parezcan, pueden ser creados en un videojuego utilizando emisores de partículas. Un emisor de partículas es una herramienta que permite generar y controlar una gran cantidad de pequeñas partículas gráficas para simular diversos fenómenos naturales o efectos mágicos.
+
+En cat.js podemos crearlos a partir de una textura y cuando este listo agregamos el siguiente código a nuestro personaje si queremos que el emisor lo siga.
+
+```javascript
+emitters.append(this,"nombreEfecto");
+```
 
 </div>
+
+## 3BS05: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 21 de Julio<br><i class="bi bi-laptop"></i> **Programa:** CT JS
+
+Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+

@@ -14,8 +14,6 @@ El Document Object Model (DOM) es una interfaz de programación para documentos 
 
 ![Alt text](https://miro.medium.com/v2/resize:fit:1358/0*XuuvP2Fzjm5-EXTd "a title")
 
-<div class="currentTheme">
-
 ## 3BS03: Uso bucles y condicionales para juegos simples
 
 > <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** Editor de código<br><i class="bi bi-clipboard-check"></i> **Tarea:** Por designar<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/js/<br> <i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=XYs3nHEKfeY / https://www.youtube.com/watch?v=7bO5wlqeeEI<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1f5XXULPLeC_Jkl5-BNCa_qJhQESG-K8y?usp=sharing
@@ -147,4 +145,34 @@ Las estructuras condicionales permiten que un programa tome decisiones en funci�
     }
   ```
 
+<div class="currentTheme">
+
+## 3BS04: Creo una calculadora con funciones.
+
+> <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** Editor de código<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea - Realizar Práctica Final<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/js/<br> <i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1f5XXULPLeC_Jkl5-BNCa_qJhQESG-K8y?usp=sharing
+
+Las funciones son uno de los pilares fundamentales en JavaScript y en la programación en general. Una función es un bloque de código reutilizable que se puede definir una vez y ejecutar varias veces en diferentes partes de un programa. En JavaScript, las funciones permiten organizar el código de manera más eficiente, modularizar tareas específicas y reducir la repetición de código, lo que hace que el desarrollo de aplicaciones sea más manejable y menos propenso a errores.
+
 </div>
+
+## 3BS05: Práctica Calificada & Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Editor de código
+
+La práctica se tomará en clase.
+
+En base a un proyecto se te harán desafios que deberás resolver para aprobar. Los desafios van desde los más simples a los más complejos.
+
+Lo que debes saber es:
+
+### Básico:
+
+- Generar una carpeta con la estructura base de un proyecto web. https://www.youtube.com/watch?v=cfvi4ht5rHI incluyendo la carpeta JS.
+- Uso del comando Emmet <code>html</code> y <code>html:5</code> para generar el contenido base de un proyecto.
+- Enlazar la hoja de estilos mediante la etiqueta <code>link</code>.
+- Enlazar la hoja de scripts mediante la etiqueta <code>script</code>.
+
+### Intermedio
+
+- Generación de una calculadora de ... usando Javascript.
+
