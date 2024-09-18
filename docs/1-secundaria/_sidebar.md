@@ -14,8 +14,8 @@
 
 - 3 Bimestre
 
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 5](1-secundaria/unidad-5.md)
-  - [Unidad 6](1-secundaria/unidad-6.md)
+  - [Unidad 5](1-secundaria/unidad-5.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 6](1-secundaria/unidad-6.md)
 
 - 4 Bimestre
 

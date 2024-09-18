@@ -20,8 +20,6 @@ Las imágenes bien optimizadas pueden mejorar la estética de un sitio web, hace
 
 La vectorización de imágenes es un proceso en el cual una imagen, generalmente en formato de mapa de bits o raster, se convierte en un formato vectorial. A diferencia de las imágenes raster, que están compuestas por píxeles, las imágenes vectoriales se representan mediante formas geométricas como líneas, curvas y polígonos, definidos por ecuaciones matemáticas. Esto permite que las imágenes vectoriales sean escalables sin pérdida de calidad, lo que las hace ideales para aplicaciones como el diseño gráfico, la impresión y la creación de logotipos.
 
-<div class="currentTheme">
-
 ## 3BS04: Añado luces y sombras en mi proyecto
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** https://www.photopea.com/<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea. Avanzar la semana 05<br> <i class="bi bi-card-checklist"></i> **Guía:**  <br> <i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/results?search_query=ahows+and+igths+vectors<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1ev25PE4bjMT60w1CPIE-WQE2sEoIb55H?usp=sharing
@@ -29,7 +27,7 @@ La vectorización de imágenes es un proceso en el cual una imagen, generalmente
 El uso de luces y sombras en gráficos vectoriales es una técnica clave para añadir profundidad, realismo y dinamismo a las composiciones. A diferencia de los gráficos rasterizados, los gráficos vectoriales se componen de formas geométricas y líneas definidas por ecuaciones matemáticas, lo que permite escalarlos sin pérdida de calidad. Sin embargo, su naturaleza bidimensional puede hacer que las imágenes se vean planas o carentes de vida.
 
 Para contrarrestar esto, la aplicación de luces y sombras se convierte en una herramienta esencial. Mediante el uso estratégico de sombras proyectadas, degradados, reflejos y brillos, se puede simular la tridimensionalidad, realzando la percepción del volumen y la profundidad. Además, el contraste entre luz y sombra guía la atención del espectador y aporta un sentido de jerarquía visual.
-</div>
+
 
 ## 3BS05: Práctica Calificada & Revisión de Folder
 
@@ -40,3 +38,4 @@ Para esta semana deberás realizar tu práctica calificada que consiste en lo si
 - Convierte la cara de Mickey Mouse (Semanas anteriores) en anime usando Photopea.
 - Imprime tu proyecto y presentálo en clase.
 - Recuerda que debes configurar correctamente los colores.
+

@@ -18,15 +18,11 @@ Imagina un video como una serie de imágenes que se suceden rápidamente. Las tr
 
 El uso de efectos visuales (VFX) en la edición de video se ha vuelto cada vez más accesible gracias a herramientas como VSDC Free Video Editor. Este software gratuito ofrece una variedad de funciones que permiten a los usuarios agregar efectos visuales impresionantes a sus proyectos de video, sin necesidad de ser expertos en edición. Con VSDC, puedes crear transiciones dinámicas, efectos especiales, y mejorar la estética de tus videos de manera profesional.
 
-<div class="currentTheme">
-
 ## 3BS04: Separo mi proyecto en Escenas
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** VSDC Free Video Editor<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea. Avanzar práctica final<br> <i class="bi bi-card-checklist"></i> **Guía:** <br> <i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1ezE63EGtU9vHTCfoenvHbzsSFMTkdbFT?usp=sharing
 
 En VSDC, una escena es una unidad de trabajo que puede contener múltiples clips de video, imágenes, efectos, texto y otros elementos visuales o de audio. Las escenas funcionan como capítulos o secciones dentro de un proyecto de video, facilitando la organización y edición de segmentos específicos sin afectar el resto del proyecto. Esto es especialmente útil en proyectos complejos, donde dividir el trabajo en escenas independientes ayuda a mantener el control sobre la narrativa y el flujo del video.
-
-</div>
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 15 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** [Photopea](https://www.photopea.com/)
 

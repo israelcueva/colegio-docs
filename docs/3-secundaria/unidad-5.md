@@ -145,15 +145,11 @@ Las estructuras condicionales permiten que un programa tome decisiones en funci�
     }
   ```
 
-<div class="currentTheme">
-
 ## 3BS04: Creo una calculadora con funciones.
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** Editor de código<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea - Realizar Práctica Final<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/js/<br> <i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1f5XXULPLeC_Jkl5-BNCa_qJhQESG-K8y?usp=sharing
 
 Las funciones son uno de los pilares fundamentales en JavaScript y en la programación en general. Una función es un bloque de código reutilizable que se puede definir una vez y ejecutar varias veces en diferentes partes de un programa. En JavaScript, las funciones permiten organizar el código de manera más eficiente, modularizar tareas específicas y reducir la repetición de código, lo que hace que el desarrollo de aplicaciones sea más manejable y menos propenso a errores.
-
-</div>
 
 ## 3BS05: Práctica Calificada & Revisión de Folder
 
