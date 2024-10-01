@@ -24,6 +24,8 @@ El uso de efectos visuales (VFX) en la edición de video se ha vuelto cada vez m
 
 En VSDC, una escena es una unidad de trabajo que puede contener múltiples clips de video, imágenes, efectos, texto y otros elementos visuales o de audio. Las escenas funcionan como capítulos o secciones dentro de un proyecto de video, facilitando la organización y edición de segmentos específicos sin afectar el resto del proyecto. Esto es especialmente útil en proyectos complejos, donde dividir el trabajo en escenas independientes ayuda a mantener el control sobre la narrativa y el flujo del video.
 
+## 3BS05: Práctica Calificada & Revisión de Folder
+
 > <i class="bi bi-calendar"></i> **Fecha:** Hasta el Domingo 15 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** [Photopea](https://www.photopea.com/)
 
 Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
