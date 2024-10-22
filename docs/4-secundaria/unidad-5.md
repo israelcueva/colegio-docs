@@ -26,8 +26,6 @@ El Local Storage es una herramienta poderosa y sencilla en el desarrollo web que
 
 A diferencia de las cookies, Local Storage ofrece más capacidad de almacenamiento (alrededor de 5MB por dominio en la mayoría de los navegadores) y es más fácil de usar para datos no sensibles. Además, los datos almacenados en Local Storage persisten incluso cuando el usuario cierra el navegador, lo que significa que los puntajes de los videojuegos se pueden conservar y cargar la próxima vez que el jugador regrese al juego.
 
-<div class="currentTheme">
-
 ## 3BS04: Usando emiters para añadir efectos
 
 > <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Agosto<br><i class="bi bi-laptop"></i> **Programa:** CT.JS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea. Relizar práctica<br> <i class="bi bi-card-checklist"></i> **Guía:** https://img.itch.zone/aW1hZ2UvODEzOTYxLzE0OTkyMTE1LnBuZw==/original/tfoEIH.png<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
@@ -39,8 +37,6 @@ En cat.js podemos crearlos a partir de una textura y cuando este listo agregamos
 ```javascript
 emitters.append(this,"nombreEfecto");
 ```
-
-</div>
 
 ## 3BS05: Práctica Calificada & Revisión de Folder
 

@@ -11,3 +11,9 @@ Python es uno de los lenguajes de programación más populares y versátiles, am
 Para conectar y trabajar con MySQL en Python, se utiliza un conector o driver que permite la comunicación entre el lenguaje y la base de datos. El más común es el módulo mysql-connector-python, aunque también existen otras opciones como PyMySQL y MySQLdb. Estos conectores permiten ejecutar consultas SQL desde Python, realizar operaciones CRUD (crear, leer, actualizar y eliminar), gestionar transacciones, y mucho más, lo que te da la flexibilidad de interactuar con tus bases de datos directamente desde el código.
 
 </div>
+
+
+1. Verifica que tu computadora sea de 64 bits viendo este video: https://www.youtube.com/watch?v=6Zbhi-5M07E 
+2. Descarga python desde este enlace: https://github.com/adang1345/PythonWindows/blob/master/3.9.19/python-3.9.19-full.exe
+3. Instala Python siguiendo este video: https://youtu.be/i6j8jT_OdEU?si=k43J9FI4C2Q39hNT&t=62 (Desde el minuto 1).
+4. 

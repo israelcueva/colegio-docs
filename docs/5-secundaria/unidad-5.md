@@ -36,8 +36,6 @@ Existen tres tipos principales de relaciones en MySQL:
 
 Cada uno de estos tipos de relaciones tiene su propio propósito y aplicación en la estructura de una base de datos, y entenderlos es fundamental para diseñar bases de datos eficientes y bien estructuradas.
 
-<div class="currentTheme">
-
 ## 3BS04: Llaves primarias y foráneas
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Setiembre<br><i class="bi bi-laptop"></i> **Programa:** HeidiSQL<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea, avanzar práctica<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/MySQL/default.asp<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=hFwHAt8nCQY<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1g8v-4EJPwj1QgNCqxrMytty-gGLZ3s2n?usp=sharing
@@ -64,9 +62,6 @@ Las llaves foráneas tienen varias funciones importantes:
 - Propagación de cambios: Con el uso de opciones como ON UPDATE y ON DELETE, es posible controlar cómo se comportan las llaves foráneas cuando se actualizan o eliminan los registros en la tabla de referencia.
 
 El uso adecuado de llaves primarias y foráneas es fundamental para garantizar la integridad y la coherencia de los datos, permitiendo al mismo tiempo la creación de estructuras de datos más complejas y eficientes.
-
-</div>
-
 ## 3BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Domingo 15<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código.

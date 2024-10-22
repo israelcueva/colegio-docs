@@ -12,7 +12,6 @@ El término "stomp" proviene del acto de golpear o pisar con fuerza, y en el ám
 
 El uso de efectos de sonido en la edición de videos es una herramienta crucial para enriquecer la experiencia audiovisual y transmitir emociones o información de manera más efectiva. Los efectos de sonido pueden mejorar la narrativa al enfatizar acciones, crear atmósferas, o complementar elementos visuales que no tienen sonidos propios. Desde sonidos ambientales hasta efectos especiales, su correcta integración puede aportar realismo, tensión o dinamismo a una escena. Los editores de video suelen emplear efectos de sonido para mejorar la inmersión del espectador, crear transiciones fluidas entre escenas o resaltar momentos clave, haciendo que el contenido final sea más envolvente y atractivo.
 
-<div class="currentTheme">
 
 ## 3BS07: Hago uso de sincronización de voces
 
@@ -20,7 +19,6 @@ El uso de efectos de sonido en la edición de videos es una herramienta crucial 
 
 La sincronización de voces, también conocida como doblaje o sincronización de audio, es un proceso clave en la postproducción audiovisual que consiste en alinear de manera precisa la voz grabada con los movimientos labiales y las acciones visuales en pantalla. Esta técnica es esencial en proyectos como películas, series, videojuegos o comerciales, donde el diálogo puede grabarse por separado o en un idioma distinto al original. Una correcta sincronización de voces asegura que el espectador perciba una integración fluida entre el audio y el video, mejorando la inmersión y la calidad del contenido. Este proceso requiere atención al ritmo, la entonación y el tiempo para lograr una experiencia auditiva y visual coherente y natural.
 
-</div>
 
 ## 3BS09: Práctica Calificada & Revisión de Folder
 

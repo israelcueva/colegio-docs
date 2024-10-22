@@ -13,15 +13,13 @@ Adobe InDesign es una de las herramientas más poderosas y versátiles para el d
 El uso de estilos de texto en Adobe InDesign es una herramienta fundamental para mantener la coherencia y eficiencia en el diseño de documentos largos o complejos, como libros, revistas y folletos. Los estilos de texto permiten aplicar de manera rápida y uniforme formatos predefinidos a títulos, subtítulos, párrafos y otros elementos tipográficos. InDesign ofrece dos tipos principales de estilos: los estilos de carácter, que afectan a partes específicas del texto, como la fuente o el tamaño, y los estilos de párrafo, que controlan el formato de bloques de texto completo, incluyendo alineación y espaciado. Usar estilos de texto no solo agiliza el proceso de diseño, sino que también facilita la modificación global de los formatos en todo el documento con un solo clic, mejorando tanto la productividad como la apariencia profesional del proyecto.
 
 
-<div class="currentTheme">
-
 ## 3BS08: Trabajando con imágenes
 
 > <i class="bi bi-calendar"></i> **Fecha:** 30 de Setiembre al 04 de Octubre<br><i class="bi bi-laptop"></i> **Programa:** Adobe indesign<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:** <br> <i class="bi bi-youtube txt-red"></i> **Videos:**https://www.youtube.com/watch?v=ei8pt53lsAo<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1ev25PE4bjMT60w1CPIE-WQE2sEoIb55H?usp=sharing
 
 En Adobe InDesign, el uso de imágenes es esencial para crear composiciones visuales atractivas y profesionales. InDesign permite insertar, ajustar y manipular gráficos e imágenes para mejorar el diseño de documentos como revistas, folletos, y catálogos. Los usuarios pueden importar imágenes en diferentes formatos (como JPEG, PNG, y TIFF) y utilizar herramientas avanzadas para ajustar su tamaño, recortar, aplicar efectos y gestionar la calidad de impresión. Además, la integración de imágenes con tipografía y otros elementos gráficos en InDesign facilita la creación de layouts equilibrados y dinámicos.
 
-</div>
+
 
 ## 3BS09: Práctica Calificada & Revisión de Folder
 
