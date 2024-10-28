@@ -1,8 +1,6 @@
 # 3-Secundaria - Unidad 7
 
-<div class="currentTheme">
-
-## 4BS07: Instalo Boostrap y sus Iconos en mi proyecto web
+## 4BS01: Instalo Boostrap y sus Iconos en mi proyecto web
 
 > <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Octubre<<br><i class="bi bi-laptop"></i> **Programa:** Editor de código<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una guia en papel sobre como es el proceso de Instalación<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/bootstrap5/<br> <i class="bi bi-youtube txt-red"></i> **Videos:** https://youtube.com/playlist?list=PLnunbwZjHqMO-JII_HBf5TAzdzaBJP34w&si=RMinwaRy_tXZEQ2R<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1f5XXULPLeC_Jkl5-BNCa_qJhQESG-K8y?usp=sharing
 
@@ -18,3 +16,137 @@ Instalación vía CDN (Content Delivery Network): Esta es la forma más rápida 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js
 
 ```
+
+<div class="currentTheme">
+
+## 4BS02: Entiendo los contenedores y los breackpoints
+
+> <i class="bi bi-calendar"></i> **Fecha:** 28 de Octubre al 01 de Noviembre<<br><i class="bi bi-laptop"></i> **Programa:** Editor de código<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una guia en el folder explicando los contenedores y los breakpoints<br> <i class="bi bi-card-checklist"></i> **Guía:** https://www.w3schools.com/bootstrap5/<br> <i class="bi bi-youtube txt-red"></i> **Videos:** https://youtube.com/playlist?list=PLnunbwZjHqMO-JII_HBf5TAzdzaBJP34w&si=RMinwaRy_tXZEQ2R<br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1f5XXULPLeC_Jkl5-BNCa_qJhQESG-K8y?usp=sharing
+
+Bootstrap es un framework de desarrollo web front-end muy popular que proporciona una serie de herramientas y componentes prediseñados para crear sitios web responsivos y atractivos de manera rápida y sencilla. Dos de los conceptos más fundamentales en Bootstrap son los contenedores y los breakpoints.
+
+### ¿Qué son los contenedores en Bootstrap?
+
+Los contenedores en Bootstrap son elementos que sirven como envoltorios para el contenido de tu página. Estos contenedores proporcionan un ancho máximo y un margen interno, lo que ayuda a centrar el contenido y a mantener un diseño consistente en diferentes tamaños de pantalla.
+
+### Tipos de contenedores:
+
+- container: Establece un ancho máximo que se adapta a diferentes tamaños de pantalla.
+- container-fluid: Ocupa el 100% del ancho disponible en todas las pantallas.
+- container-{breakpoint}: Tiene un ancho máximo específico hasta un determinado breakpoint.
+
+### ¿Qué son los breakpoints en Bootstrap?
+
+Los breakpoints son puntos de inflexión en el diseño de tu sitio web, donde el diseño se adapta automáticamente a diferentes tamaños de pantalla. Bootstrap define varios breakpoints preestablecidos (por ejemplo, extra-small, small, medium, large, extra-large) que corresponden a diferentes anchos de pantalla.
+
+### ¿Para qué sirven los breakpoints?
+
+- Diseño responsivo: Permiten que tu sitio web se ajuste de manera óptima a diferentes dispositivos (móviles, tablets, desktops).
+- Organización del contenido: Puedes reorganizar los elementos de tu diseño en función del tamaño de la pantalla.
+- Creación de diseños personalizados: Los breakpoints te permiten crear diseños específicos para cada rango de tamaño de pantalla.
+
+```
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>El título de mi página</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+  <body>
+    <!-- Aquí empieza el encabezado principal que se mantendrá en todas las páginas del sitio web -->
+
+    <header>
+      <h1>Encabezado</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Nuestro equipo</a></li>
+        <li><a href="#">Proyectos</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+
+      <!-- Un formulario de búsqueda es una forma no-lineal de hacer búsquedas en un sitio web. -->
+
+      <form>
+        <input type="search" name="q" placeholder="Buscar" />
+        <input type="submit" value="¡Vamos!" />
+      </form>
+    </nav>
+
+    <!-- Aquí está el contenido principal de nuestra página -->
+    <main>
+      <!-- Contiene un artículo -->
+      <article>
+        <h2>Título del artículo</h2>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam
+          lectus. Set sit amet ipsum mauris. Maecenas congue ligula as quam
+          viverra nec consectetur ant hendrerit. Donec et mollis dolor. Praesent
+          et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt
+          congue enim, ut porta lorem lacinia consectetur.
+        </p>
+
+        <h3>Subsección</h3>
+
+        <p>
+          Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem.
+          Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
+        </p>
+
+        <p>
+          Pelientesque auctor nisi id magna consequat sagittis. Curabitur
+          dapibus, enim sit amet elit pharetra tincidunt feugiat nist imperdiet.
+          Ut convallis libero in urna ultrices accumsan. Donec sed odio eros.
+        </p>
+
+        <h3>Otra subsección</h3>
+
+        <p>
+          Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum
+          soclis natoque penatibus et manis dis parturient montes, nascetur
+          ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem
+          facilisis semper ac in est.
+        </p>
+
+        <p>
+          Vivamus fermentum semper porta. Nunc diam velit, adipscing ut
+          tristique vitae sagittis vel odio. Maecenas convallis ullamcorper
+          ultricied. Curabitur ornare, ligula semper consectetur sagittis, nisi
+          diam iaculis velit, is fringille sem nunc vet mi.
+        </p>
+      </article>
+
+      <!-- el contenido aparte también se puede anidar dentro del contenido principal -->
+      <aside>
+        <h2>Relacionado</h2>
+
+        <ul>
+          <li><a href="#">Oh, me gusta estar junto al mar</a></li>
+          <li><a href="#">Oh, me gusta estar junto al mar</a></li>
+          <li><a href="#">Aunque en el norte de Inglaterra</a></li>
+          <li><a href="#">Nunca deja de llover</a></li>
+          <li><a href="#">Oh, bueno...</a></li>
+        </ul>
+      </aside>
+    </main>
+
+    <!-- Y aquí está nuestro pie de página principal que se utiliza en todas las páginas de nuestro sitio web -->
+
+    <footer>
+      <p>©Copyright 2050 de nadie. Todos los derechos revertidos.</p>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+```
+
+</div>

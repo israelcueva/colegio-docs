@@ -12,8 +12,6 @@ LMMS (Linux MultiMedia Studio) es un software libre y de código abierto diseña
 
 Crear melodías con partituras en LMMS es una excelente forma de traducir ideas musicales al entorno digital, permitiendo una representación precisa de las notas y ritmos. Este método combina la familiaridad del pentagrama con las ventajas de la producción digital, como la capacidad de ajustar fácilmente el tempo, agregar efectos y modificar la instrumentación. A continuación, exploraremos los conceptos básicos para empezar a crear melodías usando partituras en LMMS, desde la configuración inicial hasta la inserción de notas y edición avanzada.
 
-<div class="currentTheme">
-
 ## 3BS07: Añado acompañamiento a mi melodia
 
 > <i class="bi bi-calendar"></i> **Fecha:** 30 de Setiembre al 04 de Octubre<br><i class="bi bi-laptop"></i> **Programa:** LMMS<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br> <i class="bi bi-card-checklist"></i> **Guía:** En la carpeta recursos<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=Pl7ve0CnicA <br><i class="bi bi-files"></i> **Recursos:** https://drive.google.com/drive/folders/1fLZleIbpRRpYFXfkKEfqo0nErd5gU_cZ?usp=sharing
