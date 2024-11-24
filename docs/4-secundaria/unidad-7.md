@@ -39,7 +39,6 @@ Los pinceles digitales son una herramienta fundamental en el diseño gráfico, l
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** Photopea
 
-
 ### Indicaciones
 
 Crea un paisaje usando pinceles, imprime tu trabajo y preséntalo en clase.

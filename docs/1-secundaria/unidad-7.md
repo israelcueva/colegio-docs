@@ -42,7 +42,7 @@ Microsoft Excel es una herramienta poderosa para analizar y presentar datos de m
 
 <div class="currentTheme">
 
-## 4BS06: Práctica Calificada & Revisión de Folder
+## 4BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
 
