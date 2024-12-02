@@ -178,8 +178,6 @@ Por ejemplo, puedes crear un diseño donde el contenido se distribuya uniformeme
 
 La barra de navegación (o navbar) de Bootstrap es un componente versátil y personalizable que facilita la creación de menús de navegación modernos, funcionales y responsivos. Es una herramienta esencial en el diseño web, ya que permite a los usuarios navegar entre las diferentes secciones de un sitio de manera intuitiva, adaptándose automáticamente a dispositivos de cualquier tamaño
 
-<div class="currentTheme">
-
 ## 4BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** Editor de código
@@ -191,4 +189,3 @@ Sigue el siguiente video y crea tu propio navbar: https://www.youtube.com/watch?
 
 Guardar en USB, replit, codepen, etc. Y presentar en hora de clase.
 
-</div>

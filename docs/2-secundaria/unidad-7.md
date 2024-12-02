@@ -1,4 +1,4 @@
-# 2-Secundaria - Unidad 6
+# 2-Secundaria - Unidad 7
 
 ## 4BS01: Usando LMMS studio
 
@@ -47,9 +47,6 @@ La creación de melodías es uno de los aspectos más emocionantes y expresivos 
 
 Crear melodías implica combinar ritmo, tono y estructura en un flujo sonoro que sea memorable y armonioso. Aunque a primera vista pueda parecer un proceso puramente técnico, la creación melódica también es un acto profundamente creativo y personal. No existen reglas estrictas, pero sí principios y herramientas que pueden ayudarte a desarrollar ideas melódicas más eficaces.
 
-
-<div class="currentTheme">
-
 ## 4BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** LMMS Studio
@@ -62,4 +59,3 @@ Usando la técnica vista en clase, crea tu propia melodía.
 
 Presentar por: https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Eql1cpi7loFOm59mHKZho20BPLixLyDth7oanW5P4G0nDg
 
-</div>

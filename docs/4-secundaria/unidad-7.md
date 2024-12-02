@@ -33,8 +33,6 @@ Por ejemplo, si tienes una capa de texto como base y una imagen encima, la másc
 
 Los pinceles digitales son una herramienta fundamental en el diseño gráfico, la ilustración y la edición de imágenes. Simulan trazos de pincel tradicionales, pero con la ventaja de ser infinitamente personalizables y adaptables a diferentes estilos y técnicas. Desde crear líneas simples hasta texturas complejas, los pinceles permiten a los artistas y diseñadores plasmar su creatividad con precisión y flexibilidad.
 
-<div class="currentTheme">
-
 ## 4BS05: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** Photopea
@@ -42,6 +40,4 @@ Los pinceles digitales son una herramienta fundamental en el diseño gráfico, l
 ### Indicaciones
 
 Crea un paisaje usando pinceles, imprime tu trabajo y preséntalo en clase.
-
-</div>
 

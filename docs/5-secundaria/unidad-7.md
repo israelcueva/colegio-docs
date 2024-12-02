@@ -50,8 +50,6 @@ Por otro lado, tener una visión del futuro personal está estrechamente ligado 
 
 El autoconocimiento y la planificación del futuro están interrelacionados y forman la base para una vida con sentido. Ambos elementos son fundamentales para crecer, superar adversidades y avanzar hacia una versión más auténtica y realizada de nosotros mismos.
 
-<div class="currentTheme">
-
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** VSDC Editor
 
 ### Indicaciones
@@ -59,5 +57,3 @@ El autoconocimiento y la planificación del futuro están interrelacionados y fo
 Crea un video acerca de tu vida y tus planes a futuro en VSDC Editor. Exportalo a video (mp4) y presentalo a tráves del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Es1JSW3cVT1Fk6PlEH5Z294BiebXBaTdjAqacS-aFSgFLw
-
-</div>

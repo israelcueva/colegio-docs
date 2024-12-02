@@ -20,8 +20,8 @@
 
 - 4 Bimestre
 
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 7](3-secundaria/unidad-7.md)
-  - [Unidad 8](3-secundaria/unidad-8.md)
+  - [Unidad 7](3-secundaria/unidad-7.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 8](3-secundaria/unidad-8.md)
 
 - [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
 

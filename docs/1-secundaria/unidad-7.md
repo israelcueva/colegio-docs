@@ -40,7 +40,6 @@ Un CRM (Customer Relationship Management) es una herramienta esencial para gesti
 
 Microsoft Excel es una herramienta poderosa para analizar y presentar datos de manera visual a través de gráficos. Los gráficos en Excel permiten transformar conjuntos de datos en representaciones visuales, haciendo más fácil la comprensión de patrones, tendencias y comparaciones clave. Desde gráficos de barras y líneas hasta diagramas circulares y gráficos dinámicos, Excel ofrece una variedad de opciones para crear visualizaciones efectivas que mejoran la presentación de datos en informes, presentaciones y análisis.
 
-<div class="currentTheme">
 
 ## 4BS05: Práctica Calificada & Revisión de Folder
 
@@ -51,7 +50,3 @@ Video: https://youtu.be/CBWIkRZRYtE
 ### Indicaciones
 
 Usa el archivo base de la semana 4 y completa lo requerido. Presentar en USB, mandarlo por correo o imprimirlo y adjuntar en folder.
-
-</div>
-
-
