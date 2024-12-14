@@ -22,7 +22,7 @@ La herramienta Pluma en Photoshop es una de las más versátiles y precisas para
 
 <div class="currentTheme">
 
-## 4BS05: Práctica Calificada & Revisión de Folder
+## 4BS09: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha Límite:** Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Photopea
 

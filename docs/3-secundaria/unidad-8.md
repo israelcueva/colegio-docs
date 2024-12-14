@@ -24,17 +24,17 @@ El uso de los íconos de Bootstrap es una forma eficiente y moderna de incorpora
 
 <div class="currentTheme">
 
-## 4BS05: Práctica Calificada & Revisión de Folder
+## 4BS09: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha:** Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Editor de código
 
 ### Indicaciones
 
-1. Descarga el archivo index.html de la semana 8.
-2. Completa lo requerido.
+1. Descarga el archivo `index.html` de la semana 8 en el enlace de recursos.
+2. Completa lo requerido en dicho documento.
 3. Añade tus datos donde corresponda.
 4. Para tener nota extra. Añade estilos de boostrap para que el proyecto se vea mejor.
-5. Envia ese archivo index.html a tarvés del enlace siguiente:
+5. Envia ese archivo `index.html` a través del enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EkLUj-bXHkZKtnWH2enL7FsBSSVVxddy678eErGN4exuKQ
 

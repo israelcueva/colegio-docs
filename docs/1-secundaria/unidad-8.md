@@ -31,8 +31,8 @@ La grabación de macros es una herramienta poderosa que permite automatizar tare
 ### Indicaciones
 
 1- Descarga el archivo de la semana 8.
-2- Añade las macros para que Limpiar y Registrar funcionen correctamente.
-3- Guarda el archivo en formato XLSM.
+2- Añade las macros para que `Limpiar` y `Registrar` funcionen correctamente.
+3- Guarda el archivo en formato **XLSM**.
 4- Envía el documento por el enlace siguiente:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EgYsuk1RoLhLuGCTGuDf_ngBmUCNJCI0WK5t6B8DdrRxgg
