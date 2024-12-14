@@ -50,6 +50,8 @@ Por otro lado, tener una visión del futuro personal está estrechamente ligado 
 
 El autoconocimiento y la planificación del futuro están interrelacionados y forman la base para una vida con sentido. Ambos elementos son fundamentales para crecer, superar adversidades y avanzar hacia una versión más auténtica y realizada de nosotros mismos.
 
+## 4BS05: Práctica Calificada & Revisión de Folder
+
 > <i class="bi bi-calendar"></i> **Fecha:** Hora de clase correspondiente a la semana 6<br><i class="bi bi-laptop"></i> **Programa:** VSDC Editor
 
 ### Indicaciones
