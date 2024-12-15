@@ -24,7 +24,7 @@ La grabación de macros es una herramienta poderosa que permite automatizar tare
 
 <div class="currentTheme">
 
-## 4BS09: Macros
+## 4BS09: Práctica Calificada & Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha Límite:**  Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
 
