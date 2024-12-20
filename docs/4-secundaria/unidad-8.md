@@ -24,7 +24,7 @@ La herramienta Pluma en Photoshop es una de las más versátiles y precisas para
 
 ## 4BS09: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha Límite:** Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Photopea
+> <i class="bi bi-calendar"></i> **Fecha Límite:** <code>Sábado 21 de Diciembre: 12:00 horas</code><br><i class="bi bi-laptop"></i> **Programa:** Photopea
 
 ### Indicaciones
 
@@ -36,6 +36,6 @@ La herramienta Pluma en Photoshop es una de las más versátiles y precisas para
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Et4e20lyqSlPk-sN4pA0c_wBoV76IxcuwtyuKXWxCD0OtA
 
-Si no tienes computadora, puedes presentar una versión de arceus con motivos peruanos y usando una alpaca como referencia.
+Si no tienes computadora, puedes presentar en dibujo una versión de arceus con motivos peruanos y usando una alpaca como referencia.
 
 </div>

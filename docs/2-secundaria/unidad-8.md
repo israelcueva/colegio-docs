@@ -22,7 +22,7 @@ LMMS (Linux MultiMedia Studio) es una estación de trabajo de audio digital grat
 
 ## 4BS09: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha Límite:** Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** LMMS Studio
+> <i class="bi bi-calendar"></i> **Fecha Límite:** <code>Sábado 21 de Diciembre: 12:00 horas</code><br><i class="bi bi-laptop"></i> **Programa:** LMMS Studio
 
 https://www.youtube.com/watch?v=TNGiSHZLylc
 MIN: 0:00 - 1:05 (Estilo de balada)

@@ -26,7 +26,7 @@ La grabación de macros es una herramienta poderosa que permite automatizar tare
 
 ## 4BS09: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha Límite:**  Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
+> <i class="bi bi-calendar"></i> **Fecha Límite:**  <code>Sábado 21 de Diciembre: 12:00 horas</code><br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
 
 ### Indicaciones
 
@@ -35,7 +35,11 @@ La grabación de macros es una herramienta poderosa que permite automatizar tare
 3- Guarda el archivo en formato **XLSM**.
 4- Envía el documento por el enlace siguiente:
 
+!> Si un mismo archivo se presenta por dos alumnos, ambos quedaran invalidados.
+
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EgYsuk1RoLhLuGCTGuDf_ngBmUCNJCI0WK5t6B8DdrRxgg
+
+
 
 </div>
 

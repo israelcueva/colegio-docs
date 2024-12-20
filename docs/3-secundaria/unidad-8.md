@@ -26,7 +26,7 @@ El uso de los íconos de Bootstrap es una forma eficiente y moderna de incorpora
 
 ## 4BS09: Práctica Calificada & Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha:** Domingo 22 de Diciembre<br><i class="bi bi-laptop"></i> **Programa:** Editor de código
+> <i class="bi bi-calendar"></i> **Fecha:** <code>Sábado 21 de Diciembre: 12:00 horas</code><br><i class="bi bi-laptop"></i> **Programa:** Editor de código
 
 ### Indicaciones
 
