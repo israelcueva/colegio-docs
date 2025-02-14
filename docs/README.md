@@ -1,6 +1,6 @@
 # Página principal - Bienvenida
 
-¡Bienvenidos estudiantes al curso de Computación del año 2024!
+¡Bienvenidos estudiantes al curso de Computación del año 2025!
 
 Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.
 
@@ -10,8 +10,8 @@ No se olviden que deben esforzarse para poder aprovechar todos los conocimientos
 
 El curso consta de las siguientes categorias para las notas.
 
-- **Prácticas:** El desarrollo de las clases será evaluada de manera independiente.
-- **Conducta:** Se evaluará el desempeño conductual del estudiante durante las horas de clase.
+- **Prácticas:** Será la nota de tu desenvolvimiento en clase, es decir, lo que hagas en clase: Completar práctica, ayudar a tus compañeros, vestirte bien y no tener problemas conductuales.
+- **Conducta:** Si no incurres en una falta grave tu nota de conducta no bajaría en lo absoluto. :blush:
 - **Tareas:** Se evaluará el aprendizaje del estudiante con proyectos individuales que tendrá que realizar en casa.
 - **Folder:** El folder se usará para archivar *las tareas* impresas. Cada semana habrá una tarea y su presentación será en la última semana de cada unidad (Semanas 5 y 9/10).
 - **Práctica Calificada:** Una práctica que exigirá que el alumno aplique lo aprendido en clase.
