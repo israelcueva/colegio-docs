@@ -24,12 +24,12 @@ La estructura del curso se rige a la calendarización general.
 
 |   **Bimestre**   |   **Inicio**  |     **Fin**     |        **Vacaciones**        |
 |:----------------:|:-------------:|:---------------:|:----------------------------:|
-| Primer Bimestre  | 04 de Marzo   | 10 de Mayo      | 13 al 17 de Mayo             |
-| Segundo Bimestre | 20 de Mayo    | 26 de Julio     | 29 de Julio al 09 de Agosto  |
-| Tercer Bimestre  | 12 de Agosto  | 11 de Octubre   | 14 al 18 de Octubre          |
+| Primer Bimestre  | 04 de Marzo   | 10 de Mayo      | 12 al 13 de Mayo             |
+| Segundo Bimestre | 20 de Mayo    | 26 de Julio     | 28 de Julio al 08 de Agosto  |
+| Tercer Bimestre  | 12 de Agosto  | 11 de Octubre   | 13 al 17 de Octubre          |
 | Cuarto Bimestre  | 21 de Octubre | 20 de Diciembre |                              |
 
-Si quieres ver más detallada la calendarización, puedes hacerlo desde este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vQUeMofKJXcNg6xZV_PYlnyIEoM9xmn0y4KA5dlgMDrk3quW5HIBV26MGMRSKOuoISH7YDHgulLgEqu/pubhtml?gid=0&single=true)
+Si quieres ver más detallada la calendarización, puedes hacerlo desde este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vTGHt9w65XS_bugyWABRH54FoZMNOJ0Acvhoe3nmQOcqzb4AfY7tkj5B5AaAhKZEr3Ewg0GDPv6UvFr/pubhtml?gid=0&single=true)
 
 
 ## 3. Folder de Computación
