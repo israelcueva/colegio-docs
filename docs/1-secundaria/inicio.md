@@ -2,7 +2,6 @@
 
 Esta sección corresponde al primer grado de educación secundaria. Los recursos y programas usados se detallan a continuación:
 
-
 ## Programas a usar
 
 El alumno deberá tener instalado en sus computadoras los programas siguientes para el desarrollo de las tareas en casa. La lista corresponde a los programas que se usarán en todo el año.

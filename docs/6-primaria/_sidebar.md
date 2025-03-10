@@ -2,15 +2,18 @@
 
   - [Inicio](6-primaria/inicio)
 
+
+
 - 1 Bimestre
 
-  - [Unidad 1](6-primaria/unidad-1.md)
-  - [Unidad 2](6-primaria/unidad-2.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 1](6-primaria/unidad-1.md)
+
+<!--
 
 - 2 Bimestre 
 
   - [Unidad 3](6-primaria/unidad-3.md)
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 4](6-primaria/unidad-4.md)
+  - [ Unidad 4](6-primaria/unidad-4.md)
 
 - 3 Bimestre
 
@@ -26,3 +29,4 @@
 - [Regresar a principal](/)
 
 
+-->

@@ -5,6 +5,9 @@
 - 1 Bimestre
 
   - [Unidad 1](2-secundaria/unidad-1.md)
+
+<!--
+
   - [Unidad 2](2-secundaria/unidad-2.md)
 
 - 2 Bimestre 
@@ -21,6 +24,8 @@
 
   - [Unidad 7](2-secundaria/unidad-7.md)
   - [<i class="bi bi-arrow-right-square"></i> Unidad 8](2-secundaria/unidad-8.md)
+
+  -->
 
 - [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
 

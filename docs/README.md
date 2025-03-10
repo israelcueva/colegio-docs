@@ -36,11 +36,9 @@ Si quieres ver más detallada la calendarización, puedes hacerlo desde este [en
 
 El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
 
-![Folder de computación](folder_general_zipped2.png)
-
 - El material puede ser cualquiera (Desde Manila hasta plastificado).
 - Se le dará bastante importancia a la limpieza.
-- El folder deberá tener en su parte delantera los nombres y apellidos completos del estudiante, además del grado y sección.
+- El folder deberá tener en su parte delantera (Sticker) los nombres y apellidos completos del estudiante, además del grado y sección.
 - La presentación será en la fecha indicada, si se presenta de manera posterior la nota bajará drasticamente.
 
 La estructura del folder completo debe ser la siguiente:
@@ -60,21 +58,17 @@ Folder
     └── Tareas semanales(S1-S9)
 ```
 
-1. **Hoja de Respeto:** Deberá estar sin manchas, ni deterioro por rasgado o doblado.
-2. **Carátula del folder:** Una hoja diseñada con los datos del estudiante, grado ,sección, año, curso, colegio y profesor. Si es hecha a mano se recompensará.
+1. **Hoja de Respeto:** Primero hoja del folder. Deberá estar sin manchas, ni deterioro por rasgado o doblado.
+2. **Carátula del folder:** Una hoja creada manualmente con los datos del estudiante, grado ,sección, año, curso, colegio y profesor.
 3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
 4. **Tareas:** Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.
 
-## 4. Trabajos hechos a mano
+## 4. No tengo computadora
 
-Tener una computadora en casa con conexión a Internet se ha vuelto imprescindible estos días, tanto para labores educativas y de aprendizaje en línea, como para el trabajo. El no tener una se convierte en una dificultad para el correcto aprendizaje del estudiante. Sin embargo, a fin de no perjudicar las notas de los que no tienen una, se les permite desarrollar las tareas a mano.
+Este año se introducirán las fichas de trabajo, las cuales el estudiante deberá elaborar en su totalidad si desea tener una nota aprobatoria, ya que demostrará su aprendizaje logrado.
 
-Los trabajos hechos a mano deberán tomar en cuenta lo siguiente:
+La ficha se compartiran de formar digital y queda a elección del estudiantes imprimirlas o en su defecdto, transcribirlas.
 
-- **Ortografía y Gramática:** Todo texto escrito deberá ser entendible y respetar las reglas de nuestro lenguaje.
-- **Uso de plumones:** No se recomienda el uso de plumones ya que manchan los trabajos, se pueden diluir por el calor, etc. Si los usas toma en cuenta esto, ya que de eso dependerá tu nota.
-- **Lapices de colores:** Los lapices de colores son perfectos para el pintado, pero debes usarlos correctamente [Video](https://www.youtube.com/watch?v=UMNwTIs8FJw). No los presiones mucho y respeta las líneas.
-- **Líneas:** Si tu pulso no es adecuado, lo mejor es que uses una regla para el trazado de líneas rectas.
 
 ## 5. Tu avance en en el curso
 
