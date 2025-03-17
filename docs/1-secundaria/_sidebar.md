@@ -1,6 +1,7 @@
 - 1º Secundaria
   
   - [<i class="bi bi-house"></i> Inicio](1-secundaria/inicio)
+  - [<i class="bi bi-book"></i> Proyecto](1-secundaria/proyecto)
 
 - 1 Bimestre
 

@@ -8,10 +8,16 @@ En la sala de computación, es importante seguir buenas prácticas para cuidar l
 
 <div class="currentTheme">
 
-## 2BS02: Elaboro el cartel de Bienvenida a clases
+## 1BS02: Elaboro el cartel de Bienvenida a clases
 
 > <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=9YbnR90fPxM<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing
 
 Microsoft Word no es solo una herramienta para redactar documentos, sino que también permite diseñar carteles llamativos y creativos con sus herramientas de formato y diseño gráfico. Aunque programas especializados como Photoshop o Illustrator ofrecen más funciones avanzadas, Word es una opción accesible y sencilla para crear carteles atractivos sin necesidad de conocimientos avanzados en diseño.
 
 </div>
+
+## 1BS03 Produzco historietas de entretenimiento
+
+> <i class="bi bi-calendar"></i> **Fecha:** 17 AL 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=_NZ2PpaSIJQ<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing
+
+Microsoft Word es una herramienta comúnmente utilizada para redactar documentos, pero también puede ser una opción accesible y efectiva para la creación de historietas. Gracias a sus herramientas de diseño, formas, cuadros de texto e inserción de imágenes, Word permite estructurar una historieta de manera sencilla, sin necesidad de programas especializados en diseño gráfico.

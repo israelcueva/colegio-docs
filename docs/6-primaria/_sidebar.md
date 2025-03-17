@@ -2,8 +2,6 @@
 
   - [Inicio](6-primaria/inicio)
 
-
-
 - 1 Bimestre
 
   - [<i class="bi bi-arrow-right-square"></i> Unidad 1](6-primaria/unidad-1.md)

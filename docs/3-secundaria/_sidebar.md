@@ -1,11 +1,14 @@
 - 3º Secundaria
 
   - [<i class="bi bi-house"></i> Inicio](3-secundaria/inicio)
-
+  - [<i class="bi bi-window-desktop"></i> Proyecto](3-secundaria/proyecto)
 
 - 1 Bimestre
 
   - [Unidad 1](3-secundaria/unidad-1.md)
+
+<!-- 
+
   - [Unidad 2](3-secundaria/unidad-2.md)
 
 - 2 Bimestre 
@@ -25,4 +28,4 @@
 
 - [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
 
-
+-->

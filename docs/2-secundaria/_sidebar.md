@@ -1,6 +1,7 @@
 - 2º Secundaria
 
   - [<i class="bi bi-house"></i> Inicio](2-secundaria/inicio)
+  - [<i class="bi bi-tiktok"></i> Proyecto](2-secundaria/proyecto)
 
 - 1 Bimestre
 
@@ -25,8 +26,9 @@
   - [Unidad 7](2-secundaria/unidad-7.md)
   - [<i class="bi bi-arrow-right-square"></i> Unidad 8](2-secundaria/unidad-8.md)
 
-  -->
 
 - [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
+
+  -->
 
 

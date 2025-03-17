@@ -9,14 +9,6 @@ El alumno deberá tener instalado en sus computadoras los programas siguientes p
 - **Office**: A partir de la versión 2015 en adelante.
 - **Ilustrator**: Se puede usar directamente desde el navegador, creándose una cuenta en el sitio de [Scratch](https://scratch.mit.edu/). También se puede descargar desde el mismo sitio para su uso Offline.
 
-## Folder de Computación
+## 2. Anuncios
 
-La tareas se revisarán semanalmente y el folder en conjunto la semana 5 y la última semana de cada Bimestre. [Ver calendarización](https://israelcueva.github.io/colegio-docs/#/?id=_2-calendarizaci%c3%b3n).
-
-Recuerda revisar las [pautas generales](https://israelcueva.github.io/colegio-docs/#/?id=_3-folder-de-computaci%c3%b3n) para la preparación del folder.
-
-A continuación se te dá como ejemplo algunos folder de tus compañeros.
-
-- [Folder de Juanita](https://www.canva.com/design/DAFlMxa-QKM/mrWsdB-Z9YwpDXUPI9IXng/view?utm_content=DAFlMxa-QKM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-</div>
+!> Se agrego información sobre el proyecto anual del curso <br> <i>15 de Octubre 2025</i>
