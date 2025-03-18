@@ -1,40 +1,277 @@
-# 4-Secundaria - Unidad 1
+# 3-Secundaria - Unidad 1
 
-## 1BS01: Uso Inteligencia Artificial para investigar y obtener fuentes para mi tesis
+## 1BS01: Creo mis propios algoritmos usando variables en Javascript
 
-> <i class="bi bi-calendar"></i> **Fecha:** 04 al 08 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Navegador con Internet <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea un resumen sobre Perplexity <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=AD9C2V9bjc0
+> <i class="bi bi-calendar"></i> **Fecha:** 03 al 07 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Busca e imprime un cheatsheet de Javascript <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
 
-Perplexity AI es un buscador conversacional, es decir, un motor de respuestas que proporciona respuestas precisas a preguntas más o menos complejas valiéndose de modelos de lenguaje extensos. Así, su precisión está limitada por las capacidades de la inteligencia artificial y los resultados de las búsquedas.
+En **JavaScript**, las variables son contenedores que almacenan datos. Son fundamentales en la programación, ya que nos permiten guardar valores, manipular información y hacer que nuestro código sea dinámico.  
 
-Como avisan sus creadores, como resultado puede generar contenido ofensivo o peligroso. Además, recomiendan no proporcionar información personal, habida cuenta que como otros algoritmos AI, se entrena con el uso. Es decir, con tus preguntas, sus respuestas, feedback y análisis por parte del equipo de desarrollo.
+### 📌 ¿Qué es una variable?
+Una variable es un espacio en memoria que almacena un valor que puede cambiar durante la ejecución del programa. En JavaScript, podemos declarar variables usando tres palabras clave principales:  
 
-## 1BS02: Creando la estructura de mi tesis
+- **`var`** (obsoleta en la mayoría de los casos).  
+- **`let`** (recomendada para valores que pueden cambiar).  
+- **`const`** (para valores que no deben cambiar).  
 
-> <i class="bi bi-calendar"></i> **Fecha:** 11 al 15 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Elabora la estructura de tu tesis <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=2kYa4Mil1Qs
+### 🔹 Declaración de variables  
 
-La elaboración de una tesis es uno de los hitos más significativos en el viaje académico de cualquier estudiante universitario. Este proceso no solo representa la culminación de años de estudio y dedicación, sino también la oportunidad de sumergirse en un tema específico y contribuir al cuerpo de conocimiento en un campo particular. A lo largo de este emocionante viaje, los estudiantes se embarcan en una exploración profunda, utilizando habilidades de investigación, análisis crítico y síntesis para abordar una pregunta o problema central.
+En JavaScript, podemos declarar una variable de la siguiente manera:  
 
-## 1BS03: Usando los estilos APA en la tesis
+```javascript
+let nombre = "Juan"; // Variable que puede cambiar
+const PI = 3.1416;   // Constante, su valor no puede cambiar
+var edad = 25;       // Forma antigua de declarar variables (no recomendada)
+```
+## 1BS02: Uso funciones y estructuras de control para un juego simple
 
-> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una lista de todas las reglas APA<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=z9B_GlFinG0 <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
+> <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
 
-Los Estilos de la American Psychological Association (APA) son un conjunto de normas y directrices diseñadas para estandarizar la presentación de trabajos académicos y científicos en el ámbito de las ciencias sociales y del comportamiento. Estas pautas son ampliamente utilizadas en disciplinas como psicología, educación, sociología, ciencias políticas y otras áreas relacionadas. El objetivo principal de los Estilos APA es promover la claridad y la precisión en la comunicación académica, asegurando la consistencia en la presentación de citas, referencias bibliográficas, tablas, figuras y otros elementos de los documentos escritos.
+### Funciones en Javascript
 
-El formato APA establece reglas específicas para la estructura y el formato del trabajo, incluyendo aspectos como la organización del contenido, la presentación de citas y referencias, el estilo de escritura y la presentación de tablas y figuras. Además, proporciona pautas detalladas para la citación de fuentes, lo que permite a los lectores identificar fácilmente las fuentes utilizadas y consultarlas si lo desean. Esto es crucial para garantizar la integridad académica y evitar el plagio.
+Las funciones son bloques de código reutilizables que ejecutan una tarea específica. Permiten mejorar la legibilidad del código, evitar la repetición y hacer que sea más modular.  
 
-## 1BS04: Añadiendo citas, Bibliografía y paginación a mi tesis
+#### ✨ Declaración de Funciones  
 
-> <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word<br><i class="bi bi-clipboard-check"></i> **Tarea:** Haz una lista de 10 citas / Libros sobre las ideologías de Izquierda y derecha<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=m09MGyFfvTU / https://www.youtube.com/watch?v=HZzIcjXoHjM <br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/80rzl9ho5dr1oz95f6gca85md4n3snwa
+Existen varias formas de definir funciones en JavaScript:  
 
-El estilo APA tiene reglas específicas para la forma de escribir las citas, referencias y bibliografía. Estas reglas se pueden encontrar en el Manual de Publicación de la American Psychological Association (Publication Manual of the American Psychological Association).
+##### 1️⃣ Función Tradicional  
 
+```javascript
+function saludar(nombre) {
+    return `Hola, ${nombre}!`;
+}
+console.log(saludar("Juan")); // Salida: Hola, Juan!
+```
 
-## 1BS05: Práctica Calificada & Revisión de Folder
+##### 2️⃣ Función Anónima
 
-> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word
+```javascript
+const despedir = function(nombre) {
+    return `Adiós, ${nombre}!`;
+};
+console.log(despedir("María")); // Salida: Adiós, María!
+```
+##### 3️⃣ Función de Flecha (Arrow Function)
 
-Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
+```javascript
+const sumar = (a, b) => a + b;
+console.log(sumar(3, 7)); // Salida: 10
+```
 
-- Haz un texto científico sobre la importancia o no de la religión en la vida de las personas, puedes usar este [artículo](https://dialnet.unirioja.es/descarga/articulo/7304362.pdf) de guía. Guarda el proyecto en formato **DOCX**. Presenta el proyecto en USB el día de clases en la semana 6 o envíalo por correo a <code>israel@israelcueva.com</code> colocando tus datos completos, hasta un día antes del día de clases.
+##### 4️⃣ Función con Valores por Defecto
 
-> No habrá extensión de fecha para la práctica.
+```javascript
+function presentar(nombre = "Invitado") {
+    return `Bienvenido, ${nombre}!`;
+}
+console.log(presentar()); // Salida: Bienvenido, Invitado!
+```
+
+### Estructuras de control
+
+Las estructuras de control permiten ejecutar diferentes bloques de código dependiendo de condiciones específicas o repetir acciones varias veces.
+
+#### 🏷️ Condicionales
+
+##### 🔸 if, else if, else
+
+```javascript
+let edad = 18;
+
+if (edad < 18) {
+    console.log("Eres menor de edad.");
+} else if (edad === 18) {
+    console.log("Tienes exactamente 18 años.");
+} else {
+    console.log("Eres mayor de edad.");
+}
+```
+
+##### 🔸 Operador Ternario
+
+```javascript
+let mensaje = edad >= 18 ? "Mayor de edad" : "Menor de edad";
+console.log(mensaje);
+```
+
+##### 🔸 switch (Alternativa a múltiples if-else)
+
+```javascript
+let dia = "lunes";
+
+switch (dia) {
+    case "lunes":
+        console.log("Inicio de la semana.");
+        break;
+    case "viernes":
+        console.log("Casi fin de semana.");
+        break;
+    default:
+        console.log("Es un día cualquiera.");
+}
+```
+### 🔁 Bucles
+
+Los bucles permiten ejecutar un bloque de código varias veces de manera eficiente.
+
+##### 🔸 Bucle for (Iteración controlada)
+
+```javascript
+for (let i = 0; i < 5; i++) {
+    console.log(`Iteración ${i}`);
+}
+```
+
+##### 🔸 Bucle while (Se ejecuta mientras la condición sea true)
+
+```javascript
+let contador = 0;
+while (contador < 5) {
+    console.log(`Contador: ${contador}`);
+    contador++;
+}
+```
+
+##### 🔸 Bucle do-while (Se ejecuta al menos una vez)
+
+```javascript
+let num = 0;
+do {
+    console.log(`Número: ${num}`);
+    num++;
+} while (num < 3);
+```
+
+<div class="currentTheme">
+
+## 1BS03: Hago uso de eventos para manejar el DOM
+
+> <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
+
+JavaScript es un lenguaje que permite interactuar con las páginas web de manera dinámica a través del **DOM (Document Object Model)** y el uso de **eventos**. Gracias a estas características, podemos modificar elementos, responder a interacciones del usuario y crear experiencias web interactivas.  
+
+### 🔹 ¿Qué es el DOM?  
+
+El **DOM (Modelo de Objetos del Documento)** es una representación estructurada de una página web. Cada elemento HTML se convierte en un nodo dentro de este modelo, permitiendo que JavaScript acceda y modifique su contenido, estructura y estilos.  
+
+#### 📄 Ejemplo de Estructura del DOM  
+
+Si tenemos este código HTML:  
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Ejemplo DOM</title>
+</head>
+<body>
+    <h1 id="titulo">¡Hola, mundo!</h1>
+    <button id="boton">Haz clic</button>
+</body>
+</html>
+```
+
+Podemos acceder y modificar estos elementos con JavaScript:
+
+```javascript
+let titulo = document.getElementById("titulo");
+titulo.textContent = "¡Bienvenido a JavaScript!";
+```
+
+#### 🔹 Selección de Elementos en el DOM
+
+Para manipular el DOM, primero debemos seleccionar los elementos. Hay varias formas de hacerlo en JavaScript:
+
+##### 🔸 getElementById() (Por ID)
+
+```javascript
+let elemento = document.getElementById("titulo");
+console.log(elemento.textContent);
+```
+
+##### 🔸 getElementsByClassName() (Por clase)
+
+```javascript
+let elementos = document.getElementsByClassName("clase-ejemplo");
+console.log(elementos[0]);
+```
+##### 🔸 getElementsByTagName() (Por etiqueta)
+
+```javascript
+let parrafos = document.getElementsByTagName("p");
+console.log(parrafos.length);
+```
+
+##### 🔸 querySelector() (Primer elemento que coincide con un selector CSS)
+
+```javascript
+let boton = document.querySelector("#boton");
+console.log(boton);
+```
+
+##### 🔸 querySelectorAll() (Todos los elementos que coinciden con un selector CSS)
+
+```javascript
+let items = document.querySelectorAll(".lista-item");
+console.log(items);
+```
+---
+
+### 🔹 Eventos en JavaScript
+
+Los eventos permiten detectar e interactuar con acciones del usuario, como clics, movimientos del mouse y pulsaciones del teclado.
+
+#### 📌 Manejo de Eventos
+
+##### 🔸 1. Usando el atributo HTML onclick (No recomendado)
+
+```javascript
+<button onclick="alert('¡Hola!')">Haz clic</button>
+```
+
+##### 🔸 2. Usando addEventListener() (Recomendado)
+
+```javascript
+let boton = document.getElementById("boton");
+boton.addEventListener("click", function() {
+    alert("¡Botón clickeado!");
+});
+```
+
+##### 🔸 3. Usando una función externa
+
+```javascript
+function mostrarMensaje() {
+    alert("¡Evento activado!");
+}
+boton.addEventListener("click", mostrarMensaje);
+```
+
+#### 🔹 Tipos de Eventos en JavaScript
+
+Algunos de los eventos más utilizados en JavaScript son:
+
+| **Evento**   | **Descripción** |
+|-------------|---------------|
+| `click`     | Se activa cuando el usuario hace clic en un elemento. |
+| `mouseover` | Se activa cuando el mouse pasa sobre un elemento. |
+| `mouseout`  | Se activa cuando el mouse sale de un elemento. |
+| `keydown`   | Se activa cuando se presiona una tecla. |
+| `keyup`     | Se activa cuando se suelta una tecla. |
+| `load`      | Se activa cuando la página ha terminado de cargar. |
+| `submit`    | Se activa cuando un formulario es enviado. |
+
+##### Ejemplo: Cambiar el color de un elemento al pasar el mouse
+
+```javascript
+let titulo = document.getElementById("titulo");
+
+titulo.addEventListener("mouseover", function() {
+    titulo.style.color = "red";
+});
+titulo.addEventListener("mouseout", function() {
+    titulo.style.color = "black";
+});
+```
+
+</div>

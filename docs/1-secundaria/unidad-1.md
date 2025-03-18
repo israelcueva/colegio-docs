@@ -19,18 +19,18 @@ Este es tu decálogo para el uso de la computadoras. Infringir una puede resulta
 - Usaré las computadoras de la escuela únicamente para actividades relacionadas con el estudio y la investigación académica.
 - No haré uso indebido de las redes sociales mientras utilizo las computadoras de la escuela, como enviar mensajes de acoso o difamación a otros estudiantes o publicar contenido inapropiado.
 
-<div class="currentTheme">
-
 ## 1BS02: Elaboro un menú de restaurante en Word
 
 > <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=g5J8Rh7eYSU<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
 
 Microsoft Word es una herramienta accesible y fácil de usar para diseñar menús de restaurante atractivos y profesionales. Aunque existen programas de diseño más avanzados, Word ofrece suficientes opciones de formato, plantillas y herramientas gráficas para crear un menú bien estructurado sin necesidad de conocimientos especializados en diseño.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS03: Uso la técnica del lettering para crear un letrero
 
 > <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crear un letrero de un texto bíblico <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=m8EMnabA2yg / https://www.youtube.com/watch?v=2IjWmhNXvbU<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
 
 El lettering es el arte de dibujar letras de forma creativa, convirtiendo palabras en elementos visuales llamativos. Aunque tradicionalmente se realiza a mano, también es posible aplicarlo digitalmente en herramientas como Microsoft Word, aprovechando sus opciones de fuentes, WordArt y efectos de texto para diseñar carteles atractivos y personalizados.
+
+</div>

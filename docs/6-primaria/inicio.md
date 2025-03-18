@@ -8,7 +8,7 @@ El alumno deberá tener instalado en sus computadoras los programas siguientes p
 
 - **Microsoft Office**: A partir de la versión 2015 en adelante.
 - **VSDC Video editor**: Es un programa gratuito y lo puedes descargar desde [aquí](https://www.videosoftdev.com/).
-- **Photopea**: Es una alternativa gratuira a Photoshop y puedes usarlo desde el navegador: [Photopea](https://photopea.com/).
+- **Photopea**: Es una alternativa gratuita a Photoshop y puedes usarlo desde el navegador: [Photopea](https://photopea.com/).
 - **Scratch**: Es un motor para la creación de videojuegos gratuito y puedes usarlo desde: [Scratch](https://scratch.mit.edu/).
 
 ## 2. Anuncios

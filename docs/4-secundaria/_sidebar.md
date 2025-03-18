@@ -1,10 +1,13 @@
 - 4º Secundaria
 
   - [<i class="bi bi-house"></i> Inicio](4-secundaria/inicio)
+  - [<i class="bi bi-controller"></i> Proyecto](4-secundaria/proyecto)
 
 - 1 Bimestre
 
   - [Unidad 1](4-secundaria/unidad-1.md)
+
+<!-- 
   - [Unidad 2](4-secundaria/unidad-2.md)
 
 - 2 Bimestre 
@@ -24,3 +27,4 @@
 
 - [<i class="bi bi-caret-left-square"></i> Regresar a principal](/)
 
+-->

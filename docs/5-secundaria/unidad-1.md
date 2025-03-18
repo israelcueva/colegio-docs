@@ -1,57 +1,135 @@
 # 5-Secundaria - Unidad 1
 
-## 1BS01: Uso Excel para estructurar los datos de mi proyecto
+## 1BS01: Agrego encabezados y pies de página a mi libro
 
-> <i class="bi bi-calendar"></i> **Fecha:** 04 al 08 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea una base de datos de un examen de admisión <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=IZJ9_cD3NWc
+> <i class="bi bi-calendar"></i> **Fecha:** 03 al 07 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=mhL8lfTxfY4<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
 
-Excel, una herramienta omnipresente en entornos empresariales y académicos, no solo es una poderosa hoja de cálculo, sino que también puede funcionar eficazmente como una base de datos, especialmente para proyectos de pequeña y mediana escala. Aunque no está diseñado específicamente para ser una base de datos relacional completa como Access o MySQL, Excel ofrece una interfaz intuitiva y familiar que muchos usuarios ya conocen, lo que lo convierte en una opción accesible y práctica para organizar y gestionar conjuntos de datos.
+Los **encabezados** y **pies de página** en Microsoft Word son herramientas esenciales para mejorar la presentación y organización de los documentos. Permiten agregar información que se repite en cada página, como títulos, números de página, nombres de autor y logotipos.  
 
-## 1BS02: Aplico tablas en Excel para que usar referencias
+---
 
-> <i class="bi bi-calendar"></i> **Fecha:** 11 al 15 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Configura las tablas para tu aplicación <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=lfUj2Ttmja8
+### 🔹 ¿Qué es un Encabezado?  
 
-En el ámbito de la gestión de datos y la organización de información, las tablas son una herramienta fundamental que facilita la visualización y el acceso a los datos de manera estructurada y eficiente. Ya sea en entornos empresariales, académicos o personales, las tablas ofrecen una forma sistemática de organizar información en filas y columnas, lo que permite una fácil referencia y manipulación de datos.
+El **encabezado** es la sección superior de cada página de un documento. Se utiliza comúnmente para incluir:  
+✅ Títulos de documentos o secciones.  
+✅ Nombres de autores o empresas.  
+✅ Fechas o versiones del documento.  
+✅ Logos o imágenes institucionales.  
 
-## 1BS03: Empleo las tablas dinámicas para generar reportes
+### 📌 Cómo Agregar un Encabezado en Word  
+1. Ir a la pestaña **"Insertar"**.  
+2. Hacer clic en **"Encabezado"**.  
+3. Seleccionar un diseño predefinido o hacer uno personalizado.  
+4. Escribir el contenido del encabezado.  
+5. Hacer doble clic fuera del encabezado para volver al documento.  
 
-> <i class="bi bi-calendar"></i> **Fecha:** 18 al 22 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=C4_kHhpY5jE / https://www.youtube.com/watch?v=rpSAvYQfNeo<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
+---
+
+### 🔹 ¿Qué es un Pie de Página?  
+
+El **pie de página** es la sección inferior de cada página del documento. Se usa frecuentemente para:  
+✅ Números de página.  
+✅ Información de copyright.  
+✅ Notas o referencias adicionales.  
+✅ Datos de contacto o direcciones.  
+
+#### 📌 Cómo Agregar un Pie de Página en Word  
+1. Ir a la pestaña **"Insertar"**.  
+2. Hacer clic en **"Pie de página"**.  
+3. Seleccionar un diseño o personalizar uno nuevo.  
+4. Escribir la información necesaria.  
+5. Hacer doble clic fuera del pie de página para continuar con el documento.  
+
+---
+
+### 🔹 Personalización de Encabezados y Pies de Página  
+
+Microsoft Word permite personalizar los encabezados y pies de página con diversas opciones:  
+
+- **Diferentes encabezados y pies en páginas pares e impares**.  
+- **Encabezados y pies de sección únicos** en diferentes partes del documento.  
+- **Agregar imágenes y formatos de texto**.  
+- **Uso de campos automáticos**, como el número de página o la fecha.  
+
+#### 📌 Insertar un Número de Página  
+1. Ir a **"Insertar" > "Número de página"**.  
+2. Seleccionar la posición deseada (arriba, abajo, margen, etc.).  
+3. Personalizar el formato si es necesario.  
+
+## 1BS02: Añado estilos de fuente a mi texto
+
+> <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=j5QsRpJFhc8<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
+
+Los **estilos** en Microsoft Word son una herramienta fundamental para mejorar la apariencia y la organización de los documentos. Permiten aplicar formatos de manera rápida y uniforme, facilitando la edición y el diseño profesional.  
+
+### 🔹 ¿Qué es un Estilo en Word?  
+
+Un **estilo** es un conjunto de formatos predefinidos que incluyen:  
+✅ Tipografía (fuente, tamaño, color).  
+✅ Alineación y espaciado entre párrafos.  
+✅ Numeración y viñetas.  
+✅ Bordes y sombreados.  
+
+Los estilos ayudan a **mantener la coherencia visual** del documento y facilitan la generación de índices y tablas de contenido automáticas.  
+
+---
+
+### 🔹 Tipos de Estilos en Word  
+
+Microsoft Word ofrece varios tipos de estilos para diferentes elementos del documento:  
+
+| **Tipo de Estilo** | **Descripción** |
+|-----------------|----------------|
+| **Estilos de párrafo** | Aplican formato a todo un párrafo (ejemplo: títulos, subtítulos). |
+| **Estilos de carácter** | Modifican solo partes del texto (ejemplo: negrita, cursiva). |
+| **Estilos de tabla** | Definen el formato de las tablas (bordes, colores, alineación). |
+| **Estilos de lista** | Aplican formato a listas numeradas o con viñetas. |
+
+---
+
+### 🔹 Cómo Aplicar un Estilo en Word  
+
+1️⃣ **Seleccionar el texto o párrafo** al que se desea aplicar un estilo.  
+2️⃣ Ir a la pestaña **"Inicio"**.  
+3️⃣ En el grupo **"Estilos"**, elegir el estilo deseado.  
+4️⃣ **Hacer clic** en el estilo y se aplicará automáticamente.  
+
+---
+
+### 🔹 Creación y Modificación de Estilos Personalizados  
+
+Si los estilos predefinidos no se ajustan a tus necesidades, puedes crear y modificar estilos personalizados.  
+
+#### 📌 Cómo Crear un Estilo Nuevo  
+1. Ir a la pestaña **"Inicio"** y hacer clic en el botón de expansión del grupo **"Estilos"**.  
+2. Hacer clic en **"Nuevo estilo"**.  
+3. Configurar el nombre, tipo de estilo y formato deseado.  
+4. Guardar y aplicar el estilo en el documento.  
+
+#### 📌 Cómo Modificar un Estilo Existente  
+1. Hacer clic derecho sobre el estilo en la pestaña **"Estilos"**.  
+2. Seleccionar **"Modificar"**.  
+3. Ajustar las opciones de fuente, tamaño, color, espaciado, etc.  
+4. Guardar los cambios para aplicarlos en todo el documento.  
+
+---
+
+### 🔹 Ventajas de Usar Estilos en Word  
+
+✅ **Coherencia**: Mantiene un formato uniforme en todo el documento.  
+✅ **Eficiencia**: Permite aplicar cambios globales con un solo clic.  
+✅ **Accesibilidad**: Facilita la navegación con títulos y subtítulos estructurados.  
+✅ **Automatización**: Permite generar índices y tablas de contenido de forma rápida.
+
+<div class="currentTheme">
+
+## 1BS03: Aplico estilos de párrafo a mi libro
+
+> <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=j5QsRpJFhc8<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
+
+Los **estilos de párrafo** en Microsoft Word son una herramienta poderosa que permite aplicar formatos predefinidos a los párrafos de un documento. Con ellos, podemos mejorar la estructura, la legibilidad y la coherencia del texto sin necesidad de aplicar formato manualmente en cada sección.
+
+El programa ya viene con un por defecto que se llama **Normal** que es el que se aplica por defecto a cualquier texto que se añada, así que si deseas cambiar el texot normal modifica el estilo mencionado.
 
 
-Las tablas dinámicas son herramientas poderosas y versátiles utilizadas en el análisis y la visualización de datos en diversas áreas, desde negocios hasta investigación científica. Permiten resumir, organizar y manipular grandes conjuntos de datos de manera rápida y eficiente, facilitando la identificación de patrones, tendencias y relaciones significativas.
-
-Al contrario de las tablas estáticas convencionales, las tablas dinámicas permiten a los usuarios explorar datos de diversas maneras, permitiendo la filtración, agrupación, ordenación y resumen instantáneos de la información. Esto brinda la capacidad de obtener perspectivas profundas y detalladas sobre los datos, sin la necesidad de realizar complejas operaciones de análisis manualmente.
-
-Las tablas dinámicas se utilizan comúnmente en hojas de cálculo como Microsoft Excel, así como en herramientas de análisis de datos más avanzadas como Google Sheets y software de análisis estadístico. Su flexibilidad y facilidad de uso las convierten en una herramienta indispensable para profesionales de negocios, investigadores, analistas de datos y cualquier persona que trabaje con grandes conjuntos de datos en su día a día.
-
-### Tarea
-
-Descarga el archivo <code>laptops.csv</code> de la carpeta de recursos. Usando ese archivo haz lo siguiente:
-
-- Muestra las laptops menos pesadas de cada marca.
-- Filtra las laptops que tienen GPU Intel Iris y una resolución de 1920 x 1080.
-- Convierte el valor de dolares a soles y muestra las laptops gaming por precio más bajo.
-
-
-## 1BS04: Exporto los datos obtenidos
-
-> <i class="bi bi-calendar"></i> **Fecha:** 25 al 29 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea un archivo CSV de la tarea de la semana 3<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=yENIufK6pRg<br><i class="bi bi-files"></i> **Recursos:** https://app.box.com/s/jfmtavrh9cphyksxokegrh3p75kkuch5
-
-La versatilidad de Excel como herramienta de análisis y almacenamiento de datos la convierte en una opción popular para la gestión de información en numerosos sectores y disciplinas. Sin embargo, para aprovechar al máximo el potencial de estos datos, es crucial poder exportarlos en formatos compatibles con otros programas, bases de datos o plataformas, según las necesidades específicas de cada usuario o proyecto.
-
-## 1BS05: Práctica Calificada & Revisión de Folder
-
-> <i class="bi bi-calendar"></i> **Fecha:** Semana 5<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel
-
-Para esta semana deberás realizar tu práctica calificada que consiste en lo siguiente:
-
-- Busca y recopila datos sobre la oferta laboral y sueldos según carreras (Universitarias y técnicas).
-- Usando las tablas dinámicas elabora reportes sobre:
-    - Las 10 carreras universitarias con mayor oferta laboral y sueldos.
-    - Las 10 carreras técnicas con mayor ofertar Laboral y sueldos.
-    - Las 10 carreras con peor oferta laboral.
-    - Las 10 carreras con peores sueldos.
-- Adjuntar en una hoja de donde fueron sacados los datos y de que año son (Mientras más recientes los datos mejor será la nota)
-
-Imprime los reportes y presenta esta práctica el día de clase de Computo en la semana 6.
-
-> No habrá extensión de fecha para la práctica.
+</div>
