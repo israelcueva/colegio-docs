@@ -12,8 +12,6 @@ En la era digital, tener presencia en línea es fundamental para cualquier empre
 
 En el vasto universo de la creación web, la estructura esencialmente semántica de un documento es la columna vertebral que define su legibilidad, accesibilidad y relevancia para motores de búsqueda. HTML5, la última versión del lenguaje de marcado estándar para la creación de páginas web, introduce una amplia gama de etiquetas diseñadas específicamente para proporcionar una estructura semántica clara y significativa.
 
-<div class="currentTheme">
-
 ## 1BS03: Uso las etiquetas de texto para elaborar mi página de tutoriales
 
 > <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=A5Ew44919I4<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
@@ -30,5 +28,24 @@ Existen diferentes tipos de etiquetas de texto en HTML, como:
 - **Citas y código (`<blockquote>`, `<code>`, `<pre>`)**: Formatean el texto para citas o fragmentos de código.
 
 El uso adecuado de estas etiquetas mejora la accesibilidad, la legibilidad y el SEO (*Search Engine Optimization*) de una página web. A lo largo de este artículo, exploraremos cómo utilizar estas etiquetas para estructurar y dar formato al texto de manera efectiva en HTML. 🚀
+
+<div class="currentTheme">
+
+## 1BS04: Añado imágenes a mis tutoriales
+
+> <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=iHGfGJt0vLo<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
+
+Las imágenes son un elemento fundamental en el diseño web, ya que ayudan a mejorar la apariencia y la comprensión del contenido. En **HTML**, la etiqueta principal para insertar imágenes es `<img>`, la cual permite mostrar archivos en formatos como **JPEG, PNG, GIF y SVG** dentro de una página web.  
+
+La sintaxis básica para agregar una imagen es:  
+
+```html
+<img src="imagen.jpg" alt="Descripción de la imagen">
+```
+
+- `src`: Especifica la ruta de la imagen. Puede ser un archivo local o una URL externa.
+- `alt`: Proporciona una descripción de la imagen para accesibilidad y en caso de que la imagen no cargue.
+
+Además, con atributos como `width` y `height`, es posible ajustar el tamaño de la imagen, y con CSS, se puede mejorar su diseño y disposición en la página.
 
 </div>

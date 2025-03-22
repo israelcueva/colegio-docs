@@ -40,6 +40,58 @@
 .closebtn:hover {
   color: black;
 }
+
+ /* Estilos para el botón de WhatsApp */
+ .whatsapp-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+        
+        .whatsapp-button a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 60px;
+            height: 60px;
+            background-color: #25D366;
+            color: white;
+            border-radius: 50%;
+            text-decoration: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+        
+        .whatsapp-button a:hover {
+            background-color: #128C7E;
+            transform: scale(1.1);
+        }
+        
+        .whatsapp-button i {
+            font-size: 32px;
+        }
+        
+        /* Tooltip opcional */
+        .whatsapp-tooltip {
+            position: absolute;
+            right: 75px;
+            bottom: 15px;
+            background-color: white;
+            color: #333;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            white-space: nowrap;
+        }
+        
+        .whatsapp-button:hover .whatsapp-tooltip {
+            opacity: 1;
+        }
   </style>
 
 <script>
@@ -74,6 +126,13 @@
     Cualquier consulta adicional escribir por este <a href="https://wa.me/51926574295">número</a>
   </div>-->
   <div id="app">Cargando...</div>
+
+  <div class="whatsapp-button">
+    <a href="https://wa.me/51926574295?text=Hola%2C%20me%20gustaría%20hacer%20una%20consulta" target="_blank">
+        <i class="bi bi-whatsapp"></i>
+    </a>
+    <div class="whatsapp-tooltip">Relizar una consulta</div>
+</div>
 
 
   <script>

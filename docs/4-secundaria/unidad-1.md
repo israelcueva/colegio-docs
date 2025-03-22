@@ -1,4 +1,4 @@
-# 3-Secundaria - Unidad 1
+# 4-Secundaria - Unidad 1
 
 ## 1BS01: Creo mis propios algoritmos usando variables en Javascript
 
@@ -142,8 +142,6 @@ do {
 } while (num < 3);
 ```
 
-<div class="currentTheme">
-
 ## 1BS03: Hago uso de eventos para manejar el DOM
 
 > <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
@@ -272,6 +270,45 @@ titulo.addEventListener("mouseover", function() {
 titulo.addEventListener("mouseout", function() {
     titulo.style.color = "black";
 });
+```
+
+<div class="currentTheme">
+
+## 1BS04: Recorro arrays mediante los bucles
+
+> <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
+
+En la programación, los arrays y los bucles son herramientas fundamentales para manejar y procesar grandes cantidades de datos de manera eficiente. Un array es una estructura de datos que almacena múltiples valores en una sola variable, mientras que los bucles permiten recorrer y manipular estos valores sin necesidad de escribir código repetitivo.
+
+### Arrays
+
+Un array es una colección ordenada de elementos, donde cada uno tiene un índice que permite acceder a él. En la mayoría de los lenguajes de programación, los índices comienzan en 0. Por ejemplo, en JavaScript podemos declarar un array de la siguiente manera:
+
+```javascript
+let numeros = [10, 20, 30, 40, 50];
+console.log(numeros[0]); // Salida: 10
+```
+
+### Bucles
+
+Los bucles nos permiten recorrer los elementos de un array sin necesidad de escribir múltiples líneas de código. Algunos de los bucles más utilizados son `for` y ``while``.
+
+- **for**: Se usa cuando sabemos cuántas veces queremos repetir una acción. Ejemplo:
+
+```javascript
+for (let i = 0; i < numeros.length; i++) {
+    console.log(numeros[i]);
+}
+```
+
+- **while**: Se usa cuando la cantidad de repeticiones no está determinada de antemano. Ejemplo:
+
+```javascript
+let i = 0;
+while (i < numeros.length) {
+    console.log(numeros[i]);
+    i++;
+}
 ```
 
 </div>

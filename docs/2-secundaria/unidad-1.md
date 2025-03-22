@@ -1,4 +1,4 @@
-# 6-Primaria - Unidad 1
+# 2º Secundaria - Unidad 1
 
 ## 1BS01: Creo diapositivas contando una historia
 
@@ -14,12 +14,20 @@ El storytelling es una técnica clave para captar la atención del público y tr
 
 PowerPoint es una herramienta poderosa para crear presentaciones visualmente atractivas. Uno de los elementos clave en el diseño de diapositivas es el uso de imágenes, las cuales pueden mejorar la comprensión del contenido, captar la atención del público y hacer que la información sea más memorable.
 
-<div class="currentTheme">
-
 ## 1BS03: Añado animaciones a mi historia
 
 > <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Power Point <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=LomiAAgjZUc<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
 
 Las animaciones en PowerPoint son una herramienta poderosa para hacer presentaciones más dinámicas, atractivas y comprensibles. Bien utilizadas, pueden ayudar a captar la atención del público, enfatizar puntos clave y mejorar la narrativa visual. Sin embargo, es importante usarlas con moderación y estrategia para no distraer ni sobrecargar la presentación.
+
+<div class="currentTheme">
+
+## 1BS04: Inserto música y efectos de sonido a mi historia, y la exporto en MP4
+
+> <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Power Point <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=kDUt984wm6Q<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
+
+El uso de audio y música en PowerPoint puede mejorar significativamente la experiencia de una presentación, haciéndola más atractiva y dinámica. Los sonidos pueden utilizarse para enfatizar puntos clave, crear ambiente o acompañar una narración.
+
+Microsoft PowerPoint permite insertar y personalizar archivos de audio en diferentes formatos como MP3, WAV y WMA. Además, ofrece herramientas para ajustar el volumen, recortar fragmentos de audio, configurar la reproducción automática o en bucle, y sincronizar el sonido con la transición de diapositivas.
 
 </div>
