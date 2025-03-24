@@ -29,3 +29,39 @@ Un tríptico es un folleto dividido en tres secciones o paneles, utilizado comú
 Microsoft Word es una herramienta accesible y versátil para diseñar trípticos sin necesidad de software especializado en diseño gráfico. A través de sus funciones de columnas, tablas e imágenes, es posible estructurar el contenido de manera clara y profesional.
 
 </div>
+
+## 1BS05: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6 en hora de clase<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br>
+
+
+Crea la siguiente historieta usando Word. Imprimela y adjuntala en tu folder.
+
+### ¡Despedidos!  
+
+---
+
+### Viñetas  
+
+#### 1. Pikachu lanzando un ataque de electricidad
+- **Pikachu:** "Pikachuuuuuuuuuuuu"
+
+#### 2. En eso aparece un minion
+- **Pikachu (Confundido):** "¿Pika?" <br>
+- **Minion (igual de confundido):** "¿Banana?" 
+
+#### 3. Los dos se miran extrañados  
+- **Pikachu pone cara de Minion:** "Pika pika pi-pika!"
+- **Minion se pone las manitos como orejas de Pikachu:** "Bananachu!"  
+
+#### 4. Aparecen los insectos que ayudan en la película
+- **Hermano1:** "¡Despedidos!"
+- **Hermano2:** "¡Despedidos!"
+- **Hermano1:** "¡Despedidos!"
+- **Hermano2:** "¡Despedidos!"
+
+#### 5. La araña productora aparece en escena
+- **Productora:** "Aish, ya callense ¡Basta!"
+- **Hermanos (Ambos):** "¡Eh! Despedidos"
+
+---

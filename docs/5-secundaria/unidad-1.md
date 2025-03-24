@@ -140,3 +140,9 @@ Microsoft Word ofrece una función poderosa para generar índices automáticos u
 El uso de estilos en Word permite asignar jerarquías a los títulos y subtítulos del documento. Por ejemplo, al aplicar los estilos "Título 1", "Título 2" y "Título 3", se puede organizar el contenido en diferentes niveles. Posteriormente, Word usa esta estructura para generar automáticamente una tabla de contenido o índice.
 
 </div>
+
+## 1BS05: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** 31 de Marzo al 04 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
+
+Completa y arregla la tesis de muestra de la semana 4 con los estilos APA. Imprímelo y ponlo en un folder manila para su presentación en la semana 6.

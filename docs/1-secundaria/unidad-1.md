@@ -60,3 +60,9 @@ La creación de un tríptico en Word es bastante sencillo, con los cuadros de te
 Siguiendo estos pasos, puedes crear un tríptico profesional y atractivo sin necesidad de herramientas avanzadas de diseño. ¡Explora las opciones de Word y da rienda suelta a tu creatividad!
 
 </div>
+
+## 1BS05: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br> <i class="bi bi-backpack"></i> **Muestra:** https://i.ytimg.com/vi/_gW8IU1q-Y0/hqdefault.jpg?v=5f85a679
+
+Usando el modelo de la muestra crea un letrero de un texto bíblico en español. Imprime y colocálo en tu folder para su revisión en la semana 6.

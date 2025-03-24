@@ -49,3 +49,9 @@ La sintaxis básica para agregar una imagen es:
 Además, con atributos como `width` y `height`, es posible ajustar el tamaño de la imagen, y con CSS, se puede mejorar su diseño y disposición en la página.
 
 </div>
+
+## 1BS05: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6<br><i class="bi bi-laptop"></i> **Programa:** No aplica<br> <i class="bi bi-backpack"></i> **Muestra:** https://upload.wikimedia.org/wikipedia/commons/0/03/Markdown_cheat_sheet_bulgarian.pdf
+
+Crea tu propio cheatsheet de HTML y adjuntalo en tu folder para su revisión en la semana 6. Usa la muestra y hazlo de esa manera.

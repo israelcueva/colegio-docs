@@ -312,3 +312,10 @@ while (i < numeros.length) {
 ```
 
 </div>
+
+## 1BS05: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6<br><i class="bi bi-laptop"></i> **Programa:** No aplica<br> <i class="bi bi-backpack"></i> **Muestra:** https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Filtx5t4tpxlb1.png%3Fauto%3Dwebp%26s%3D4ee58952de42b8a9291e457a13388e297c4b734d&rdt=38926
+
+Crea un cheatsheet de Javascript, es decir, de todo lo trabajado hasta ahora. Mira la muestra y guiate a ella para hacerlo. Hazlo en una hoja y adjuntalo en tu folder para su revisión en la semana 6.
+
