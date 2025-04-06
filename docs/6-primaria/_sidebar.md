@@ -4,8 +4,8 @@
 
 - 1 Bimestre
 
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 1](6-primaria/unidad-1.md)
-
+  - [Unidad 1](6-primaria/unidad-1.md)
+  - [<i class="bi bi-arrow-right-square"></i> Unidad 2](6-primaria/unidad-2.md)
 <!--
 
 - 2 Bimestre 

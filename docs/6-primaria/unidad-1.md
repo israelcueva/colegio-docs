@@ -18,8 +18,6 @@ Microsoft Word no es solo una herramienta para redactar documentos, sino que tam
 
 Microsoft Word es una herramienta comúnmente utilizada para redactar documentos, pero también puede ser una opción accesible y efectiva para la creación de historietas. Gracias a sus herramientas de diseño, formas, cuadros de texto e inserción de imágenes, Word permite estructurar una historieta de manera sencilla, sin necesidad de programas especializados en diseño gráfico.
 
-<div class="currentTheme">
-
 ## 1BS04: Diseño el modelo de un tríptico
 
 > <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=BzKrRciikdE<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing
@@ -27,8 +25,6 @@ Microsoft Word es una herramienta comúnmente utilizada para redactar documentos
 Un tríptico es un folleto dividido en tres secciones o paneles, utilizado comúnmente para presentar información de manera organizada y atractiva. Se emplea en diversas áreas como la publicidad, la educación y la promoción de eventos.
 
 Microsoft Word es una herramienta accesible y versátil para diseñar trípticos sin necesidad de software especializado en diseño gráfico. A través de sus funciones de columnas, tablas e imágenes, es posible estructurar el contenido de manera clara y profesional.
-
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 

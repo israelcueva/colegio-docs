@@ -31,8 +31,6 @@ Microsoft Word es una herramienta accesible y fácil de usar para diseñar menú
 
 El lettering es el arte de dibujar letras de forma creativa, convirtiendo palabras en elementos visuales llamativos. Aunque tradicionalmente se realiza a mano, también es posible aplicarlo digitalmente en herramientas como Microsoft Word, aprovechando sus opciones de fuentes, WordArt y efectos de texto para diseñar carteles atractivos y personalizados.
 
-<div class="currentTheme">
-
 ## 1BS04: Diseño un tríptico en Word
 
 > <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=FY_tEZl9YH0<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
@@ -59,7 +57,6 @@ La creación de un tríptico en Word es bastante sencillo, con los cuadros de te
 
 Siguiendo estos pasos, puedes crear un tríptico profesional y atractivo sin necesidad de herramientas avanzadas de diseño. ¡Explora las opciones de Word y da rienda suelta a tu creatividad!
 
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 

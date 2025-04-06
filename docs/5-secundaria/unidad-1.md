@@ -129,8 +129,6 @@ Los **estilos de párrafo** en Microsoft Word son una herramienta poderosa que p
 
 El programa ya viene con un por defecto que se llama **Normal** que es el que se aplica por defecto a cualquier texto que se añada, así que si deseas cambiar el texot normal modifica el estilo mencionado.
 
-<div class="currentTheme">
-
 ## 1BS04: Genero un índice de manera automática
 
 > <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=kvomMdjAdKk<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
@@ -139,7 +137,6 @@ Microsoft Word ofrece una función poderosa para generar índices automáticos u
 
 El uso de estilos en Word permite asignar jerarquías a los títulos y subtítulos del documento. Por ejemplo, al aplicar los estilos "Título 1", "Título 2" y "Título 3", se puede organizar el contenido en diferentes niveles. Posteriormente, Word usa esta estructura para generar automáticamente una tabla de contenido o índice.
 
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 

@@ -272,8 +272,6 @@ titulo.addEventListener("mouseout", function() {
 });
 ```
 
-<div class="currentTheme">
-
 ## 1BS04: Recorro arrays mediante los bucles
 
 > <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=8GTaO9XhA5M<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing / https://htmlcheatsheet.com/js/
@@ -310,8 +308,6 @@ while (i < numeros.length) {
     i++;
 }
 ```
-
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 

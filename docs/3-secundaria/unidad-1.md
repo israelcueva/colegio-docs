@@ -29,8 +29,6 @@ Existen diferentes tipos de etiquetas de texto en HTML, como:
 
 El uso adecuado de estas etiquetas mejora la accesibilidad, la legibilidad y el SEO (*Search Engine Optimization*) de una página web. A lo largo de este artículo, exploraremos cómo utilizar estas etiquetas para estructurar y dar formato al texto de manera efectiva en HTML. 🚀
 
-<div class="currentTheme">
-
 ## 1BS04: Añado imágenes a mis tutoriales
 
 > <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=iHGfGJt0vLo<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
@@ -47,8 +45,6 @@ La sintaxis básica para agregar una imagen es:
 - `alt`: Proporciona una descripción de la imagen para accesibilidad y en caso de que la imagen no cargue.
 
 Además, con atributos como `width` y `height`, es posible ajustar el tamaño de la imagen, y con CSS, se puede mejorar su diseño y disposición en la página.
-
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 

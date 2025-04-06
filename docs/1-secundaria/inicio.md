@@ -11,4 +11,6 @@ El alumno deberá tener instalado en sus computadoras los programas siguientes p
 
 ## 2. Anuncios
 
-!> Se agrego información sobre el proyecto anual del curso <br> <i>15 de Octubre 2025</i>
+!> Proyecto de la semana 5 agregado<br> <i>23 de Marzo, 2025</i>
+
+!> Información de proyecto anual añadido<br> <i>30 de Marzo, 2025</i>

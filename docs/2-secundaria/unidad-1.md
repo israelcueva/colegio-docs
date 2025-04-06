@@ -20,8 +20,6 @@ PowerPoint es una herramienta poderosa para crear presentaciones visualmente atr
 
 Las animaciones en PowerPoint son una herramienta poderosa para hacer presentaciones más dinámicas, atractivas y comprensibles. Bien utilizadas, pueden ayudar a captar la atención del público, enfatizar puntos clave y mejorar la narrativa visual. Sin embargo, es importante usarlas con moderación y estrategia para no distraer ni sobrecargar la presentación.
 
-<div class="currentTheme">
-
 ## 1BS04: Inserto música y efectos de sonido a mi historia, y la exporto en MP4
 
 > <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Power Point <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=kDUt984wm6Q<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
@@ -30,7 +28,6 @@ El uso de audio y música en PowerPoint puede mejorar significativamente la expe
 
 Microsoft PowerPoint permite insertar y personalizar archivos de audio en diferentes formatos como MP3, WAV y WMA. Además, ofrece herramientas para ajustar el volumen, recortar fragmentos de audio, configurar la reproducción automática o en bucle, y sincronizar el sonido con la transición de diapositivas.
 
-</div>
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 
