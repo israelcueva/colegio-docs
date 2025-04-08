@@ -4,7 +4,7 @@
 
 ## 1BS06: Creo una tabla de personajes ficticios famosos
 
-> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Replicar en casa e imprimir<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=qtuElizNx9g / https://www.youtube.com/watch?v=vp98iBegj0A / / https://www.youtube.com/watch?v=xzn_hQKkjAg<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Replicar en casa e imprimir<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=qtuElizNx9g / https://www.youtube.com/watch?v=vp98iBegj0A / / https://www.youtube.com/watch?v=xzn_hQKkjAg<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
 
 Microsoft Excel es una herramienta poderosa para organizar, analizar y presentar información. Uno de los pilares fundamentales para trabajar de manera eficiente en Excel es saber cómo usar tablas, formatos de datos y formatos numéricos correctamente.
 
