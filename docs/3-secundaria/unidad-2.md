@@ -4,7 +4,7 @@
 
 ## 1BS06: Uso los enlaces para crear una estructura de navegación en mi sitio
 
-> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=12nxKAEm1a4 / https://www.youtube.com/watch?v=CbrHYGinmzQ<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://youtu.be/GKiqObnTCjo<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
 
 En el desarrollo de sitios web, una parte fundamental es permitir que los usuarios se desplacen fácilmente entre las distintas secciones o páginas. Para ello, se utiliza la estructura de navegación, que en HTML se define principalmente con la etiqueta `<nav>`.
 
