@@ -26,4 +26,13 @@ Aquí tienes un ejemplo básico de cómo se ve una estructura de navegación en 
 
 Crea un sitemap del proyecto de esta semana. Usa este [ejemplo](https://www.hostinger.com/es/tutoriales/wp-content/uploads/sites/7/2024/05/Sitemap-visual-Hostinger.png) de muestra. EL sitemap debes hacerlo a mano.
 
+### Subir sitio a Internet
+
+Para subir tu sitio web a Internet puedes usar cualquiera de estas opciones:
+
+- [Neocities](https://neocities.org/): Neocities es una plataforma que permite a los usuarios crear y alojar sitios web estáticos de forma gratuita, inspirada en la antigua GeoCities.
+- [Yayboo](https://yay.boo/): Yay.Boo es una plataforma minimalista para compartir rápidamente código HTML, similar a un bloc de notas en línea para la web.
+- [Glitch](https://glitch.com/): Glitch es una plataforma que permite crear, compartir y alojar aplicaciones web completas, con soporte para frontend y backend.
+- [Netlify](https://www.netlify.com/): Netlify es una plataforma que ofrece servicios de despliegue y alojamiento para sitios web estáticos y aplicaciones modernas, con integración continua desde repositorios Git.
+
 </div>

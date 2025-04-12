@@ -19,3 +19,20 @@ Aprender a usar estilos en Word es un paso esencial para trabajar de forma más 
 Guíate a esta [infografía](https://marketplace.canva.com/EAF7c35deZc/1/0/640w/canva-infograf%C3%ADa-de-educaci%C3%B3n-creativa-listado-de-ideas-ni%C3%B1os-ilustrada-bonita-multicolor-9Xf2ou0gvMs.jpg) y crea una de los estilos básicos de Word con sus características. Los estilos que debes describir son: `Normal`, `Sin espaciado`, `Título 1`, `Título 2` y `Título`.
 
 </div>
+
+
+## 1BS07: Uso de secciones y saltos para organizar mi proyecto
+
+> <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=tUiomJNZ-QM<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+
+Los saltos permiten dividir el contenido de un documento en partes separadas, lo cual es especialmente útil cuando se desea:
+
+- Empezar una nueva página.
+- Cambiar el formato o diseño de una sección sin afectar todo el documento.
+- Separar capítulos, portadas, índices, o anexos.
+
+Existen diferentes tipos de saltos en Word, entre los más comunes están:
+
+- **Salto de página:** Mueve el contenido siguiente a una nueva página.
+- **Salto de sección (continua o de página siguiente):** Crea una nueva sección que puede tener un formato distinto (como márgenes, orientación, encabezados o pies de página).
+- **Salto de columna:** Utilizado cuando el texto está en formato de columnas y se quiere iniciar una nueva columna.
