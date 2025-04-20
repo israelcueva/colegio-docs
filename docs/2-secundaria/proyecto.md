@@ -20,3 +20,7 @@ Para decidir las escenas que representará cada grupo se hará un sorteo. Las es
 ## 2. Guión
 
 La segunda parte del proyecto será la creación del guión técnico de la animación. El documento será presentado enviando un email o enviando la URL del documento.
+
+Puedes ayudarte haciendo una búsqueda en Google sobre guiones y escoge el que mejor te parezca.
+
+
