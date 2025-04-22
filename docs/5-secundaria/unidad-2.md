@@ -32,8 +32,6 @@ Las macros son especialmente útiles en entornos laborales donde se manejan dato
 
 Escribe el código creado por la Macro y añade un `MsgBox` al final, con la leyenda **Dato agregado correctamente**. Presentar dicho trabajo escrito en el folder.
 
-<div class="currentTheme">
-
 ## 1BS07: Usando variables para almacenar valores
 
 > <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Crea un cheatsheet de VBA a mano.<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=FwjzdAKMwzA<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
@@ -60,8 +58,7 @@ Asignar un valor a una variable es sencillo:
 edad = 25
 nombre = "Luis"
 ```
-
-</div>
+<div class="currentTheme">
 
 ## 1BS08: Uso controles de flujo para repetir instrucciones
 
@@ -135,3 +132,5 @@ Wend
 **Tarea:**
 
 Escribe dos ejemplos de cada uno y adjuntalo en tu folder. Usa los colores por defecto del editor de Excel.
+
+</div>

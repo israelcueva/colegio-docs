@@ -33,15 +33,13 @@ Para subir tu sitio web a Internet puedes usar cualquiera de estas opciones:
 - [Glitch](https://glitch.com/): Glitch es una plataforma que permite crear, compartir y alojar aplicaciones web completas, con soporte para frontend y backend.
 - [Netlify](https://www.netlify.com/): Netlify es una plataforma que ofrece servicios de despliegue y alojamiento para sitios web estáticos y aplicaciones modernas, con integración continua desde repositorios Git.
 
-<div class="currentTheme">
-
 ## 1BS07: Añado estilos básicos a mis tutoriales
 
 > <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://youtu.be/GKiqObnTCjo<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
 
 Los estilos CSS (Cascading Style Sheets) se utilizan para definir la apariencia visual de los elementos HTML en una página web. Con CSS, puedes cambiar colores, tamaños, fuentes, márgenes y muchas otras propiedades, lo que permite separar el contenido de la presentación. Esto hace que el diseño sea más flexible, fácil de mantener y consistente en todo el sitio web.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS08: Aprendo a usar el Developer Tools
 
@@ -52,3 +50,6 @@ Las Developer Tools, o herramientas para desarrolladores, son un conjunto de uti
 ### Tarea
 
 Realiza una infografía a mano con todas las opciones que nos ofrece el Developer Tools.
+
+</div>
+

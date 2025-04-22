@@ -12,8 +12,6 @@ Con Cat.js, puedes crear escenarios, mover personajes, detectar colisiones, agre
 
 Crea una infografía compartiva de los 5 principales motores de videojuegos (Incluyendo CatJS), los elementos a comparar deben ser: Lenguaje, Soporte 2D/3D,	Licencia, Facilidad y Plataformas.
 
-<div class="currentTheme">
-
 ## 1BS07: Usando recursos y templates para generar mi personaje
 
 > <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Abril<br><i class="bi bi-laptop"></i> **Programa:** ct.js<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing
@@ -24,7 +22,7 @@ En la creación de videojuegos, los sprites son imágenes o gráficos que repres
 
 Busca un sprite en Internet y replicalo a mano. Dicho sprite debe tener como mínimo 6 estados.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS08: Añado sprites y animaciones al personaje de mi videjuego
 
@@ -49,3 +47,5 @@ Una animación en Cat.js es un conjunto de cambios que se aplican a un objeto co
 **Tarea:**
 
 Ve a la página https://comigo.itch.io/ct-cheat-sheet e imprime los 4 cheatsheet correspondientes a Javascript.
+
+</div>

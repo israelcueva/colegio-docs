@@ -16,8 +16,6 @@ Aprender a usar estilos en Word es un paso esencial para trabajar de forma más 
 
 Guíate a esta [infografía](https://marketplace.canva.com/EAF7c35deZc/1/0/640w/canva-infograf%C3%ADa-de-educaci%C3%B3n-creativa-listado-de-ideas-ni%C3%B1os-ilustrada-bonita-multicolor-9Xf2ou0gvMs.jpg) y crea una de los estilos básicos de Word con sus características. Los estilos que debes describir son: `Normal`, `Sin espaciado`, `Título 1`, `Título 2` y `Título`.
 
-<div class="currentTheme">
-
 ## 1BS07: Uso de secciones y saltos para organizar mi proyecto
 
 > <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=tUiomJNZ-QM<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
@@ -38,7 +36,7 @@ Existen diferentes tipos de saltos en Word, entre los más comunes están:
 
 Realiza la historia que presentarás para el proyecto Konista.
 
-</div>
+<div class="currentTheme">
 
 ## 1BS08: Añado encabezados y pies de página a mi obra
 
@@ -59,3 +57,5 @@ Word te permite personalizar fácilmente estos espacios y mantenerlos consistent
 Tarea:
 
 - Haz un propuesta para los encabezados y pies de página del proyecto Konista.
+
+</div>

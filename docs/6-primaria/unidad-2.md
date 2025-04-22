@@ -8,8 +8,6 @@ Microsoft Excel es una de las herramientas más utilizadas en todo el mundo para
 
 En Excel, los datos se ingresan en una cuadrícula formada por celdas, que se organizan en filas (números) y columnas (letras). Cada celda puede contener texto, números o fórmulas que realizan cálculos automáticamente.
 
-<div class="currentTheme">
-
 ## 1BS07: Resuelvo problemas de porcentajes
 
 > <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing
@@ -26,11 +24,11 @@ En esta oportunidad veremos como resvolver un ejercicio de porcentajes. Las fór
 | JUAN | ? | `=C9-(G12+G13+G14)` | 16.00 | `=G15/C9` | 0.1333 | `=I15` | 13.33% |
 | TOTAL | | `=SUM(G12:G15)` | 120.00 | `=SUM(I12:I15)` | 1.0000 | `=SUM(I12:I15)` | 100.00% |
 
-</div>
+<div class="currentTheme">
 
 ## 1BS08: Elaboro gráficos para representar datos
 
-> <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing / https://1drv.ms/x/c/8b661c59228b93aa/EYZiys_025lMoOqgZ0gfxh4B2KTXK8BCDtd5pQKJ5VUg2Q?e=2k1HbB
+> <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing <br> <i class="bi bi-laptop"></i> **Muestra Final:** https://1drv.ms/x/c/8b661c59228b93aa/EYZiys_025lMoOqgZ0gfxh4B2KTXK8BCDtd5pQKJ5VUg2Q?e=2k1HbB <br> <i class="bi bi-file-check"></i> **Fichas completas:** https://www.figma.com/proto/2xgAJE6rQ5cFenBVeH8k82/1ERO-SECUNDARIA?page-id=0%3A1&node-id=1-2&p=f&viewport=146%2C399%2C0.14&t=68qZZ7EubWtBw2n6-1&scaling=scale-down&content-scaling=fixed
 
 Excel no solo sirve para hacer cálculos y organizar datos en tablas: también es una herramienta poderosa para visualizar información mediante gráficos. Los gráficos permiten entender rápidamente lo que los números nos están diciendo. Por ejemplo, en lugar de leer una lista de ventas mensuales, un gráfico de columnas puede mostrar en segundos qué mes fue el mejor o cuál tuvo menos ventas.
 
@@ -42,3 +40,5 @@ Con Excel, puedes crear distintos tipos de gráficos como:
 - **Gráficos combinados** y muchos otros para analizar datos de diferentes formas.
 
 La ventaja de usar gráficos en Excel es que puedes crearlos en pocos pasos y personalizarlos según tus necesidades. Solo necesitas tener tus datos organizados, seleccionar lo que deseas representar, y elegir el tipo de gráfico que mejor se adapte a la información.
+
+</div>

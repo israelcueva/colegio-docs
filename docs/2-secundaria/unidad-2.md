@@ -14,8 +14,6 @@ Por otro lado, el uso adecuado de los formatos numéricos permite mostrar los va
 
 Dominar estas herramientas básicas es clave para trabajar con hojas de cálculo más limpias, organizadas y funcionales, y sienta las bases para análisis más complejos en el futuro.
 
-<div class="currentTheme">
-
 ### 1BS07: Creo gráficos sobre los perfiles piscológicos
 
 > <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Replicar en casa e imprimir<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=04pGYGNxRZY<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
@@ -26,7 +24,7 @@ Excel ofrece una amplia variedad de tipos de gráficos, como columnas, barras, l
 
 Crear un gráfico en Excel es muy sencillo. Solo se necesita seleccionar los datos que se desean representar y, a través del menú "Insertar", elegir el tipo de gráfico más adecuado. Una vez creado, el gráfico puede personalizarse con títulos, etiquetas, colores y otros elementos que lo hagan más claro y atractivo.
 
-</div>
+<div class="currentTheme">
 
 ### 1BS08: Agrego una linea de tiempo de mi historia
 
@@ -43,3 +41,5 @@ Cuando pensamos en gráficos en Excel, muchas veces los imaginamos como herramie
 Por ejemplo, puedes usar gráficos de columnas con formas personalizadas para representar personajes o elementos de una historia; o puedes combinar gráficos de líneas con imágenes para narrar cómo evoluciona un personaje, un proyecto o un fenómeno a lo largo del tiempo.
 
 Además, con un buen uso del color, la disposición y los tipos de gráfico, puedes transformar una simple hoja de cálculo en una experiencia visual clara y cautivadora.
+
+</div>
