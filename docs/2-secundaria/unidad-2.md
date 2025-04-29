@@ -14,7 +14,7 @@ Por otro lado, el uso adecuado de los formatos numéricos permite mostrar los va
 
 Dominar estas herramientas básicas es clave para trabajar con hojas de cálculo más limpias, organizadas y funcionales, y sienta las bases para análisis más complejos en el futuro.
 
-### 1BS07: Creo gráficos sobre los perfiles piscológicos
+## 1BS07: Creo gráficos sobre los perfiles piscológicos
 
 > <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Replicar en casa e imprimir<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=04pGYGNxRZY<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
 
@@ -24,11 +24,9 @@ Excel ofrece una amplia variedad de tipos de gráficos, como columnas, barras, l
 
 Crear un gráfico en Excel es muy sencillo. Solo se necesita seleccionar los datos que se desean representar y, a través del menú "Insertar", elegir el tipo de gráfico más adecuado. Una vez creado, el gráfico puede personalizarse con títulos, etiquetas, colores y otros elementos que lo hagan más claro y atractivo.
 
-<div class="currentTheme">
+## 1BS08: Agrego una linea de tiempo de mi historia
 
-### 1BS08: Agrego una linea de tiempo de mi historia
-
-> <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Realiza un linea de tiempo de Sherlock Holmes e imprímelo<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=fD69i2DnqI0<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Abril<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=fD69i2DnqI0<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
 
 Cuando pensamos en gráficos en Excel, muchas veces los imaginamos como herramientas simples para mostrar datos numéricos. Sin embargo, Excel también puede ser un espacio para la creatividad. Con un poco de imaginación, los gráficos pueden transformarse en recursos visuales potentes, expresivos e incluso artísticos.
 
@@ -42,4 +40,20 @@ Por ejemplo, puedes usar gráficos de columnas con formas personalizadas para re
 
 Además, con un buen uso del color, la disposición y los tipos de gráfico, puedes transformar una simple hoja de cálculo en una experiencia visual clara y cautivadora.
 
+<div class="currentTheme">
+
+## 1BS09: Creo la ficha de mi personaje ficticio
+
+> <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing
+
+Excel no solo es una herramienta poderosa para cálculos y análisis de datos; también puede utilizarse para diseñar y organizar fichas informativas de manera clara y ordenada. Las fichas en Excel son útiles para registrar y consultar información estructurada, como datos de estudiantes, productos, libros, clientes, o cualquier otro tipo de registro que requiera orden y accesibilidad.
+
+Gracias a su estructura en filas y columnas, Excel permite distribuir la información de forma visualmente limpia, usando celdas para títulos, campos y contenidos. Además, se pueden aplicar formatos condicionales, colores, bordes, validación de datos y filtros automáticos para mejorar la funcionalidad y presentación de las fichas. Incluso es posible utilizar formularios o funciones como BUSCARV o XLOOKUP para automatizar la consulta y visualización de información específica.
+
 </div>
+
+## 1BS10: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 10 - Horas de clase<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>
+
+Ve a la carpeta del curso y descarga el archivo de la practica calificada. Con la información dada elabora una infografía. Guardalo en PDF e imprímelo. Presentar en folder.

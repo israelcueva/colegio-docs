@@ -22,8 +22,6 @@ En la creación de videojuegos, los sprites son imágenes o gráficos que repres
 
 Busca un sprite en Internet y replicalo a mano. Dicho sprite debe tener como mínimo 6 estados.
 
-<div class="currentTheme">
-
 ## 1BS08: Añado sprites y animaciones al personaje de mi videjuego
 
 > <i class="bi bi-calendar"></i> **Fecha:** 21 al 25 de Abril<br><i class="bi bi-laptop"></i> **Programa:** ct.js<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing
@@ -48,4 +46,18 @@ Una animación en Cat.js es un conjunto de cambios que se aplican a un objeto co
 
 Ve a la página https://comigo.itch.io/ct-cheat-sheet e imprime los 4 cheatsheet correspondientes a Javascript.
 
+<div class="currentTheme">
+
+## 1BS09: Completo los escenarios de mi videojuego
+
+> <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** ct.js<br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing
+
+En Cat.js, los escenarios son la base para organizar las diferentes partes de una historia interactiva. Un escenario representa una escena o momento específico dentro de la narrativa, como si fuera una página de un libro o una toma de una película. Cada escenario puede contener texto, imágenes, decisiones del jugador y efectos visuales o de sonido. Usar escenarios te permite estructurar tu historia de forma clara y lógica, facilitando la navegación entre eventos y la construcción de una experiencia envolvente. Dominar los escenarios en Cat.js es el primer paso para crear narraciones interactivas dinámicas y bien organizadas.
+
 </div>
+
+## 1BS10: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 10 - Horas de clase<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código<br>
+
+Crea un mundo básico en CAT.JS y enseño ese mundo al profesor la semana 10 en horas de clase.

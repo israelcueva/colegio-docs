@@ -58,7 +58,6 @@ Asignar un valor a una variable es sencillo:
 edad = 25
 nombre = "Luis"
 ```
-<div class="currentTheme">
 
 ## 1BS08: Uso controles de flujo para repetir instrucciones
 
@@ -133,4 +132,23 @@ Wend
 
 Escribe dos ejemplos de cada uno y adjuntalo en tu folder. Usa los colores por defecto del editor de Excel.
 
+<div class="currentTheme">
+
+## 1BS09: Manejos hojas, libros y rangos de celdas.
+
+> <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br><i class="bi bi-clipboard-check"></i> **Tarea:** Ver al final<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=L1jjyMKFIT0<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing
+
+En Excel, las tablas (también conocidas como ListObjects) permiten organizar datos de manera estructurada, con ventajas como el filtrado automático, formatos dinámicos y referencias inteligentes. Desde VBA (Visual Basic for Applications), podemos manipular estas tablas para automatizar tareas, como agregar o eliminar filas, modificar datos, aplicar filtros o generar reportes dinámicos. Trabajar con tablas en VBA hace que los procesos sean más robustos y fáciles de mantener, ya que las tablas se ajustan automáticamente al tamaño de los datos y pueden referenciarse por nombre, facilitando su manejo dentro del código.
+
 </div>
+
+## 1BS10: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 10 - Horas de clase<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>
+
+Crea un formulario(UserForm) para añadir alumnos en una hoja de Excel. Dicho formulario debe tener las características siguientes:
+
+- **Campos:** Nombres, Apellidos, Edad, Sexo, Fecha de nacimiento y estado cívil.
+- **Botones:** Limpiar (Deja los cuadros de texto vacíos) y Registrar (Agrega el alumno a la tabla).
+
+Guarda tu proyecto para que en clase se lo muestres al profesor para su revisión.

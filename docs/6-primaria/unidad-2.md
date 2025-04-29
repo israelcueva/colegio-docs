@@ -24,7 +24,7 @@ En esta oportunidad veremos como resvolver un ejercicio de porcentajes. Las fór
 | JUAN | ? | `=C9-(G12+G13+G14)` | 16.00 | `=G15/C9` | 0.1333 | `=I15` | 13.33% |
 | TOTAL | | `=SUM(G12:G15)` | 120.00 | `=SUM(I12:I15)` | 1.0000 | `=SUM(I12:I15)` | 100.00% |
 
-<div class="currentTheme">
+
 
 ## 1BS08: Elaboro gráficos para representar datos
 
@@ -40,5 +40,21 @@ Con Excel, puedes crear distintos tipos de gráficos como:
 - **Gráficos combinados** y muchos otros para analizar datos de diferentes formas.
 
 La ventaja de usar gráficos en Excel es que puedes crearlos en pocos pasos y personalizarlos según tus necesidades. Solo necesitas tener tus datos organizados, seleccionar lo que deseas representar, y elegir el tipo de gráfico que mejor se adapte a la información.
+
+## 1BS09: Uso minigráficos en Presupuestos
+
+> <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel <br><i class="bi bi-clipboard-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-youtube txt-red"></i> **Videos:** <br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing <br> <i class="bi bi-laptop"></i> **Muestra Final:** https://1drv.ms/x/c/8b661c59228b93aa/EXbm56xp0kFPrC8xWStO2cgB2N_NgM_Mah-E1Gi-r_85_w?e=R7hh5w<br> <i class="bi bi-file-check"></i> **Fichas completas:** https://www.figma.com/proto/2xgAJE6rQ5cFenBVeH8k82/1ERO-SECUNDARIA?page-id=0%3A1&node-id=1-2&p=f&viewport=146%2C399%2C0.14&t=68qZZ7EubWtBw2n6-1&scaling=scale-down&content-scaling=fixed
+
+Los minigráficos en Excel son pequeñas representaciones visuales de datos que se insertan directamente dentro de una celda. Sirven para mostrar tendencias, variaciones o patrones de forma compacta y clara, lo que facilita el análisis rápido de la información sin necesidad de gráficos más grandes y elaborados. Excel ofrece varios tipos de minigráficos, como líneas, columnas y ganancias/pérdidas, permitiendo a los usuarios comparar datos de manera visual y sencilla dentro de listas o tablas extensas.
+
+<div class="currentTheme">
+
+## 1BS10: Práctica Calificada - Revisión de Folder
+
+> <i class="bi bi-calendar"></i> **Fecha límite:** Domingo 04 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>
+
+Ve a la carpeta de recursos del curso, descarga el archivo de esa semana y completalo usando Excel. Una vez terminando de llenar lo que se requiere. Envíalo a través del enlace siguiente UNA SOLA VEZ:
+
+https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EqBfV8A1ztJOs7FocBURrhIBEzObF3EPC-SWg2VBPZG0mA
 
 </div>
