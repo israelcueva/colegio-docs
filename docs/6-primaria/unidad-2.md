@@ -47,14 +47,10 @@ La ventaja de usar gráficos en Excel es que puedes crearlos en pocos pasos y pe
 
 Los minigráficos en Excel son pequeñas representaciones visuales de datos que se insertan directamente dentro de una celda. Sirven para mostrar tendencias, variaciones o patrones de forma compacta y clara, lo que facilita el análisis rápido de la información sin necesidad de gráficos más grandes y elaborados. Excel ofrece varios tipos de minigráficos, como líneas, columnas y ganancias/pérdidas, permitiendo a los usuarios comparar datos de manera visual y sencilla dentro de listas o tablas extensas.
 
-<div class="currentTheme">
-
 ## 1BS10: Práctica Calificada - Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha límite:** Domingo 04 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>
+>! <i class="bi bi-calendar"></i> **Fecha límite:** Domingo 04 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>
 
 Ve a la carpeta de recursos del curso, descarga el archivo de esa semana y completalo usando Excel. Una vez terminando de llenar lo que se requiere. Envíalo a través del enlace siguiente UNA SOLA VEZ:
 
 https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EqBfV8A1ztJOs7FocBURrhIBEzObF3EPC-SWg2VBPZG0mA
-
-</div>

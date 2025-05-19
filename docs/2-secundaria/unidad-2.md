@@ -50,8 +50,6 @@ Excel no solo es una herramienta poderosa para cálculos y análisis de datos; t
 
 Gracias a su estructura en filas y columnas, Excel permite distribuir la información de forma visualmente limpia, usando celdas para títulos, campos y contenidos. Además, se pueden aplicar formatos condicionales, colores, bordes, validación de datos y filtros automáticos para mejorar la funcionalidad y presentación de las fichas. Incluso es posible utilizar formularios o funciones como BUSCARV o XLOOKUP para automatizar la consulta y visualización de información específica.
 
-</div>
-
 ## 1BS10: Práctica Calificada - Revisión de Folder
 
 > <i class="bi bi-calendar"></i> **Fecha límite:** Semana 10 - Horas de clase<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Excel<br>

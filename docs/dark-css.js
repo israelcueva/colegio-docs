@@ -7,12 +7,12 @@ window.$docsify.plugins = [].concat((e, o) => {
         dark: {
             accent: "#4f51ee",
             toogleBackground: "#ffffff",
-            background: "#212227",
+            background: "#010104",
             textColor: "#b4b4b4",
             codeTextColor: "#ffffff",
             codeBackgroundColor: "#282828",
             borderColor: "#0d2538",
-            blockQuoteColor: "#858585",
+            blockQuoteColor: "#9c9cc0",
             highlightColor: "#d22778",
             sidebarSublink: "#b4b4b4",
             codeTypeColor: "#ffffff",
@@ -22,7 +22,8 @@ window.$docsify.plugins = [].concat((e, o) => {
             borderColor:"#333333",
             sidebarColor:"#000000",
             navColor:"#151515",
-            contentBackground:"#0f0f0f"
+            contentBackground:"#0f0f0f",
+            line:"#282828"
         },
         light: {
             accent: "#4f51ee",
@@ -32,7 +33,7 @@ window.$docsify.plugins = [].concat((e, o) => {
             codeTextColor: "#525252",
             codeBackgroundColor: "#f8f8f8",
             borderColor: "rgba(0, 0, 0, 0.07)",
-            blockQuoteColor: "#858585",
+            blockQuoteColor: "#2c2d62",
             highlightColor: "#d22778",
             sidebarSublink: "#505d6b",
             codeTypeColor: "#091a28",
@@ -42,7 +43,8 @@ window.$docsify.plugins = [].concat((e, o) => {
             borderColor:"#d9d9d9",
             sidebarColor:"#fafafa",
             navColor:"#FFFFFF",
-            contentBackground:"#FFFFFF"
+            contentBackground:"#FFFFFF",
+            line:"#eee"
         },
     };
     if (o.config.hasOwnProperty("darklightTheme")) {

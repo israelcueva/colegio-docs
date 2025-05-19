@@ -1,4 +1,4 @@
-# KONISTA
+# EL KONISTA
 
 Konista es un proyecto educativo que busca fomentar la creatividad, el pensamiento computacional y el espíritu emprendedor en los estudiantes de primer año de secundaria mediante la escritura de historias originales. Este proyecto forma parte de una iniciativa más amplia que combina la tecnología y el emprendimiento, permitiendo que las narraciones evolucionen a otros formatos como la animación, el desarrollo web y la inteligencia artificial en años posteriores. Konista no solo es una recopilación de cuentos, sino también un espacio para la innovación, el aprendizaje digital y la aplicación de nuevas herramientas tecnológicas en el ámbito narrativo.
 

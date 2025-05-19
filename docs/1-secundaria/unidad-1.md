@@ -2,7 +2,7 @@
 
 ## 1BS01: Conozco y aplico las buenas prácticas en la sala de Computo
 
-> <i class="bi bi-calendar"></i> **Fecha:** 03 al 07 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** No aplica <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=y6z0Tq1a8fs<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 03 al 07 de Marzo<br><i class="bi bi-window-desktop"></i> **Programa:** No aplica <br><i class="bi bi-calendar-check"></i> **Tarea:** No aplica <br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=y6z0Tq1a8fs)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
 
 El uso adecuado de una computadora es fundamental para que podamos sacar el máximo provecho de ella y evitar posibles problemas. En la actualidad, las computadoras se han convertido en una herramienta imprescindible para el aprendizaje y el desarrollo académico, por lo que es importante que aprendamos a utilizarlas de manera responsable y eficiente.
 
@@ -21,19 +21,19 @@ Este es tu decálogo para el uso de la computadoras. Infringir una puede resulta
 
 ## 1BS02: Elaboro un menú de restaurante en Word
 
-> <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=g5J8Rh7eYSU<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 10 al 14 de Marzo<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Word <br><i class="bi bi-calendar-check"></i> **Tarea:** No aplica <br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=g5J8Rh7eYSU)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
 
 Microsoft Word es una herramienta accesible y fácil de usar para diseñar menús de restaurante atractivos y profesionales. Aunque existen programas de diseño más avanzados, Word ofrece suficientes opciones de formato, plantillas y herramientas gráficas para crear un menú bien estructurado sin necesidad de conocimientos especializados en diseño.
 
 ## 1BS03: Uso la técnica del lettering para crear un letrero
 
-> <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Crear un letrero de un texto bíblico <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=m8EMnabA2yg / https://www.youtube.com/watch?v=2IjWmhNXvbU<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 17 al 21 de Marzo<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Word <br><i class="bi bi-calendar-check"></i> **Tarea:** Crear un letrero de un texto bíblico <br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=m8EMnabA2yg) / [Video 2](https://www.youtube.com/watch?v=2IjWmhNXvbU)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
 
 El lettering es el arte de dibujar letras de forma creativa, convirtiendo palabras en elementos visuales llamativos. Aunque tradicionalmente se realiza a mano, también es posible aplicarlo digitalmente en herramientas como Microsoft Word, aprovechando sus opciones de fuentes, WordArt y efectos de texto para diseñar carteles atractivos y personalizados.
 
 ## 1BS04: Diseño un tríptico en Word
 
-> <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** No aplica <br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=FY_tEZl9YH0<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
+> <i class="bi bi-calendar"></i> **Fecha:** 24 al 28 de Marzo<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Word <br><i class="bi bi-calendar-check"></i> **Tarea:** No aplica <br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=FY_tEZl9YH0)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
 
 La creación de un tríptico en Word es bastante sencillo, con los cuadros de texto y los ajustes de texto lograremos un diseño de un tríptico profesional. Los pasos a seguir serían los siguientes:
 
@@ -60,6 +60,6 @@ Siguiendo estos pasos, puedes crear un tríptico profesional y atractivo sin nec
 
 ## 1BS05: Práctica Calificada - Revisión de Folder
 
-> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br> <i class="bi bi-backpack"></i> **Muestra:** https://i.ytimg.com/vi/_gW8IU1q-Y0/hqdefault.jpg?v=5f85a679
+> <i class="bi bi-calendar"></i> **Fecha límite:** Semana 6<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Word <br> <i class="bi bi-briefcase"></i> **Muestra:** [Enlace](https://i.ytimg.com/vi/_gW8IU1q-Y0/hqdefault.jpg?v=5f85a679)
 
 Usando el modelo de la muestra crea un letrero de un texto bíblico en español. Imprime y colocálo en tu folder para su revisión en la semana 6.

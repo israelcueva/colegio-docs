@@ -45,15 +45,11 @@ Los estilos CSS (Cascading Style Sheets) se utilizan para definir la apariencia 
 
 Las Developer Tools, o herramientas para desarrolladores, son un conjunto de utilidades integradas en la mayoría de navegadores modernos como Chrome, Firefox y Edge. Estas herramientas permiten inspeccionar y modificar el código HTML, CSS y JavaScript de cualquier página web en tiempo real. Son esenciales para entender cómo funciona una página, encontrar errores, optimizar el rendimiento y experimentar con cambios de diseño o funcionalidad sin afectar el sitio original. Son una herramienta clave para cualquier persona que esté aprendiendo o trabajando en desarrollo web.
 
-<div class="currentTheme">
-
 ## 1BS09: Comparto mi proyecto por Internet
 
 > <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Cualquier editor de código <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=A-JUSQBoICY<br> <i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing
 
 Neocities es una plataforma gratuita que te permite crear y publicar tu propio sitio web de manera sencilla. Es ideal para estudiantes, artistas y desarrolladores que desean compartir sus proyectos en línea sin necesidad de conocimientos avanzados en servidores o alojamiento web. Con Neocities puedes subir archivos HTML, CSS, imágenes y más, para que tu trabajo esté disponible en internet con solo unos clics. Además, es una excelente herramienta para aprender los fundamentos del desarrollo web y empezar a construir tu presencia digital.
-
-</div>
 
 ## 1BS10: Práctica Calificada - Revisión de Folder
 

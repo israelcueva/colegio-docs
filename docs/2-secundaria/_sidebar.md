@@ -3,10 +3,10 @@
   - [<i class="bi bi-house"></i> Inicio](2-secundaria/inicio)
   - [<i class="bi bi-tiktok"></i> Proyecto](2-secundaria/proyecto)
 
-- 1 Bimestre
+- 2 Bimestre
 
-  - [Unidad 1](2-secundaria/unidad-1.md)
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 2](2-secundaria/unidad-2.md)
+  - [Unidad 3](2-secundaria/unidad-3.md)
+
 <!--
 - 2 Bimestre 
 

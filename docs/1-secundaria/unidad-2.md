@@ -56,8 +56,6 @@ Tarea:
 
 - Haz un propuesta para los encabezados y pies de página del proyecto Konista.
 
-<div class="currentTheme">
-
 ## 1BS09: Añado encabezados y pies de página a mi obra
 
 > <i class="bi bi-calendar"></i> **Fecha:** 28 de Abril al 02 de Mayo<br><i class="bi bi-laptop"></i> **Programa:** Microsoft Word <br><i class="bi bi-clipboard-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-youtube txt-red"></i> **Videos:** https://www.youtube.com/watch?v=kvomMdjAdKk<br><i class="bi bi-backpack"></i> **Recursos:** https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing
@@ -65,8 +63,6 @@ Tarea:
 Crear un índice en un documento largo puede ser una tarea tediosa si se realiza manualmente. Afortunadamente, Microsoft Word ofrece herramientas automáticas que permiten generar índices de manera rápida, precisa y profesional. Esta función resulta especialmente útil en trabajos académicos, manuales, informes técnicos o cualquier texto extenso que requiera organización clara y navegación eficiente.
 
 La generación automática de índices en Word se basa en el uso de estilos predefinidos (como Título 1, Título 2, etc.), que permiten al programa identificar las secciones del documento. Una vez aplicados estos estilos, Word puede insertar un índice que se actualiza automáticamente cada vez que se modifica el contenido o la estructura del texto. Esto ahorra tiempo, reduce errores y mejora significativamente la presentación del documento.
-
-</div>
 
 ## 1BS10: Práctica Calificada - Revisión de Folder
 

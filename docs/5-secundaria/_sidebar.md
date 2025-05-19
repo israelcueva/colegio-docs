@@ -3,10 +3,9 @@
   - [<i class="bi bi-house"></i> Inicio](5-secundaria/inicio)
   - [<i class="bi bi-youtube"></i> Proyecto](5-secundaria/proyecto)
 
-- 1 Bimestre
+- 2 Bimestre
 
-  - [Unidad 1](5-secundaria/unidad-1.md)
-  - [<i class="bi bi-arrow-right-square"></i> Unidad 2](5-secundaria/unidad-2.md)
+  - [Unidad 3](5-secundaria/unidad-3.md)
 
 <!-- 
 
