@@ -1,7 +1,5 @@
 # 4-Secundaria - Unidad 3
 
-<div class="currentTheme">
-
 ## 2BS01: Añado funcionalidad de movimiento a mi personaje :id=ctjs-movimiento-a-mi-personaje
 
 > <i class="bi bi-calendar"></i> **Fecha:** 19 al 23 de Mayo<br><i class="bi bi-window-desktop"></i> **Programa:** [ct.js](https://ctjs.rocks/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-files"></i> **Cheatsheet:** [Enlace](https://comigo.itch.io/ct-cheat-sheet)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing)
@@ -77,5 +75,62 @@ this.vspeed = 0;
 ### Tarea
 
 Revisa el cheatsheet que corresponde a movimiento y añade el código necesario para que si el personaje choca con un enemigo, el juego se dé por pérdido (Cambiar room).
+
+<div class="currentTheme">
+
+## 2BS02: Entiendo los templates para cada estado de mi personaje :id=ctjs-template-personaje
+
+> <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Mayo<br><i class="bi bi-window-desktop"></i> **Programa:** [ct.js](https://ctjs.rocks/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-files"></i> **Cheatsheet:** [Enlace](https://comigo.itch.io/ct-cheat-sheet)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing)
+
+En un videojuego, las animaciones de personaje son esenciales para transmitir fluidez, realismo y personalidad en cada acción que realiza. Cada estado del personaje —como estar quieto, caminar, correr, saltar, atacar o recibir daño— requiere su propia animación específica para reflejar correctamente el comportamiento y la intención en pantalla. Estas animaciones no solo mejoran la estética visual, sino que también aportan información clave al jugador sobre el estado del personaje y su entorno. Un buen diseño de animaciones por estado asegura una experiencia de juego más inmersiva, coherente y dinámica.
+
+Para poder añadir las animaciones debemos agregar un template para cada estado: Reposo, caminando y saltando. El Reposo será la animación por defecto, mientras que caminando y saltando se activaran si usamos las acciones de teclado.
+
+<span class="badge badge-outline"><i class="bi bi-chevron-bar-left"></i> Frame start</span>
+
+```javascript
+this.movespeed = 240; 
+
+if (actions.moverIzquierda.down) {
+    this.hspeed = -this.movespeed;
+
+    // Añadimos la animación de caminar al presionar flecha izquierda
+    if (this.tex !== 'personaje_caminar') {
+        this.tex = 'personaje_caminar';
+        this.play();
+    }
+    this.scale.x = -1;
+
+} else if (actions.moverDerecha.down) {
+    this.hspeed = this.movespeed;
+
+    // Añadimos la animación de caminar al presionar flecha derecha
+    if (this.tex !== 'personaje_caminar) {
+        this.tex = 'personaje_caminar';
+        this.play();
+    }
+    this.scale.x = 1;
+
+} else {
+    this.hspeed = 0;
+
+    // Si no va a la derecha o izquierda la animación por defecto es
+     this.tex = 'personaje_reposo';
+}
+
+if (place.occupied(this, this.x, this.y + 1, 'Suelo')) {
+    if (actions.Saltar.down) {
+        this.vspeed = this.jumpSpeed;
+    } else {
+        this.vspeed = 0;
+    }
+}
+// Agregamos el else para que cuando este en el aire se muestre el template correcto.
+else{
+    this.tex = 'personaje_saltar';
+}
+
+this.moveSmart('Suelo');
+```
 
 </div>
