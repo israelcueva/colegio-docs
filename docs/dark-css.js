@@ -23,7 +23,8 @@ window.$docsify.plugins = [].concat((e, o) => {
             sidebarColor:"#000000",
             navColor:"#151515",
             contentBackground:"#0f0f0f",
-            line:"#282828"
+            line:"#282828",
+            photoshop:"#474747"
         },
         light: {
             accent: "#4f51ee",
@@ -44,7 +45,8 @@ window.$docsify.plugins = [].concat((e, o) => {
             sidebarColor:"#fafafa",
             navColor:"#FFFFFF",
             contentBackground:"#FFFFFF",
-            line:"#eee"
+            line:"#eee",
+            photoshop:"#E0E0E0"
         },
     };
     if (o.config.hasOwnProperty("darklightTheme")) {

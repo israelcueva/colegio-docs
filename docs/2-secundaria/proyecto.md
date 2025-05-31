@@ -6,7 +6,7 @@ El proyecto, en general, consistirá en una serie de videos cortos de 1 minuto p
 
 ## 1. Grupos seleccionados
 
-Para decidir las escenas que representará cada grupo se hará un sorteo. Las escenas que entrarán a dicho sorteo son:
+Las escenas seleccionadas son:
 
 - CA01-GA: Mi cielo, mi cielo - Doña Chuchu
 - CA02-GL: La Batalla

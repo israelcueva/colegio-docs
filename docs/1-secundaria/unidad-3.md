@@ -27,3 +27,16 @@ El uso de pinceles en Photopea es fundamental para cualquier proceso de ilustrac
 Usando los pinceles en photopea crea una pintura del atardecer, imrpímelo y adjuntalo en tu folder.
 
 </div>
+
+## 2BS03: Uso diferentes técnicas de pintado digital
+
+> <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Abril<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver la final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=XOmE221YABU)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+La pintura digital en Photoshop es una técnica artística que permite crear ilustraciones y obras visuales utilizando herramientas digitales en lugar de medios tradicionales como el óleo o el lápiz. Gracias a sus pinceles personalizables, capas y opciones de mezcla, Photoshop ofrece a los artistas un entorno versátil para experimentar con texturas, colores y estilos de forma precisa y no destructiva. Esta forma de arte ha ganado popularidad tanto en el ámbito profesional como en el educativo, ya que combina creatividad con tecnología, facilitando la exploración visual sin las limitaciones físicas de los materiales convencionales.
+
+Para que nuestro ilustración quede lo mejor posible usaremos:
+
+- <span class="badge badge-photoshop"><i class="bi bi-layers"></i></span> El **Panel capas** nos permitirá separar y organizar los objetos que son parte de nuestro dibujo.
+- <span class="badge badge-photoshop"><i class="bi bi-brush"></i></span> La **Herramienta Pincel** nos permitirá hacer trazos en nuestro lienzo.
+- <span class="badge badge-photoshop"><i class="bi bi-brush"></i></span> El **Panel Pinceles** nos ayuda a cambiar el trazo del pincel para agregarle efectos variados.
+- <span class="badge badge-photoshop"><i class="bi bi-hand-index"></i></span> La **Herramienta Dedo** nos permite difuminar los trazos que realizamos de manera simple.
