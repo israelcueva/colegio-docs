@@ -12,25 +12,73 @@
   text-align: center;
   border-radius: 5px;
 }
+
 .badge-primary{
     background-color: var(--accent);
-    color: white !important;
+    color: white;
+    cursor: pointer;
 }
-.badge-primary i{
-    color: white !important;
+.badge-primary .icon{
+    color: white;
 }
+
+.badge-primary:hover{
+    background-color: #3132a7;
+    color: white;
+    cursor: pointer;
+}
+.badge-primary .icon:hover{
+    color: white;
+}
+
 
 .badge-photoshop{
     background-color: var(--photoshop);
+    cursor: pointer;
+}
+.badge-photoshop:hover{
+    background-color: var(--accent);
+    color: white;
+}
+.badge-photoshop .icon:hover{
+    background-color: var(--accent);
+    color: white;
 }
 
 .badge-outline{
     background-color: white;
     color: var(--accent);
     border: 1px solid var(--accent);
+    cursor: pointer;
 }
-.badge-outline i{
-    color: var(--accent) !important;
+.badge-outline .icon{
+    color: var(--accent);
+}
+.badge-outline:hover{
+    background-color: var(--accent);
+    color: white;
+    border: 1px solid var(--accent);
+}
+.badge-outline:hover .icon{
+    color: white !important;
+}
+
+.badge-outline-green{
+    background-color: white;
+    color: rgb(44, 230, 44);
+    border: 1px solid rgb(44, 230, 44);
+    cursor: pointer;
+}
+.badge-outline-green .icon{
+    color: rgb(44, 230, 44);
+}
+.badge-outline-green:hover{
+    background-color: rgb(44, 230, 44);
+    color: white;
+    border: 1px solid rgb(44, 230, 44);
+}
+.badge-outline-green:hover .icon{
+    color: white !important;
 }
 
 .badge-secondary{
@@ -38,7 +86,7 @@
     color: var(--blockQuoteColor);
 }
 
-.badge-secondary i{
+.badge-secondary .icon{
     color: var(--blockQuoteColor) !important;
 }
 

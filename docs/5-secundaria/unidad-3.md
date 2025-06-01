@@ -14,8 +14,6 @@ Haz un slideshow de la presentación de tu aula por el día de la Madre y envía
 
 [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EnZNAPB5PlxLlR53rpEMM8sBHFdruPhjW-6QA8iJew5zNg)
 
-<div class="currentTheme">
-
 ## 2BS02: Creo un slideshow con clips y música :id=vsdc-clips
 
 > <i class="bi bi-calendar"></i> **Fecha:** 26 al 30 de Mayo<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=h6OXLOHPC4o)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
@@ -24,8 +22,22 @@ El uso de música y emociones en la creación de un video es una herramienta pod
 
 ### Tarea
 
-Crea un clip sobre tu vida profesional o sobre tu promoción de educción secundaria usando la canción **Hymn for the Weekend** o parte de ella. Sube tu proyecto a través del enlace siguiente:
+Crea un clip sobre tu vida profesional o sobre tu promoción de educación secundaria usando la canción **Hymn for the Weekend** o parte de ella. Sube tu proyecto a través del enlace siguiente:
 
 [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EvOUSPVdDmJFk5Po7QoXtMkBkipFOtbyPsPTLClDcYAgsQ)
+
+<div class="currentTheme">
+
+## 2BS03: Entiendo el uso de efectos de video :id=vsdc-efectos-video
+
+> <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=Drv7U7dAxG8)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+VSDC Video Editor es un potente software de edición de vídeo no lineal que destaca por su amplio abanico de efectos de vídeo, los cuales permiten a los usuarios transformar y mejorar significativamente sus proyectos audiovisuales. Estos efectos abarcan desde correcciones fundamentales de color y ajustes de exposición, hasta filtros artísticos, efectos de transición dinámicos, transformaciones de objetos y la superposición de elementos especiales. Utilizar estas herramientas en VSDC no solo posibilita la corrección de imperfecciones en el metraje original, sino que también abre la puerta a la creatividad, permitiendo añadir un estilo visual distintivo, mejorar la narrativa, crear atmósferas específicas y, en general, elevar la calidad profesional y el impacto del producto final.
+
+### Tarea
+
+Mejora con efectos tu video de la semana 1 o la semana 2 y envíalo a través del enlace siguiente:
+
+[Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Et8L4_cFrLlHq5UcJICdUmkBLOLM58UhNZjzrJUegNCRRQ)
 
 </div>
