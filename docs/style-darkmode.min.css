@@ -40,7 +40,7 @@
     background-color: var(--accent);
     color: white;
 }
-.badge-photoshop .icon:hover{
+.badge-photoshop:hover .icon{
     background-color: var(--accent);
     color: white;
 }
