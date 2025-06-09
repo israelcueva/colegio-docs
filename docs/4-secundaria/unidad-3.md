@@ -162,3 +162,47 @@ this.text = parseInt(this.text)+1;
 Hazlo todo en una sola hoja y adjuntalo en el folder.
 
 </div>
+
+## 2BS04: Diseño la UI de mi videojuego :id=ctjs-ui
+
+> <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [ct.js](https://ctjs.rocks/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-files"></i> **Cheatsheet:** [Enlace](https://comigo.itch.io/ct-cheat-sheet)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing)
+
+En el desarrollo de videojuegos, una interfaz de usuario (UI) es todo lo que el jugador ve y con lo que interactúa fuera del mundo del juego en sí: menús, botones, barras de vida, textos, íconos y más. Una buena UI no solo mejora la experiencia del jugador, sino que también facilita el entendimiento y el control del juego.
+
+### Diseñando la interfaz de mi videojuego
+
+Para empezar debemos crear la UI.
+
+1. Creamos un <span class="badge badge-outline-green"><i class="bi bi-plus-lg icon"></i> New Asset</span> y escogemos <span class="badge badge-outline">Room</span> y le colocamos de nombre `principal-ui`.
+2. Agregamos el **puntaje**, la **barra de vida**, **corazones** que le queden y los **poderes** (en la parte inferior).
+3. Nos vamos a <span class="badge badge-outline"><i class="bi bi-gear icon"></i></span> y activamos la opción <span class="badge badge-outline"><i class="bi bi-check2-square icon"></i> Is This room a UI layer?</span>
+
+### Insertando la UI
+
+Un vez tenemos la UI lista, la añadimos al room principal.
+
+1. Abrimos el <span class="badge badge-outline">Room</span> que le pusimos de nombre `nivel_1` o similar.
+2. Le damos clic en el botón <span class="badge badge-outline">Events</span>
+3. Agregamos un nuevo evento desde <span class="badge badge-outline"><i class="bi bi-plus-lg icon"></i> Add an Event</span>
+4. Escogemos el evento <span class="badge badge-outline"><i class="bi bi-brightness-high icon"></i> Room Start</span> En este evento escribimos el código a continuación:
+
+```javascript
+rooms.append('Tu_room_ui', {
+    isUi: true
+});
+```
+
+Una vez que acabamos todos los pasos <span class="badge badge-primary"><i class="bi bi-play icon"></i> Launch</span> compila tu proyecto.
+
+## 2BS05: Práctica Calificada - Revisión de folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)
+
+Para tu práctica debes desarrollar un videojuego parecido a **Pacman**. Las características que debe tener son:
+
+- Movimientos: Arriba, Abajo, Izquierda, Derecha.
+- Puntaje: Bolita Verde +10, Bolita Negra -15.
+- Pantalla de Bienvenida al inicio con un botón de iniciar juego.
+- Pantalla final con la frase "Gracias por jugar".
+- Mecánica: El personaje debe de un lado a otro recogiendo las bolitas verdes, las bolitas negras deben aparecer de forma aleatoria. Una vez el puntaje llegue a 0 se debe cambiar al room final.
+

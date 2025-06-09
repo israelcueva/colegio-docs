@@ -44,3 +44,25 @@ Para que nuestro ilustración quede lo mejor posible usaremos:
 Realiza cualquiera de estas [dos ilustraciones](https://static.brusheezy.com/system/resources/previews/000/048/617/original/african-sunrise-landscape-wallpaper-and-brush-pack-photoshop-backgrounds.jpg) en Photoshop o Photopea. Imprime tu trabajo y adjúntalo en el folder.
 
 </div>
+
+## 2BS04: Añado sombras a mi ilustración :id=sombras-ilustracion
+
+> <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Abril<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/) / [Photoshop](https://mariareinista-my.sharepoint.com/:f:/g/personal/d12641_mrc_edu_pe/EiTBdB0-3URNi1KbPRDxRj0BRT_33s4KCNWwj-8OXWN0kQ?e=GQmLfY)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=zo_MEpqdm7M) / [Video 2](https://www.youtube.com/watch?v=g0KQ9gyJIro)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+El pintado digital en Photoshop es una técnica artística que permite crear ilustraciones desde cero utilizando herramientas digitales, como pinceles personalizados, capas y tabletas gráficas. A diferencia del dibujo tradicional, el pintado digital ofrece una mayor flexibilidad para corregir errores, experimentar con colores y texturas, y aplicar efectos visuales con gran precisión. Photoshop, al ser una de las plataformas más potentes para el arte digital, brinda a los artistas un entorno versátil donde pueden mezclar colores, trabajar con distintos modos de fusión y crear obras detalladas que van desde bocetos simples hasta pinturas complejas de nivel profesional.
+
+## 2BS05: Practica Calificada - Revisión de Folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/) / [Photoshop](https://mariareinista-my.sharepoint.com/:f:/g/personal/d12641_mrc_edu_pe/EiTBdB0-3URNi1KbPRDxRj0BRT_33s4KCNWwj-8OXWN0kQ?e=GQmLfY)<br>
+
+En Photopea o Photoshop haz una ilustración lo más realista posible de alguna de las siguientes opciones:
+
+- La noche estrellada de Vangogh.
+- Una naranja.
+- Una atardecer.
+
+Una vez termido imprime tu proyecto y adjuntalo en el folder y preséntalo en la hora de clase en la semana 6.
+
+
+
+

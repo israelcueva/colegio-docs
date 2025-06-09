@@ -29,3 +29,17 @@ La interpolación de movimiento y la interpolación de forma son dos técnicas f
 Realiza la animación del paso de la noche al día con interpolación de forma y movimiento.
 
 </div>
+
+## 2BS04: Creo una pequeña película animada :id=pelicula-animada
+
+> <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Abril<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=ANKoJI655mU)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+La creación de películas animadas en Adobe Flash (actualmente Adobe Animate) permite desarrollar animaciones interactivas mediante el uso de gráficos vectoriales, fotogramas clave y símbolos reutilizables. Esta herramienta ha sido ampliamente utilizada para producir desde cortos animados hasta juegos y contenido web gracias a su interfaz intuitiva y su capacidad para exportar en distintos formatos. En Flash, los animadores pueden combinar ilustración, movimiento y sonido para dar vida a personajes y escenas, utilizando técnicas como la animación cuadro por cuadro o las interpolaciones de movimiento. Su entorno de línea de tiempo facilita el control del ritmo narrativo, haciendo de Flash una plataforma ideal para proyectos educativos, creativos y profesionales.
+
+## 2BS05: Práctica Calificada :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Domingo 29 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br>
+
+Realiza la animación del transatlántico Titanic, exporta tu proyecto a video (MP4 o AVI) y envíalo a través del enlace siguiente:
+
+[Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EpvmlHUxI3JDiZCt76eYA_UBDhYD6DU58MC0XGpbmCg2zg)

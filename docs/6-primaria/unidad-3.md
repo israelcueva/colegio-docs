@@ -28,4 +28,14 @@ PowerPoint no solo es una herramienta para crear presentaciones, también permit
 
 > <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Power Point<br><i class="bi bi-calendar-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-play-btn"></i> **Videos:** [Tutorial](https://www.youtube.com/watch?v=rjsm0diLmgY)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
+El panel de animaciones en PowerPoint es una herramienta poderosa que permite controlar con precisión cómo y cuándo aparecen, se mueven o desaparecen los objetos en una diapositiva. A diferencia de aplicar una animación básica, el panel brinda una vista detallada de todas las animaciones presentes, su orden de aparición y sus características específicas.
+
 </div>
+
+## 2BS05: Práctica Calificada - Revisión de folder
+
+> <i class="bi bi-calendar"></i> **Fecha:** Domingo 29 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Power Point<br>
+
+Crea un video sobre la presentación de las actividades realizadas por el día del Padre o el día de la Madre en tu colegio. Guardar proyecto como **MP4**. **No se aceptarán trabajos en pptx**. Una vez lo guardes en **MP4**, presenta tu proyecto a través del siguiente enlace:
+
+[Subir proyecto MP4](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EpkCFY8eJd5Csh_vBgvJiKcBDwc9kUAiFKTg_hZlbyvJ_Q)

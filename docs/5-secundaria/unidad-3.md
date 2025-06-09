@@ -41,3 +41,22 @@ Mejora con efectos tu video de la semana 1 o la semana 2 y envíalo a través de
 [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Et8L4_cFrLlHq5UcJICdUmkBLOLM58UhNZjzrJUegNCRRQ)
 
 </div>
+
+## 2BS04: Uso el green screen para añadir efectos avanzados :id=vsdc-green-screen
+
+> <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=d7Bwj_Wgxvk)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+El uso del green screen en VSDC Video Editor permite a los usuarios reemplazar fácilmente el fondo de un video por cualquier imagen o escena digital, abriendo un mundo de posibilidades creativas. Esta técnica, conocida como croma o chroma key, es ideal para crear efectos especiales, simular locaciones distintas o simplemente añadir dinamismo a tus producciones. Gracias a las herramientas integradas en VSDC, aplicar esta técnica es accesible tanto para principiantes como para usuarios con experiencia, sin necesidad de equipos profesionales.
+
+## 2BS05: Práctica Calificada - Revisión de folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Domingo 29 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** VSDC Video Editor
+
+Para esta práctica debes realizar un slidehsow de fotos con las características siguientes:
+
+- Usa este [green screen slideshow](https://www.youtube.com/watch?v=RkvrITTBEUA).
+- Usa fotos o videos de una fiesta, viaje o acontecimiento importante.
+- Añade una música de fondo apropiado con el tema escogido.
+- Guarda tu proyecto en **MP4** y envíalo a través del enlace siguiente:
+
+[Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Enup10D65LFArKF6hP83I5kBMcnKK4D7AkZFlWR58I9Ilg)

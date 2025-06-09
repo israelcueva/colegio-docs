@@ -228,3 +228,23 @@ Bootstrap es un framework de desarrollo front-end de código abierto, inmensamen
 Ve a la documentación de Bootstrap y revisa las utilidades. En una hoja explica y describe el uso de cada uno. Ajuntar en folder.
 
 </div>
+
+## 2BS04: Entiendo los colores, botones y fondos de bootstrap :id=bootstrap-colors-buttons
+
+> <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=XXllX0A_9KQ)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+En Bootstrap, el uso de colores y botones es fundamental para diseñar interfaces web modernas, visualmente atractivas y funcionales. Este framework incluye una amplia paleta de colores predefinidos (como primary, success, danger, entre otros) que permiten aplicar estilos consistentes y profesionales con solo agregar clases específicas. Los botones, por su parte, se personalizan fácilmente mediante clases como .btn, .btn-primary, .btn-danger, etc., lo que facilita su adaptación a diferentes contextos de uso. Gracias a estas utilidades, los desarrolladores pueden crear botones llamativos, interactivos y accesibles sin necesidad de escribir mucho código CSS, acelerando el desarrollo y manteniendo una apariencia coherente en toda la página.
+
+## 2BS05: Práctica Calificada - Revisión de folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)
+
+Descarga el archivo de ejemplo de la semana 5, en la carpeta de Recursos. Agrega lo siguiente:
+
+1. Añade las clases de los iconos de Boostrap según corresponda.
+2. Agrega las miniaturas correspondientes, según la película, serie, etc. que hayas decidido colocar.
+3. Añade las tres lineas de códigos de enlace de Boostrap y sus iconos.
+4. Cambia el tema de oscuro a claro.
+
+Una vez terminado, guarda tu archivo y presentálo el día de clases. Puedes llevarlo en USB o enviarlo el profesor colocando tus apellidos en el nombre del archivo, por ejemplo: `PeriquitoDeLosPalotesPepito-3A-youtube.html`
+
