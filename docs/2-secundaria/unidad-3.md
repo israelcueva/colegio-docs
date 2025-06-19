@@ -16,7 +16,6 @@ Los fotogramas clave (keyframes) son momentos específicos dentro de la línea d
 
 La interpolación clásica es una técnica fundamental en la animación digital que permite crear movimientos fluidos de manera sencilla y eficiente. En lugar de dibujar cada fotograma manualmente, la interpolación genera automáticamente los cuadros intermedios entre dos posiciones clave (fotogramas clave), facilitando el proceso de animación. Esta herramienta es ideal para mover, escalar, rotar o cambiar la opacidad de un objeto a lo largo del tiempo, y es especialmente útil para principiantes que desean crear animaciones limpias sin complicarse con técnicas avanzadas. Al dominar la interpolación clásica, se pueden desarrollar animaciones consistentes y expresivas con un menor esfuerzo y mayor control.
 
-<div class="currentTheme">
 
 ## 2BS03: Aprendo a usar interpolación de movimiento y de forma :id=interpolacion-movimiento-forma
 
@@ -27,8 +26,6 @@ La interpolación de movimiento y la interpolación de forma son dos técnicas f
 ### Tarea
 
 Realiza la animación del paso de la noche al día con interpolación de forma y movimiento.
-
-</div>
 
 ## 2BS04: Creo una pequeña película animada :id=pelicula-animada
 

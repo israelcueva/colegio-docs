@@ -24,8 +24,6 @@ El uso de pinceles en Photopea es fundamental para cualquier proceso de ilustrac
 
 Usando los pinceles en photopea crea una pintura del atardecer, imrpímelo y adjuntalo en tu folder.
 
-<div class="currentTheme">
-
 ## 2BS03: Uso diferentes técnicas de pintado digital :id=photoshop-pintura-digital
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Abril<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=XOmE221YABU)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
@@ -43,8 +41,6 @@ Para que nuestro ilustración quede lo mejor posible usaremos:
 
 Realiza cualquiera de estas [dos ilustraciones](https://static.brusheezy.com/system/resources/previews/000/048/617/original/african-sunrise-landscape-wallpaper-and-brush-pack-photoshop-backgrounds.jpg) en Photoshop o Photopea. Imprime tu trabajo y adjúntalo en el folder.
 
-</div>
-
 ## 2BS04: Añado sombras a mi ilustración :id=sombras-ilustracion
 
 > <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Abril<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/) / [Photoshop](https://mariareinista-my.sharepoint.com/:f:/g/personal/d12641_mrc_edu_pe/EiTBdB0-3URNi1KbPRDxRj0BRT_33s4KCNWwj-8OXWN0kQ?e=GQmLfY)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=zo_MEpqdm7M) / [Video 2](https://www.youtube.com/watch?v=g0KQ9gyJIro)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
@@ -59,9 +55,9 @@ En Photopea o Photoshop haz una ilustración lo más realista posible de alguna 
 
 - La noche estrellada de Vangogh.
 - Una naranja.
-- Una atardecer.
+- Un atardecer.
 
-Una vez termido imprime tu proyecto y adjuntalo en el folder y preséntalo en la hora de clase en la semana 6.
+Una vez terminado, imprime tu proyecto, adjuntalo en el folder y preséntalo en la hora de clase en la semana 6.
 
 
 

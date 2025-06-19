@@ -22,15 +22,11 @@ El uso de imágenes en PowerPoint es una herramienta clave para enriquecer y ref
 
 PowerPoint no solo es una herramienta para crear presentaciones, también permite desarrollar videos dinámicos y personalizados de forma sencilla. Al combinar texto, imágenes, animaciones, transiciones y narraciones, los usuarios pueden transformar sus diapositivas en producciones audiovisuales ideales para explicar ideas, contar historias o presentar proyectos. Esta función es especialmente útil en contextos educativos y profesionales, ya que no se requiere software adicional para exportar el contenido como video. Así, PowerPoint se convierte en una alternativa accesible y potente para la creación de material multimedia.
 
-<div class="currentTheme">
-
 ## 2BS04: Diseño un vídeo sobre deportes de aventura :id=deportes-aventura
 
 > <i class="bi bi-calendar"></i> **Fecha:** 09 al 13 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** Microsoft Power Point<br><i class="bi bi-calendar-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-play-btn"></i> **Videos:** [Tutorial](https://www.youtube.com/watch?v=rjsm0diLmgY)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
 El panel de animaciones en PowerPoint es una herramienta poderosa que permite controlar con precisión cómo y cuándo aparecen, se mueven o desaparecen los objetos en una diapositiva. A diferencia de aplicar una animación básica, el panel brinda una vista detallada de todas las animaciones presentes, su orden de aparición y sus características específicas.
-
-</div>
 
 ## 2BS05: Práctica Calificada - Revisión de folder
 

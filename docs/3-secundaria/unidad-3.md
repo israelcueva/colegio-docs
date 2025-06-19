@@ -121,8 +121,6 @@ El sistema de rejilla (grid system) de Bootstrap es una de las herramientas más
 
 Completa el CV de ejemplo en HTML, tomale captura a la página web, imrpimelo y presentálo en folder.
 
-<div class="currentTheme">
-
 ## 2BS03: Hago uso de estilos básicos y utilidades :id=bootstrap-estilos-basicos
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=XXllX0A_9KQ)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
@@ -226,8 +224,6 @@ Bootstrap es un framework de desarrollo front-end de código abierto, inmensamen
 ### Tarea
 
 Ve a la documentación de Bootstrap y revisa las utilidades. En una hoja explica y describe el uso de cada uno. Ajuntar en folder.
-
-</div>
 
 ## 2BS04: Entiendo los colores, botones y fondos de bootstrap :id=bootstrap-colors-buttons
 

@@ -131,8 +131,6 @@ else{
 this.moveSmart('Suelo');
 ```
 
-<div class="currentTheme">
-
 ## 2BS03: Creo un sistema de puntajes para mi videojuego :id=ctjs-sistema-puntajes
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [ct.js](https://ctjs.rocks/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-files"></i> **Cheatsheet:** [Enlace](https://comigo.itch.io/ct-cheat-sheet)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing)
@@ -160,8 +158,6 @@ this.text = parseInt(this.text)+1;
 - Escribe y explica los tipos de <span class="badge badge-outline"><i class="bi bi-robot icon"></i> Templates</span> que podemos escoger.
 
 Hazlo todo en una sola hoja y adjuntalo en el folder.
-
-</div>
 
 ## 2BS04: Diseño la UI de mi videojuego :id=ctjs-ui
 

@@ -26,8 +26,6 @@ Crea un clip sobre tu vida profesional o sobre tu promoción de educación secun
 
 [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EvOUSPVdDmJFk5Po7QoXtMkBkipFOtbyPsPTLClDcYAgsQ)
 
-<div class="currentTheme">
-
 ## 2BS03: Entiendo el uso de efectos de video :id=vsdc-efectos-video
 
 > <i class="bi bi-calendar"></i> **Fecha:** 02 al 06 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=Drv7U7dAxG8)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
@@ -39,8 +37,6 @@ VSDC Video Editor es un potente software de edición de vídeo no lineal que des
 Mejora con efectos tu video de la semana 1 o la semana 2 y envíalo a través del enlace siguiente:
 
 [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Et8L4_cFrLlHq5UcJICdUmkBLOLM58UhNZjzrJUegNCRRQ)
-
-</div>
 
 ## 2BS04: Uso el green screen para añadir efectos avanzados :id=vsdc-green-screen
 
