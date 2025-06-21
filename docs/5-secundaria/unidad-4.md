@@ -12,7 +12,9 @@ La música de tipo stomp es un estilo rítmico y enérgico que se caracteriza po
 
 Usa este [audio](https://pixabay.com/music/introoutro-stomp-logo-143345/) de tipo stomp, haz un video motivacional. Envía tu proyecto a través del enlace siguiente:
 
-[Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Em9Div4FlSJAn7XmZGwSxnwBb96OrKNR9ryLvs7LFkTaJw)
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Em9Div4FlSJAn7XmZGwSxnwBb96OrKNR9ryLvs7LFkTaJw">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
+</a>
 
 </div>
 

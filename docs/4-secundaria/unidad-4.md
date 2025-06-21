@@ -10,6 +10,10 @@ LMMS (Linux MultiMedia Studio) es una estación de trabajo de audio digital (DAW
 
 ### Tarea
 
-Trata de replicar el beat de la cumbia en LMMS, imprime o dibuja el ritmo en tu folder.
+Trata de replicar el beat de la cumbia en LMMS, exporta a MP4 y sube tu archivo a través del enlace siguiente:
+
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Em6VxACq5BtIuvhIfci5ZEYBXJgwkPuiaUiC6IldPOKc_w">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
+</a>
 
 </div>

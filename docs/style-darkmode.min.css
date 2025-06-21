@@ -117,7 +117,50 @@
 }
 
 .docsify-pagination-container {
+    margin-top: 2rem;
     border-top: 2px solid var(--line) !important;
+}
+
+.work-present{
+       border: none;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--accent);
+  color: white !important;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  vertical-align: middle;
+  align-items: center;
+  border-radius: 0.5rem;
+  user-select: none;
+  gap: 0.75rem;
+  box-shadow:
+    0 4px 6px -1px #488aec31,
+    0 2px 4px -1px #488aec17;
+  transition: all 0.6s ease;
+}
+
+.work-present .icon {
+  color: white;
+  font-size: 1.2rem;
+  vertical-align: middle;
+  margin-right: .7rem;
+}
+
+.work-present:hover {
+  box-shadow:
+    0 10px 15px -3px #488aec4f,
+    0 4px 6px -2px #488aec17;
+    background-color: #3132a7;
+}
+
+.work-present:focus,
+.work-present:active {
+  opacity: 0.85;
+  box-shadow: none;
 }
 
 .markdown-section li{
@@ -550,8 +593,9 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section p.warn {
     background: rgba(79, 81, 238, 0.1);
-    border-radius: 2px;
+    border-radius: 10px;
     padding: 1rem;
+    margin-top: 3rem;
 }
 .markdown-section ul.task-list > li {
     list-style-type: none;

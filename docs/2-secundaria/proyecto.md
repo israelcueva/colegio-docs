@@ -20,6 +20,5 @@ La segunda parte del proyecto será la creación del guión técnico de la anima
 
 Puedes ayudarte haciendo una búsqueda en Google sobre guiones y escoge el que mejor te parezca.
 
-## 3. Escena introductoria
 
 

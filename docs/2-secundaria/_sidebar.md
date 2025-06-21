@@ -6,6 +6,7 @@
 - 2 Bimestre
 
   - [Unidad 3](2-secundaria/unidad-3.md)
+  - [<i class="bi bi-dot"></i> Unidad 4](2-secundaria/unidad-4.md)
 
 <!--
 - 2 Bimestre 

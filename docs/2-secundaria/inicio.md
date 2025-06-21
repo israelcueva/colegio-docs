@@ -7,7 +7,8 @@ Esta sección corresponde al segundo grado de educación secundaria. Los recurso
 El alumno deberá tener instalado en sus computadoras los programas siguientes para el desarrollo de las tareas en casa. La lista corresponde a los programas que se usarán en todo el año.
 
 - **Office**: A partir de la versión 2015 en adelante.
-- **Ilustrator**: Se puede usar directamente desde el navegador, creándose una cuenta en el sitio de [Scratch](https://scratch.mit.edu/). También se puede descargar desde el mismo sitio para su uso Offline.
+- **Photopea**/**Photoshop**: Un programa que usaremos para diseñar los elementos gráficos necesarios para nuestro libro. Photopea puede ser usado directamente desde el navegador.
+- **Ilustrator**: Programa de edición vectorial usado para generar imágenes vectoriales.
 
 ## 2. Anuncios
 
