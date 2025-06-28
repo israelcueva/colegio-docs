@@ -1,7 +1,5 @@
 # 6-Primaria - Unidad 4
 
-<div class="currentTheme">
-
 ## 2BS06: Creo el video de los días de la semana en Inglés :id=dias-de-la-semana
 
 > <i class="bi bi-calendar"></i> **Fecha:** 23 al 27 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://youtu.be/maDc5tURvAg) / [Video 2](https://www.youtube.com/watch?v=d7Bwj_Wgxvk)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
@@ -18,4 +16,24 @@ Replica el proyecto de clase en tu casa, expórtalo como **MP4** y envíalo a tr
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
 
+<div class="currentTheme">
+
+## 2BS07: Preparo video sobre el uso de mi tiempo libre :id=free-time-activities
+
+> <i class="bi bi-calendar"></i> **Fecha:** 30 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-play-btn"></i> **Videos:** [Tutorial](https://youtu.be/rf4YkCUtTso)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+VSDC Video Editor es una herramienta gratuita y poderosa para la edición de videos, ideal tanto para principiantes como para usuarios con experiencia. Una de sus funciones más prácticas es la creación de videos a partir de imágenes, lo cual permite transformar una simple colección de fotos en una presentación dinámica, atractiva y profesional. Con VSDC, puedes añadir transiciones suaves entre imágenes, insertar música de fondo, aplicar efectos visuales y superponer textos o logotipos fácilmente. Esta herramienta es perfecta para elaborar videos escolares, presentaciones familiares, portafolios visuales o contenido para redes sociales, todo sin necesidad de conocimientos avanzados en edición.
+
+### Tarea práctica
+
+Replica el proyecto de clase en tu casa, expórtalo como **MP4** y envíalo a través del enlace siguiente:
+
+<br>
+
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EnZWpNAmqiFBhBNGpd4VvO0B-6lKAntKhic2SzOZJ9tgcQ">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
+</a>
+
 </div>
+
+
