@@ -1,7 +1,5 @@
 # 2-Secundaria - Unidad 4
 
-<div class="currentTheme">
-
 ## 2BS06: Aprendo sobre los principios de animación :id=principios-animacion
 
 > <i class="bi bi-calendar"></i> **Fecha:** 23 al 27 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=aMZIkbc5phs)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
@@ -11,5 +9,17 @@ Los principios de la animación son un conjunto de técnicas fundamentales desar
 ### Tarea
 
 Escoge tres principios de animación y realiza una animación de cada uno.
+
+<div class="currentTheme">
+
+## 2BS07: Genero un rigging sencillo usando la linea de tiempo :id=rigging
+
+> <i class="bi bi-calendar"></i> **Fecha:** 30 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=oVQ6k7iTDPk)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+El rigging es una técnica fundamental en la animación digital que consiste en la creación de un sistema de huesos o esqueleto para un modelo 3D, permitiendo que este pueda moverse y deformarse de manera controlada. Este proceso es esencial para dar vida a personajes, ya que facilita la animación de movimientos complejos como caminar, hablar o gesticular. A través del rigging, los animadores pueden manipular un personaje mediante controles intuitivos sin alterar directamente su geometría, lo que optimiza tanto la precisión como la eficiencia en la producción de animaciones.
+
+### Tarea
+
+Realiza la animación del caminar de una llama. 
 
 </div>
