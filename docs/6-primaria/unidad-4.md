@@ -16,8 +16,6 @@ Replica el proyecto de clase en tu casa, expórtalo como **MP4** y envíalo a tr
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
 
-<div class="currentTheme">
-
 ## 2BS07: Preparo video sobre el uso de mi tiempo libre :id=free-time-activities
 
 > <i class="bi bi-calendar"></i> **Fecha:** 30 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Completa la hoja de aplicación<br><i class="bi bi-play-btn"></i> **Videos:** [Tutorial](https://youtu.be/rf4YkCUtTso)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
@@ -33,6 +31,14 @@ Replica el proyecto de clase en tu casa, expórtalo como **MP4** y envíalo a tr
 <a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EnZWpNAmqiFBhBNGpd4VvO0B-6lKAntKhic2SzOZJ9tgcQ">
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
+
+<div class="currentTheme">
+
+## 2BS08: Presento la película “The Professions” :id=vsdc-the-professions
+
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Tutorial](https://youtu.be/rf4YkCUtTso)<br> <i class="bi bi-briefcase"></i> **Recursos:** [Drive](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+El uso de efectos en VSDC Video Editor es una de las funciones más potentes para transformar videos simples en producciones visualmente impactantes. Con una amplia gama de efectos visuales y de audio —como corrección de color, desenfoques, transiciones, glitches, filtros estilizados y más—, este editor permite aplicar mejoras creativas y profesionales con gran precisión. Los efectos pueden combinarse, personalizarse mediante fotogramas clave y aplicarse a clips específicos o a todo el proyecto, brindando al usuario un control total sobre la estética y el estilo final del video.
 
 </div>
 

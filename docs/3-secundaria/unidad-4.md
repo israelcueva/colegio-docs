@@ -10,9 +10,6 @@ Las tarjetas de Bootstrap (Bootstrap Cards) son componentes versátiles y estili
 
 En una hoja coloca el código básico de una tarjeta y explica cada etiqueta, así como sus clases. Presentar en folder.
 
-
-<div class="currentTheme">
-
 ## 2BS07: Diseño una barra da navegación usando estilos predefinidos :id=bootstrap-menubar
 
 > <i class="bi bi-calendar"></i> **Fecha:** 29 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=TbaQ42y8moc)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
@@ -22,5 +19,17 @@ Bootstrap facilita la creación de menús de navegación modernos, responsivos y
 ### Tarea
 
 Escoge un menú lateral de esta [página](https://getbootstrap.com/docs/5.3/examples/sidebars/) y haz un mapa conceptual sobre los items y clases que lo componen.
+
+<div class="currentTheme">
+
+## 2BS08: Entiendo los componentes: Formularios :id=bootstrap-formularios
+
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=jGcMtvTYsGg)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+El diseño de formularios usando Bootstrap permite crear interfaces limpias, modernas y totalmente adaptables a diferentes dispositivos con facilidad. Gracias a su sistema de clases prediseñadas, es posible estructurar formularios de manera ordenada, con campos alineados, botones estilizados y mensajes de validación integrados. Bootstrap ofrece soporte para distintos tipos de inputs, selección de opciones, casillas de verificación, y más, todo con un diseño coherente y profesional. Además, su enfoque responsivo asegura que el formulario se vea bien tanto en computadoras como en móviles, optimizando la experiencia del usuario sin necesidad de escribir mucho código desde cero.
+
+### Tarea
+
+Escribe, ilustra y describe los diferentes tipos de inputs para usar en un formulario.
 
 </div>

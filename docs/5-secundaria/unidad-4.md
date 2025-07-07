@@ -1,7 +1,5 @@
 # 5-Secundaria - Unidad 4
 
-<div class="currentTheme">
-
 ## 2BS06: Haciendo uso del tipo de audio Stomp :id=vsdc-stomp-music
 
 > <i class="bi bi-calendar"></i> **Fecha:** 23 al 27 de Junio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=h6OXLOHPC4o)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
@@ -16,5 +14,18 @@ Usa este [audio](https://pixabay.com/music/introoutro-stomp-logo-143345/) de tip
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
 
-</div>
+## 2BS07: Agrego texto y hago uso de efectos para hacerlo llamativo :id=vsdc-textos
 
+> <i class="bi bi-calendar"></i> **Fecha:** 30 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=ZONo-w0SUoI)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+Las animaciones en VSDC Video Editor permiten dar vida a tus proyectos visuales mediante el movimiento de objetos, textos, imágenes y efectos dentro de la línea de tiempo. Con esta herramienta, puedes crear transiciones dinámicas, efectos visuales personalizados y recorridos animados que enriquecen la narrativa de tus videos. Gracias a su sistema de fotogramas clave (keyframes), VSDC ofrece un control preciso sobre cada aspecto del movimiento, lo que permite diseñar animaciones tanto simples como complejas de manera profesional y sin necesidad de conocimientos avanzados en edición.
+
+<div class="currentTheme">
+
+## 2BS08: Hago uso de efectos avanzados con keyframes :id=vsdc-keyframes
+
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:**<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing) / [Keyframes](https://www.videosoftdev.com/video-keyframes)
+
+El uso del Bezier en VSDC Video Editor permite crear animaciones con trayectorias suaves y personalizadas, ideal para dar un movimiento más natural y fluido a objetos, textos o imágenes dentro del video. Esta herramienta se basa en curvas de Bézier, que ofrecen un control preciso sobre el recorrido que seguirá un elemento animado, permitiendo ajustar manualmente cada punto de la curva para definir la velocidad, dirección y forma del movimiento. Gracias a esta funcionalidad, es posible lograr efectos visuales más profesionales y atractivos, mejorando significativamente la calidad y el dinamismo de cualquier proyecto audiovisual.
+
+</div>

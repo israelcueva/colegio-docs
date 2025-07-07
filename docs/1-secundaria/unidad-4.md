@@ -10,10 +10,26 @@ En los programas de diseño, la herramienta Pluma (también conocida como "Pen T
 
 Práctica el Bézier game que en clase se te tomará una práctica.
 
-<div class="currentTheme">
-
 ## 2BS07: Añado texturas a mi ilustración usando mascaras de capa :id=Texturas-ilustracion
 
 > <i class="bi bi-calendar"></i> **Fecha:** 30 de Junio al 04 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=hIZo8SYhMto)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing) / [Bezier Game](https://bezier.method.ac/)
+
+El uso de formas en Photoshop es una herramienta esencial para diseñadores y creativos que buscan agregar elementos gráficos precisos y versátiles a sus composiciones. A través del panel de formas, es posible crear desde figuras geométricas básicas como rectángulos, círculos o líneas, hasta siluetas personalizadas y complejas. Estas formas pueden usarse como marcos, botones, íconos, patrones decorativos o elementos estructurales dentro de un diseño. Además, al ser vectores, permiten escalado sin pérdida de calidad, facilitando la edición y adaptación en distintos tamaños y formatos. Dominar su uso abre las puertas a un diseño más limpio, organizado y profesional.
+
+### Tarea
+
+Replica el proyecto de clase, imprímelo y adjúntalo en tu folder.
+
+<div class="currentTheme">
+
+## 2BS08: Comprendo el uso de mascaras de recorte :id=photoshop-mascaras-recorte
+
+> <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Photopea](https://www.photopea.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=MFneSEiq0Ew)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing) / [Bezier Game](https://bezier.method.ac/)
+
+Las máscaras de capa en Photoshop son una de las herramientas más poderosas y versátiles para la edición no destructiva. Permiten ocultar o revelar partes específicas de una capa sin eliminar permanentemente ningún contenido, lo que brinda un control total sobre la composición visual. Usando pinceles, degradados u otras herramientas, se puede trabajar con precisión sobre la máscara para ajustar detalles, fusionar imágenes, crear efectos de transparencia o lograr transiciones suaves entre elementos. Al comprender su funcionamiento, los diseñadores y editores ganan libertad creativa y mayor flexibilidad para experimentar sin miedo a perder el trabajo original.
+
+### Tarea
+
+Replica el proyecto de clase, imprímelo y adjúntalo en tu folder.
 
 </div>
