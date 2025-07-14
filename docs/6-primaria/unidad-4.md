@@ -49,4 +49,22 @@ El uso de efectos en VSDC Video Editor permite transformar videos sencillos en p
 
 </div>
 
+## 2BS10: Práctica Calificada - Revisión de folder id:vsdc-practica-calificada
 
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 10 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [VSDC Editor](https://www.videosoftdev.com/)<br>
+
+Crea un vídeo karaoke de la canción que más te guste en Inglés.
+
+- Título (En inglés) y nombre del autor al inicio.
+- Canción escogida de fondo.
+- Letra de la canción (Inglés) y español (Opcional).
+- Uso de imágenes/videos.
+- Use de efectos.
+
+Una vez finalizado tu video, exporalo a MP4 y súbelo a través del enlace siguiente:
+
+<br>
+
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EnpUU_ynRj1Jm_P8sPs4Yb0BkKiw7gv5X3Ti77K15aPYVg">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
+</a>

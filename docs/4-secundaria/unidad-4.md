@@ -28,8 +28,6 @@ Busca la partitura de "Sound of the silence" y genera la melodía. Expórtalo a 
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
 
-<div class="currentTheme">
-
 ## 2BS08: Añado acompañamiento a mi melodia :id=lmms-acompanamiento
 
 > <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Lmms](https://lmms.io/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=JLpELpY1r0s)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [Beats](https://wambox.net/beats-rhythms/)
@@ -44,4 +42,29 @@ Replica el proyecto dejado en clase.
 <i class="bi bi-file-earmark-plus icon"></i> Presentar trabajo 
 </a>
 
+<div class="currentTheme">
+
+## 2BS08: Exporto mi proyecto de audio. :id=lmms-exportar-audio
+
+> <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Lmms](https://lmms.io/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=pZA11h8YQPk)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [Beats](https://wambox.net/beats-rhythms/)
+
+La creación de música con LMMS (Linux MultiMedia Studio) ofrece una poderosa y accesible plataforma para productores musicales de todos los niveles. Este software libre y de código abierto permite componer, editar y mezclar pistas musicales utilizando una amplia variedad de instrumentos virtuales, sintetizadores y efectos. Con una interfaz intuitiva y herramientas versátiles, LMMS facilita la creación de composiciones complejas sin necesidad de costosos equipos de estudio. Ideal tanto para principiantes como para usuarios avanzados, LMMS se ha convertido en una opción popular para explorar la producción musical digital desde cualquier sistema operativo.
+
 </div>
+
+## 2BS05: Práctica Calificada - Revisión de folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [Lmms](https://lmms.io/)
+
+Escoge una de las siguientes melOdias para hacerlo en LMMS. 
+
+- Cariñito - Los hijos del sol.
+- Como haz hecho - Gaitan Castro.
+- Padre Nuestro.
+- Cerca de ti señor.
+
+Una vez terminado, guarda tu proyecto y exportalo a MP3. Subes ambos archivos por el siguiente enlace:
+
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/Es4rxs9x8LhOv6N_Ho2J3oUBPn9j5eHcjGxq8ETB5lBJAQ">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar práctica
+</a>

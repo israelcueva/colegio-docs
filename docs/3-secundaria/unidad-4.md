@@ -20,8 +20,6 @@ Bootstrap facilita la creación de menús de navegación modernos, responsivos y
 
 Escoge un menú lateral de esta [página](https://getbootstrap.com/docs/5.3/examples/sidebars/) y haz un mapa conceptual sobre los items y clases que lo componen.
 
-<div class="currentTheme">
-
 ## 2BS08: Entiendo los componentes: Formularios :id=bootstrap-formularios
 
 > <i class="bi bi-calendar"></i> **Fecha:** 07 al 11 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Ver al final<br><i class="bi bi-play-btn"></i> **Videos:** [Video 1](https://www.youtube.com/watch?v=jGcMtvTYsGg)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
@@ -32,4 +30,26 @@ El diseño de formularios usando Bootstrap permite crear interfaces limpias, mod
 
 Escribe, ilustra y describe los diferentes tipos de inputs para usar en un formulario.
 
+
+<div class="currentTheme">
+
+## 2BS09: Completo mi landing page sencilla, usando IA. :id=bootstrap-ia
+
+> <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Copilot](https://www.youtube.com/watch?v=J0Olyrk9si0) / [Windsurf](https://www.youtube.com/watch?v=kGIpqa8YEZY) / [Claude](https://www.youtube.com/watch?v=vpcesejnOIU) / <br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+En la era digital actual, captar la atención del usuario en los primeros segundos es crucial. Las landing pages o páginas de aterrizaje juegan un papel fundamental en la conversión de visitantes en clientes, suscriptores o leads. Tradicionalmente, su diseño y desarrollo requería tiempo, conocimientos técnicos y recursos de marketing. Sin embargo, con el avance de la inteligencia artificial (IA), este proceso se ha transformado radicalmente.
+
+Hoy en día, la IA permite crear landing pages de manera rápida, eficiente y personalizada. Mediante algoritmos de aprendizaje automático, procesamiento del lenguaje natural y análisis de datos, estas herramientas pueden generar textos optimizados, elegir diseños atractivos, sugerir imágenes relevantes y adaptar el contenido al público objetivo en cuestión de minutos.
+
+El uso de IA no solo acelera el desarrollo, sino que también mejora el rendimiento de las páginas, al basarse en datos reales para optimizar la experiencia del usuario. Desde emprendedores hasta grandes empresas, cada vez más personas están adoptando estas soluciones para aumentar su presencia en línea y maximizar sus resultados.
+
+En este contexto, explorar cómo la inteligencia artificial puede ayudarte a crear landing pages efectivas es más que una opción tecnológica: es una ventaja competitiva.
+
 </div>
+
+## 2BS10: Práctica Calificada - Revisión de folder :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 6 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [Visual Studio Code](https://code.visualstudio.com/)
+
+Crea una landing page por fiestas patrias usando IA y haz un mapa conceptual sobre su estructura. Imprime dicho proyecto y preséntalo en foler las clases de la semana 6.
+

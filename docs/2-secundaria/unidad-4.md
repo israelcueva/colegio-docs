@@ -29,3 +29,19 @@ Realiza la animación del caminar de una llama.
 Las líneas de acción en animación son trazos imaginarios que recorren el cuerpo de un personaje y definen la dirección principal de su movimiento o postura. Son fundamentales para transmitir energía, dinamismo y claridad en las poses, haciendo que las acciones se vean más fluidas y expresivas. Una buena línea de acción puede convertir una pose estática en una llena de vida, y ayuda a reforzar la intención emocional o física de una escena. Animadores profesionales las utilizan desde las primeras etapas del bocetado para asegurar que cada cuadro tenga fuerza visual y coherencia narrativa.
 
 </div>
+
+## 2BS09: Uso la técnica de rotoscopia para simplificar mi proceso de animación :id=flash-rotoscopia
+
+> <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=rij9yCe58ac)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+La rotoscopia es una técnica de animación que consiste en trazar manualmente fotogramas de una grabación en video para crear una representación animada fiel al movimiento real. Utilizada desde principios del siglo XX, esta técnica ha sido fundamental tanto en la industria cinematográfica como en la animación, permitiendo capturar expresiones humanas y gestos con gran realismo. Aunque tradicionalmente se realizaba de forma manual, en la actualidad se combina con herramientas digitales, ampliando sus posibilidades creativas. Su uso se extiende desde películas animadas hasta efectos visuales en producciones de acción real, aportando una estética única y detallada.
+
+## 2BS10: Práctica Calificada :id=practica-calificada
+
+> <i class="bi bi-calendar"></i> **Fecha:** Semana 10 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** Adobe Flash / Adobe Animate <br>
+
+Usa la ténica de la Rotoscopia para animar un clip viral de Youtube, tiktok, etc. Una vez terminado esporta el video a MP4 o AVI y preséntalo a tráves del enlace siguiente:
+
+<a class="work-present" href="https://mariareinista-my.sharepoint.com/:f:/g/personal/admin_mrc_edu_pe/EjnA_CuGlGdHvWo9f18gsmIBL0Yh4Aw8zcpu5jWuBzq1BQ">
+<i class="bi bi-file-earmark-plus icon"></i> Presentar práctica 
+</a>
