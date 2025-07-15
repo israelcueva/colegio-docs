@@ -44,7 +44,7 @@ Replica el proyecto dejado en clase.
 
 <div class="currentTheme">
 
-## 2BS08: Exporto mi proyecto de audio. :id=lmms-exportar-audio
+## 2BS09: Exporto mi proyecto de audio. :id=lmms-exportar-audio
 
 > <i class="bi bi-calendar"></i> **Fecha:** 14 al 18 de Julio<br><i class="bi bi-window-desktop"></i> **Programa:** [Lmms](https://lmms.io/)<br><i class="bi bi-calendar-check"></i> **Tarea:** Sin tarea<br><i class="bi bi-play-btn"></i> **Videos:** [Video](https://www.youtube.com/watch?v=pZA11h8YQPk)<br><i class="bi bi-briefcase"></i> **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [Beats](https://wambox.net/beats-rhythms/)
 
@@ -52,7 +52,7 @@ La creación de música con LMMS (Linux MultiMedia Studio) ofrece una poderosa y
 
 </div>
 
-## 2BS05: Práctica Calificada - Revisión de folder :id=practica-calificada
+## 2BS10: Práctica Calificada - Revisión de folder :id=practica-calificada
 
 > <i class="bi bi-calendar"></i> **Fecha:** Semana 6 en hora de clase<br><i class="bi bi-window-desktop"></i> **Programa:** [Lmms](https://lmms.io/)
 
